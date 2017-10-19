@@ -1,0 +1,6 @@
+build_image:
+  stage: deploy
+  script:
+    - jekyll build --destination /var/www/staticsites/codeforheilbronn-de 
+  tags:
+    - shell
