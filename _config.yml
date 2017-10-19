@@ -1,0 +1,13 @@
+sass:
+    sass_dir: styles
+  
+collections:
+  uploads:
+    title: Uploads
+    output: true
+  posts:
+    title: Posts
+    output: true
+  projects:
+    title: Projekte
+    output: true
