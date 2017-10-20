@@ -10,6 +10,7 @@
         height: 450px;
         background: rgb(255,255,255);
         box-shadow: rgb(200, 200, 200) 0px 0px 10px;
+        border-radius: 10px;
 
         .cfh-project-card-image {
             background: #3f51b5;
@@ -17,6 +18,8 @@
             background-position: center;
             width: 100%;
             height: 200px;
+            border-top-left-radius: 10px;
+            border-top-right-radius: 10px;
         }
 
         .cfh-project-card-content {
