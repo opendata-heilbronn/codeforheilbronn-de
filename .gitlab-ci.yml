@@ -4,3 +4,5 @@ build_image:
     - jekyll build --destination /var/www/staticsites/codeforheilbronn-de 
   tags:
     - shell
+  only:
+    - master
