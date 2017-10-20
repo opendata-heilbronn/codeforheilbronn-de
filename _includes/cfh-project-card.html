@@ -1,10 +1,15 @@
 <div class="cfh-project-card">
         <div class="cfh-project-card-image" style="background-image: url({{ include.project.image }});"></div>
 
+        {% if include.project.badge %}
+        <div class="cfh-project-card-badge" style="background-image: url({{ include.project.badge }})"></div>
+        {% endif %}
+        
         <div class="cfh-project-card-content">
             <h3>{{ include.project.name }}</h3>
             <p>{{ include.project.teaser }}</p>
         </div>
+
 
         <div class="cfh-project-card-footer">
             <a href="{{ include.project.url }}">Details zum Projekt</a>
