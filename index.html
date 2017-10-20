@@ -2,29 +2,13 @@
 layout: page
 ---
 
+{% include navigation.html %}
 
 <div class="cfh-banner"></div>
 
 <div class="cfh-section">
     <h2>Projekte</h2>
 
-    <div class="cfh-project-cards">
-
-        {% for project in site.projects %}
-        <div class="cfh-project-card">
-            <div class="cfh-project-card-image" style="background-image: url(uploads/23fc8cf1-b3a6-428e-bd5c-f184e9b7c129.png);"></div>
-
-            <div class="cfh-project-card-content">
-                <h3>{{ project.name }}</h3>
-                <p>{{ project.teaser }}</p>
-            </div>
-
-            <div class="cfh-project-card-footer">
-                <a href="{{ project.url }}">Details zum Projekt</a>
-            </div>
-        </div>
-        {% endfor %}
-
-    </div>
+    {% include cfh-project-cards.html %}
 
 </div>
