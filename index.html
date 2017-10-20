@@ -7,15 +7,16 @@ layout: page-banner
 
 {% include navigation.html %}
 
-<div class="cfh-section">
-    <h2>Projekte</h2>
-
-    <div class="cfh-project-cards">
+<div class="content-container">
     
-    {% for project in site.projects %}
-        {% include cfh-project-card.html project=project %}
-    {% endfor %}
+    <div class="cfh-section">
+        <h2>Projekte</h2>
 
-</div>
+        <div class="cfh-project-cards">
+            {% for project in site.projects %}
+                {% include cfh-project-card.html project=project %}
+            {% endfor %}
+        </div>
 
+    </div>
 </div>
