@@ -1,4 +1,4 @@
-build_image:
+deploy_prod:
   stage: deploy
   script:
     - jekyll build --destination /var/www/staticsites/codeforheilbronn-de 
@@ -6,3 +6,10 @@ build_image:
     - shell
   only:
     - master
+
+deploy_test:
+  stage: deploy
+  script:
+    - jekyll build --destination /var/www/staticsites/test-codeforheilbronn-de 
+  tags:
+    - shell

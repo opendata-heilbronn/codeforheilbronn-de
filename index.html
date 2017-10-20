@@ -9,6 +9,12 @@ layout: page
 <div class="cfh-section">
     <h2>Projekte</h2>
 
-    {% include cfh-project-cards.html %}
+    <div class="cfh-project-cards">
+    
+    {% for project in site.projects %}
+        {% include cfh-project-card project=project %}
+    {% endfor %}
+
+</div>
 
 </div>
