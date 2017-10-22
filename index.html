@@ -13,10 +13,16 @@ layout: page-banner
         <h2>Projekte</h2>
 
         <div class="cfh-project-cards">
-            {% for project in site.projects %}
+            {% for project in site.projects limit: 3 %}
                 {% include cfh-project-card.html project=project %}
             {% endfor %}
         </div>
 
+    </div>
+
+    <div class="cfh-all-badges">
+        {% for badge in site.badges %}
+            <img src="{{badge.image}}" />
+        {% endfor %}
     </div>
 </div>

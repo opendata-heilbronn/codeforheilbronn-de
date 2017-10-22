@@ -3,6 +3,12 @@
 - title: Home
   url: /
 
+- title: Projekte
+  url: /projects.html
+
+- title: Badges
+  url: /badges.html
+
 - title: Group of Things
   url: /group/
   sublinks:

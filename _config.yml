@@ -15,3 +15,6 @@ collections:
   projects:
     title: Projekte
     output: true
+  badges:
+    title: Badges
+    output: true
