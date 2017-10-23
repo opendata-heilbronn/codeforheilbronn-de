@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<div class="cfh-badge-list">
+<div class="cfh-badge-list" style="margin-top: 100px;">
     {% for badge in site.badges %}
         <img class="cfh-badge-img" src="{{badge.image}}" onclick="window.location.href = '{{ badge.url }}'" />
     {% endfor %}
@@ -25,6 +25,12 @@ layout: page
     var row = 0;
 
     for (var i = 0; i < badges.length; i++) {
+
+        if ((row * width) + width > container.offsetWidth || (col % 2 == 1 && row * width > container.offsetWidth - width)) {
+            col++;
+            row = 0;
+        }
+
         var element = badges[i];
         var top = col * height;
         var left = row * width;
@@ -36,12 +42,8 @@ layout: page
         element.style.left = left;
         element.style.top = top;
 
-        row++;
 
-        if (row * width > container.offsetWidth || (col % 2 == 1 && row * width > container.offsetWidth - width)) {
-            col++;
-            row = 0;
-        }
+        row++;
     }
 
 })();
