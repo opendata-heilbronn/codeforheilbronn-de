@@ -1,8 +1,19 @@
 
 
 .cfh-badge-list {
+    position: relative;
+
     img {
-        max-width: 150px;
-        max-height: 150px;
+        width: 181px;
+        height: 209px;
+        position: absolute;
+        cursor: pointer;
     }
 }
+
+ .cfh-badgelist-small {
+     img {
+        width: 81px;
+        height: 95px;
+    }
+ }
