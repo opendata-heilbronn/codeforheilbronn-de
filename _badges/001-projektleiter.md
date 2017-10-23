@@ -9,7 +9,7 @@ published: true
 
 ## Voraussetzungen
 
-Dieses Badge wird für den erfolgreichen Abschluss eines Projektes verliehen.
+Dieser Badge wird für den erfolgreichen Abschluss eines Projektes verliehen.
 
 * Ein abgeschlossenes Projekt
 * Das Projekt muss dokumentiert sein

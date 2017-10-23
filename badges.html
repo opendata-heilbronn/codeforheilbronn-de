@@ -2,7 +2,25 @@
 layout: page
 ---
 
-<div class="cfh-badge-list" style="margin-top: 100px;">
+
+<div class="cfh-badge-list" style="margin-top: 50px;">
+    <h2>CFH-Badges</h2>
+
+    <p style="text-align: justify;">
+        Die Badges werden an alle Mitglieder von code for heilbronn ausgegeben. 
+        An einen Badge sind immer einige Anforderungen gekoppelt.
+
+        An den Badges kann jeder sehen, wen er zu einem bestimmten Thema fragen kann.
+        Außerdem sind sie Anerkennung für übernommene Aufgaben.
+    </p>
+
+    <p>
+        Auf der Seite des Badges sind alle Personen aufgelistet, die den Badge bereits erworben haben.
+    </p>
+
+</div>
+
+<div class="cfh-badge-list" style="margin-top: 20px;">
     {% for badge in site.badges %}
         <img class="cfh-badge-img" src="{{badge.image}}" onclick="window.location.href = '{{ badge.url }}'" />
     {% endfor %}
