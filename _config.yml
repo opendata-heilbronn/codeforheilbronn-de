@@ -18,3 +18,6 @@ collections:
   badges:
     title: Badges
     output: true
+  events:
+    title: Events
+    output: true
