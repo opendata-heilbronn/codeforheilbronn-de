@@ -16,13 +16,16 @@ layout: page
 
     <p>
         Auf der Seite des Badges sind alle Personen aufgelistet, die den Badge bereits erworben haben.
+        Grundsätzlich kann jeder nur einen neuen Badge pro Monat erhalten.
     </p>
 
 </div>
 
 <div class="cfh-badge-list" style="margin-top: 20px;">
     {% for badge in site.badges %}
-        <img class="cfh-badge-img" src="{{badge.image}}" onclick="window.location.href = '{{ badge.url }}'" />
+        <a href="{{ badge.url }}">
+            <img class="cfh-badge-img" src="{{badge.image}}" />
+        </a>
     {% endfor %}
 </div>
 
