@@ -1,7 +1,6 @@
 
 stages:
   - test
-  - build
   - deploy
 
 test:
@@ -17,5 +16,17 @@ deploy_test:
   environment:
     name: test
     url: http://test.codeforheilbronn.de
+  only:
+    - master
+
+deploy_test:
+  stage: deploy
+  script:
+    - jekyll build /var/www/staticsites/test-codeforheilbronn-de
+  tags:
+    - shell
+  environment:
+    name: Production
+    url: http://codeforheilbronn.de
   only:
     - master
