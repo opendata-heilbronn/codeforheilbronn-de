@@ -2,7 +2,7 @@
 layout: badge
 name: Projektleiter
 tags: [aufgaben]
-image: /uploads/badge-001-projektleiter.png
+image: /uploads/badge-001-projektleiter.svg
 color: rgb(255, 152, 0);
 published: true
 ---

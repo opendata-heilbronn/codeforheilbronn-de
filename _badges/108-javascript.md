@@ -2,7 +2,7 @@
 layout: badge
 name: JaaScript
 tags: [aufgaben]
-image: /uploads/badge-108-javascript.png
+image: /uploads/badge-108-javascript.svg
 color: rgb(251, 216, 60);
 published: true
 ---

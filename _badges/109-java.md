@@ -2,7 +2,7 @@
 layout: badge
 name: Projektleiter
 tags: [aufgaben]
-image: /uploads/badge-109-java.png
+image: /uploads/badge-109-java.svg
 color: rgb(0, 0, 0);
 published: true
 ---
