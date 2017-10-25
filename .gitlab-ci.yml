@@ -14,12 +14,12 @@ deploy_test:
   tags:
     - shell
   environment:
-    name: test
+    name: Test
     url: http://test.codeforheilbronn.de
   only:
     - master
 
-deploy_test:
+deploy_production:
   stage: deploy
   script:
     - jekyll build /var/www/staticsites/test-codeforheilbronn-de
