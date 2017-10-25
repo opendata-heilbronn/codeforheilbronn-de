@@ -8,15 +8,10 @@ test:
   stage: test
   script: echo "no tests needed for a jekyll app"
 
-build:
-  stage: build
-  script:
-    - jekyll build 
-  
 deploy_test:
   stage: deploy
   script:
-    - cp _site /var/www/staticsites/test-codeforheilbronn-de
+    - jekyll build /var/www/staticsites/test-codeforheilbronn-de
   tags:
     - shell
   environment:
