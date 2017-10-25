@@ -21,12 +21,14 @@ layout: page-banner
     </div>
 
     <div class="cfh-badge-list cfh-badgelist-small">
-    {% for badge in site.badges %}
-        <a href="{{ badge.url }}"> 
-            <img class="cfh-badge-img" src="{{badge.image}}" /> 
-        </a> 
-    {% endfor %}
-</div>
+        {% for badge in site.badges %}
+            <a href="{{ badge.url }}"> 
+                <img class="cfh-badge-img" src="{{badge.image}}" /> 
+            </a> 
+        {% endfor %}
+    </div>
+
+    <!-- hidden dreck -->
 </div>
 
 
