@@ -1,0 +1,72 @@
+---
+layout: page
+---
+
+
+<div class="cfh-badge-list" style="margin-top: 50px;">
+    <h2>CFH-Badges</h2>
+
+    <p style="text-align: justify;">
+        Die Badges werden an alle Mitglieder von code for heilbronn ausgegeben. 
+        An einen Badge sind immer einige Anforderungen gekoppelt.
+
+        An den Badges kann jeder sehen, wen er zu einem bestimmten Thema fragen kann.
+        Außerdem sind sie Anerkennung für übernommene Aufgaben.
+    </p>
+
+    <p>
+        Auf der Seite des Badges sind alle Personen aufgelistet, die den Badge bereits erworben haben.
+        Grundsätzlich kann jeder nur einen neuen Badge pro Monat erhalten.
+    </p>
+
+</div>
+
+<div class="cfh-badge-list" style="margin-top: 20px;">
+    {% for badge in site.badges %}
+        <a href="{{ badge.url }}">
+            <img class="cfh-badge-img" src="{{badge.image}}" />
+        </a>
+    {% endfor %}
+</div>
+
+
+
+<script>
+
+(function() {
+    console.info("badge-grid");
+
+    var badges = document.getElementsByClassName("cfh-badge-img");
+    var container = document.getElementsByClassName("cfh-badge-list")[0];
+
+    var width = 186;
+    var height = 160;
+
+    var col = 0;
+    var row = 0;
+
+    for (var i = 0; i < badges.length; i++) {
+
+        if ((row * width) + width > container.offsetWidth || (col % 2 == 1 && row * width > container.offsetWidth - width)) {
+            col++;
+            row = 0;
+        }
+
+        var element = badges[i];
+        var top = col * height;
+        var left = row * width;
+
+        if (col % 2 == 1) {
+            left += 93;
+        }
+
+        element.style.left = left;
+        element.style.top = top;
+
+
+        row++;
+    }
+
+})();
+
+</script>

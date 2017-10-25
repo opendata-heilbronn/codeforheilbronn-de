@@ -1,0 +1,9 @@
+---
+layout: page
+---
+
+<div class="cfh-event-list">
+    {% for event in site.events %}
+        <a href="{{ event.url }}">{{ event.name }}</a>
+    {% endfor %}
+</div>

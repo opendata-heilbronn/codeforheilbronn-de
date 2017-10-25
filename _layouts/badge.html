@@ -1,0 +1,13 @@
+
+{% include head.html %}
+
+{% include navigation.html %}
+
+<div class="cfh-banner" style="background-image: url({{ site.data.design.headerimage }}); border-bottom: solid 7px {{ page.color }};"></div>
+
+<div class="content-container" style="margin-top: 100px;">
+
+    <div class="cfh-badge" style="background-image: url({{ page.image }})"></div>
+
+    {{ content }}
+</div>

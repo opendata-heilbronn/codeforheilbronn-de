@@ -1,5 +1,9 @@
+
+markdown: kramdown
+
 sass:
     sass_dir: styles
+    style: compressed
   
 collections:
   uploads:
@@ -10,4 +14,10 @@ collections:
     output: true
   projects:
     title: Projekte
+    output: true
+  badges:
+    title: Badges
+    output: true
+  events:
+    title: Events
     output: true
