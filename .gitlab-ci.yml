@@ -22,7 +22,7 @@ deploy_test:
 deploy_production:
   stage: deploy
   script:
-    - jekyll build --destination /var/www/staticsites/test-codeforheilbronn-de
+    - jekyll build --destination /var/www/staticsites/codeforheilbronn-de
   tags:
     - shell
   environment:
