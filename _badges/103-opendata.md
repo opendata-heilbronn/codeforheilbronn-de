@@ -2,7 +2,7 @@
 layout: badge
 name: Projektleiter
 tags: [aufgaben]
-image: /uploads/badge-103-opendata.png
+image: /uploads/badge-103-opendata.svg
 color: rgb(139, 195, 74);
 published: true
 ---

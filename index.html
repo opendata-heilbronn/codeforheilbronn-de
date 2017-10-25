@@ -22,7 +22,9 @@ layout: page-banner
 
     <div class="cfh-badge-list cfh-badgelist-small">
     {% for badge in site.badges %}
-        <img class="cfh-badge-img" src="{{badge.image}}" onclick="window.location.href = '{{ badge.url }}'" />
+        <a href="{{ badge.url }}"> 
+            <img class="cfh-badge-img" src="{{badge.image}}" /> 
+        </a> 
     {% endfor %}
 </div>
 </div>

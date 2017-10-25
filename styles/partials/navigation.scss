@@ -22,7 +22,8 @@ nav {
                 line-height: 40px;
                 text-decoration: none;
                 color: rgb(240, 240, 240);
-                margin: 0 15px;
+                padding: 0 15px;
+                display: block;
             }
 
             ul {
@@ -41,7 +42,8 @@ nav {
                         line-height: 40px;
                         text-decoration: none;
                         color: rgb(240, 240, 240);
-                        margin: 0 15px;
+                        padding: 0 15px;
+                        display: block;
                     }
 
                      &:hover {
