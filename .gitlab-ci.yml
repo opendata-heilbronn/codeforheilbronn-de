@@ -17,7 +17,7 @@ deploy_test:
     name: Test
     url: http://test.codeforheilbronn.de
   only:
-    - master
+    - develop
 
 deploy_production:
   stage: deploy
