@@ -3,7 +3,7 @@ layout: page
 ---
 
 
-<div class="cfh-badge-list" style="margin-top: 50px;">
+<div class="" style="margin-top: 50px;">
     <h2>CFH-Badges</h2>
 
     <p style="text-align: justify;">
@@ -26,17 +26,22 @@ layout: page
     {% endfor %}
 </div>
 
-<div class="cfh-badge-list" style="margin-top: 50px;">
+<div class="" style="margin-top: 50px;">
     <h2>Umgang mit den Badges</h2>
 
     <p style="text-align: justify;">
         Die Badges werden an alle Mitglieder von code for heilbronn ausgegeben. 
         An einen Badge sind immer einige Anforderungen gekoppelt, die auf der Seite des Badges eingesehen werden können.
+        Außerdem sind auf der Seite des Badges alle Personen aufgelistet, die den Badge bereits erworben haben.
     </p>
-
-    <p>
-        Auf der Seite des Badges sind alle Personen aufgelistet, die den Badge bereits erworben haben.
-        Grundsätzlich kann jeder nur einen neuen Badge pro Monat erhalten.
+    <p style="text-align: justify;">
+        Es gibt verschiedene Arten von Badge. 
+        <ul>
+            <li>Projektbadges - für die größeren Projekte wie Farmbot und MateLight.</li>
+            <li>Skillbadges - für Fähigkeiten die man erworben oder unter Beweis gestellt hat</li>
+            <li>Aufgabenbadges - für übernommene Aufgaben und Verantwortung</li>
+            <li>Metabadges - für Softskills und allgemeine Dinge</li>
+        </ul>
     </p>
 
 </div>
@@ -77,6 +82,8 @@ layout: page
 
         row++;
     }
+
+    container.style.height = (((col + 1) * height) + 50) + "px"; 
 
 })();
 
