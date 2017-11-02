@@ -1,18 +1,20 @@
 
-.cfh-project-cards {
+.cfh-cards {
     display: flex;
     justify-content: space-between;
     position: relative;
+    flex-wrap: wrap;
 
-    .cfh-project-card {
+    .cfh-card {
         width: 30%;
         height: 450px;
         background: rgb(255,255,255);
         box-shadow: rgb(200, 200, 200) 0px 0px 10px;
         border-radius: 2px;
         position: relative;
+        margin-top: 20px;
 
-        .cfh-project-card-image {
+        .cfh-card-image {
             background: #3f51b5;
             background-size: cover;
             background-position: center;
@@ -22,7 +24,7 @@
             border-top-right-radius: 2px;
         }
 
-        .cfh-project-card-badge {
+        .cfh-card-badge {
             width: 100px;
             height: 100px;
             background-repeat: no-repeat;
@@ -33,14 +35,13 @@
             left: 25px;
         }
 
-        .cfh-project-card-content {
+        .cfh-card-content {
             padding: 10px;
             height: 200px;
             overflow: hidden;
             text-overflow: ellipsis;
 
             h3 {
-                padding-left: 130px;
                 margin-top: 0;
                 margin-bottom: 30px;
             }
@@ -48,7 +49,7 @@
 
         }
 
-        .cfh-project-card-footer {
+        .cfh-card-footer {
             text-align: right;
             line-height: 50px;
             padding: 0 20px;
@@ -58,6 +59,15 @@
                 background: rgb(230, 230, 230);
                 padding: 5px 10px;
             }
+        }
+    }
+}
+
+.cfh-project-card {
+    .cfh-card-content {
+
+        h3 {
+            padding-left: 130px;
         }
     }
 }

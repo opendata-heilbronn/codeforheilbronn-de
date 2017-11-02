@@ -10,9 +10,20 @@ layout: page-banner
 <div class="content-container">
     
     <div class="cfh-section">
+        <h2>Anstehende Events</h2>
+
+        <div class="cfh-cards">
+            {% for event in site.events limit: 3 %}
+                {% include cfh-event-card.html event=event %}
+            {% endfor %}
+        </div>
+
+    </div>
+
+    <div class="cfh-section">
         <h2>Projekte</h2>
 
-        <div class="cfh-project-cards">
+        <div class="cfh-cards">
             {% for project in site.projects limit: 3 %}
                 {% include cfh-project-card.html project=project %}
             {% endfor %}
@@ -20,6 +31,7 @@ layout: page-banner
 
     </div>
 
+    <!-- hidden dreck -->
     <div class="cfh-badge-list cfh-badgelist-small">
         {% for badge in site.badges %}
             <a href="{{ badge.url }}"> 
@@ -28,7 +40,6 @@ layout: page-banner
         {% endfor %}
     </div>
 
-    <!-- hidden dreck -->
 </div>
 
 
