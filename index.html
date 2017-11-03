@@ -17,18 +17,24 @@ layout: page-banner
                 {% include cfh-event-card.html event=event %}
             {% endfor %}
         </div>
+    </div>
 
+    <div class="cfh-section">
+        <h2>Blog</h2>
+        <div class="cfh-cards">
+            {% for post in site.posts limit: 3 %}
+                {% include cfh-blog-card.html post=post %}
+            {% endfor %}
+        </div>
     </div>
 
     <div class="cfh-section">
         <h2>Projekte</h2>
-
         <div class="cfh-cards">
             {% for project in site.projects limit: 3 %}
                 {% include cfh-project-card.html project=project %}
             {% endfor %}
         </div>
-
     </div>
 
     <!-- hidden dreck -->
@@ -81,3 +87,4 @@ layout: page-banner
 })();
 
 </script>
+

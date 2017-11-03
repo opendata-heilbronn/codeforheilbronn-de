@@ -13,6 +13,8 @@ teaser: Der SlamMaster ist ein Tool um Wertungen bei einem PoetrySlam zu visuali
 Der SlamMaster ist die nächste Version des Poetry-Slam-Tools. Nachdem der Vorgänger relativ beliebt wurde aber diverse Mängel aufweist, wird hier nun eine flexiblere Lösung entwickelt.
 Das Tool dient zum visualisieren der Punkte wärend des Slams über einen Projektor.
 
+Die neue Version soll als Electron App umgesetzt, auf möglichst vielen Plattformen laufen.
+
 ## Beteiligte Personen
 
 <div class="cfh-cards">
