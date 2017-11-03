@@ -7,9 +7,14 @@
 <div class="content-container">
 
     <div class="cfh-event-header">
-        <div class="cf-event-header-registration">
-            Anmeldung unter {{ page.registration }}
-        </div>
+        {% if page.registration contains "meetup.com" %}
+        <a href="{{page.registration}}">
+            <div class="cf-event-header-registration meetup">
+                <img class="cf-registration-logo" src="/uploads/meetup-logo.svg" />
+                <div class="cf-event-header-registration-label">Anmeldung unter auf Meetup</div>
+            </div>
+        </a>
+        {% endif %}
     </div>
 
     {{ content }}
