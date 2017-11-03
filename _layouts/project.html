@@ -9,6 +9,17 @@
 
     <div class="cfh-badge" style="background-image: url({{ page.badge }})"></div>
 
+    <div class="cfh-project-header">
+        {% if page.github %}
+        <a href="{{page.github}}">
+            <div class="cfh-project-header-item">
+                <img class="cfh-project-header-item-image" src="/uploads/logo-github.svg" />
+                <div class="cfh-project-header-item-label">GitHub Repository</div>
+            </div>
+        </a>
+        {% endif %}
+    </div>
+
     {{ content }}
 </div>
 

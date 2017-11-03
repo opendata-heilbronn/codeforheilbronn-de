@@ -1,0 +1,25 @@
+
+
+.cfh-project-header {
+    margin-top: 50px;
+    
+    a {
+        text-decoration: none;
+        color: rgb(0,0,0);
+    }
+
+    .cfh-project-header-item {
+        display: flex;
+
+        .cfh-project-header-item-image {
+            max-width: 40px; 
+            max-height: 40px;
+        }
+
+        .cfh-project-header-item-label {
+            line-height: 40px;
+            text-decoration: none;
+            margin-left: 20px;
+        }
+    }
+}
