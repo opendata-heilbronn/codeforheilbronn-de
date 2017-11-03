@@ -5,18 +5,18 @@ joni:
     avatar:     "/uploads/avatar-joni.png"
     intro:      "Softwaredeveloper, Pfadfinder und Vollzeitnerd. Ich mag alles was LEDs hat."
     badges:     
-                - id: "001"
-                - id: "003"
 
 patrick:
     name:       "patrick"
     twitter:    "@patrick24651"
     avatar:     ""
     intro:      ""
+    badges:     
 
 felix: 
     name:       "Felix Ebert"
     twitter:    "@femeb"
     avatar:     "/uploads/avatar-felix.jpg"
     intro:      "web developer, open data, Code For Heilbronn organizer, http://keybase.io/felixebert"
+    badges:     
 
