@@ -1,6 +1,7 @@
 ---
 layout: badge
 name: Projektleiter
+bid: "001"
 tags: [aufgaben]
 image: /uploads/badge-001-projektleiter.svg
 color: rgb(255, 152, 0);

@@ -16,8 +16,7 @@ Das Tool dient zum visualisieren der Punkte wärend des Slams über einen Projek
 ## Beteiligte Personen
 
 <div class="cfh-cards">
-    {% include cfh-contributor.html contributor=site.data.contributors.joni %}
+    {% include cfh-contributor.html contributor=site.data.contributors.joni title="Projektleitung" %}
     {% include cfh-contributor.html contributor=site.data.contributors.patrick %}
     {% include cfh-contributor.html contributor=site.data.contributors.felix %}
 </div>
-

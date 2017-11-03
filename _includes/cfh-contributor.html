@@ -1,13 +1,35 @@
 <div class="cfh-card">
     <div class="cfh-card-image" style="background-image: url({{ include.contributor.avatar }});"></div>
+
+    {% if include.title %}
+        <div class="cfh-project-title">{{include.title}}</div>
+    {% endif %}
+
     
     <div class="cfh-card-content">
         <h3>{{ include.contributor.name }}</h3>
-        <p>{{ include.contributor.twitter }}</p>
+        <p>{{ include.contributor.intro }}</p>
+        
+        <div style="margin-top: 20px;">
+            {% for id in include.contributor.badges  %}
+                {% for badge in site.badges  %}
+                    {% if badge.bid == id.id %}
+                        <a href="{{ badge.url }}" style="text-decoration: none;">
+                            <img class="cfh-card-badge-small" src="{{badge.image}}" />
+                        </a>
+                    {% endif %}
+                {% endfor %}
+            {% endfor %}
+        </div>
     </div>
 
 
     <div class="cfh-card-footer">
-        <a href="#">Details zum Event</a>
+        {% if include.contributor.twitter %}
+            <a href="{{include.contributor.twitter}}">
+                <img class="cfh-card-footer-icon" src="/uploads/logo-twitter.svg" />
+                <div class="cfh-card-footer-label">{{include.contributor.twitter}}</div>
+            </a>
+        {% endif %}
     </div>
 </div>
