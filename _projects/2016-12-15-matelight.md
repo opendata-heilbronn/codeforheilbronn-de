@@ -14,3 +14,12 @@ teaser: Das MateLight ist ein LED-Projekt aus Club-Mate-Kästen. Jede einzelne F
 
 Das MateLight ist eine Lichtinstallation mit künstlerischem und technischem Fokus. Ziel ist es, eine Wand aus Kästen zu bauen, auf der Animationen abgespielt werden können.
 Im Rahmen des Projektes soll ein besseres Verständnis für die Arbeit mit Arduinos und zeitkritischen Kommunikationsabläufen entstehen.
+
+## Beteiligte Personen
+
+<div class="cfh-cards">
+    {% include cfh-contributor.html contributor=site.data.contributors.joni title="Projektleitung" %}
+    {% include cfh-contributor.html contributor=site.data.contributors.vale %}
+    {% include cfh-contributor.html contributor=site.data.contributors.leo %}
+    {% include cfh-contributor.html contributor=site.data.contributors.franz %}
+</div>

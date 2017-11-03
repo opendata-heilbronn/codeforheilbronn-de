@@ -20,3 +20,4 @@ Das Tool dient zum visualisieren der Punkte wärend des Slams über einen Projek
     {% include cfh-contributor.html contributor=site.data.contributors.patrick %}
     {% include cfh-contributor.html contributor=site.data.contributors.felix %}
 </div>
+
