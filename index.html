@@ -37,54 +37,7 @@ layout: page-banner
         </div>
     </div>
 
-    <!-- hidden dreck -->
-    <div class="cfh-badge-list cfh-badgelist-small">
-        {% for badge in site.badges %}
-            <a href="{{ badge.url }}"> 
-                <img class="cfh-badge-img" src="{{badge.image}}" /> 
-            </a> 
-        {% endfor %}
-    </div>
+
 
 </div>
-
-
-<script>
-
-// Badge-List
-(function() {
-    console.info("badge-grid");
-
-    var badges = document.getElementsByClassName("cfh-badge-img");
-    var container = document.getElementsByClassName("cfh-badge-list")[0];
-
-    var width = 85;
-    var height = 75;
-
-    var col = 0;
-    var row = 0;
-
-    for (var i = 0; i < badges.length; i++) {
-        var element = badges[i];
-        var top = col * height;
-        var left = row * width;
-
-        if (col % 2 == 1) {
-            left += width / 2;
-        }
-
-        element.style.left = left;
-        element.style.top = top;
-
-        row++;
-
-        if (row * width > container.offsetWidth || (col % 2 == 1 && row * width > container.offsetWidth - width)) {
-            col++;
-            row = 0;
-        }
-    }
-
-})();
-
-</script>
 
