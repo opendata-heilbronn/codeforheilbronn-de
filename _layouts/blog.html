@@ -5,7 +5,19 @@
 
 <div class="content-container blog cfh-card-float-right">
 
-    {{ content }}
+    <div class="cfh-project-content">
+        <div class="content">{{ content }}</div>
+        
+        <div class="cfh-contributors">
+            <h3>Author</h3>
+
+            <div class="cfh-cards">
+                {% for author in page.authors  %}
+                    {% include cfh-contributor.html contributor=author %}
+                {% endfor %}
+            </div>
+        </div>
+    </div>
 
     <div style="clear: both">
 
