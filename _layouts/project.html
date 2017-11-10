@@ -21,14 +21,16 @@
     </div>
 
     <div class="cfh-project-content">
-        <div>{{ content }}</div>
+        <div class="content">{{ content }}</div>
         
-        <div class="cfh-cards cfh-contributors">
+        <div class="cfh-contributors">
             <h3>Contributors</h3>
-            
-            {% for contributor in page.contributors  %}
-                {% include cfh-contributor.html contributor=contributor %}
-            {% endfor %}
+
+            <div class="cfh-cards">
+                {% for contributor in page.contributors  %}
+                    {% include cfh-contributor.html contributor=contributor %}
+                {% endfor %}
+            </div>
         </div>
     </div>
 
