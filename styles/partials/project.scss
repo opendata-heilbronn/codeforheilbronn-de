@@ -32,3 +32,16 @@
     right: 20px;
     top: 20px;
 }
+
+
+.cfh-project-content {
+    display: flex;
+}
+.cfh-contributors {
+    margin-left: 50px;
+    margin-bottom: 50px;
+
+    .cfh-contributor {
+        float: right;
+    }
+}

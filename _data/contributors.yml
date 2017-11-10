@@ -1,47 +1,47 @@
 
-joni: 
+-   nick:       "joni" 
     name:       "Jonathan Günz"
     twitter:    "@harmoniemand"
     avatar:     "/uploads/avatar-joni.png"
     intro:      "Softwaredeveloper, Pfadfinder und Vollzeitnerd. Ich mag alles was LEDs hat."
     badges:     
 
-patrick:
+-   nick:       "patrick"
     name:       "patrick"
     twitter:    "@patrick24651"
-    avatar:     ""
+    avatar:     "/uploads/avatar-patrick.jpg"
     intro:      ""
     badges:     
 
-felix: 
+-   nick:       "felix" 
     name:       "Felix Ebert"
     twitter:    "@femeb"
     avatar:     "/uploads/avatar-felix.jpg"
     intro:      "web developer, open data, Code For Heilbronn organizer"
     badges:     
 
-vale:
+-   nick:       "vale"
     name:       "vale"
     twitter:    "@TheVale98"
     avatar:     "/uploads/avatar-vale.jpg"
     intro:      "hardware ist alternativlos"
     badges:
 
-leo:
+-   nick:       "leo"
     name:       "leo"
     twitter:    "@_LeoDJ"
     avatar:     "/uploads/avatar-leo.jpg"
     intro:      "wir machen das irgendwann (tm)"
     badges:
 
-adrian:
+-   nick:       "adrian"
     name:       "Adrian Stabiszewski"
     twitter:    "@nitegate"
     avatar:     "/uploads/avatar-adrian.jpg"
     intro:      ""
     badges:
 
-franz:
+-   nick:       "franz"
     name:       "Franz Imschweiler"
     twitter:    "@FranzImsch"
     avatar:     "/uploads/avatar-franz.jpg"

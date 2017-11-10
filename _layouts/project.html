@@ -20,7 +20,31 @@
         {% endif %}
     </div>
 
-    {{ content }}
+    <div class="cfh-project-content">
+        <div>{{ content }}</div>
+        
+        <div class="cfh-cards cfh-contributors">
+            <h3>Contributors</h3>
+            
+            {% for contributor in page.contributors  %}
+                {% include cfh-contributor.html contributor=contributor %}
+            {% endfor %}
+        </div>
+    </div>
+
+
+    {% if page.tag %}
+    <div class="cfh-project-blog">
+        <h2>Blog</h2>
+        <div class="cfh-cards">
+            {% for post in site.posts  %}
+                {% if post.tags contains page.tag %}
+                    {% include cfh-blog-card.html post=post %}
+                {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+    {% endif %}
 </div>
 
 
