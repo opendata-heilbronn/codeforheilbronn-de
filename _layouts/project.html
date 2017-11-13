@@ -18,6 +18,15 @@
             </div>
         </a>
         {% endif %}
+
+        {% for state in site.data.projectstates %}
+            {% if page.state == state.name %}
+                <div class="cfh-project-header-item" title="{{ state.description }}">
+                    <img class="cfh-project-header-item-image" src="{{state.image}}" />
+                    <div class="cfh-project-header-item-label">Projektstatus: {{ state.name }}</div>
+                </div>
+            {% endif %}
+        {% endfor %}
     </div>
 
     <div class="cfh-project-content">

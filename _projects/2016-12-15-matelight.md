@@ -4,6 +4,8 @@ name: matelight
 image: /uploads/d535a60c-45e1-4dcb-9476-688008c44442.jpg
 badge: /uploads/badge-501-matelight.svg
 teaser: Das MateLight ist ein LED-Projekt aus Club-Mate-Kästen. Jede einzelne Flasche kann einzeln per RGB-LED beleuchtet werden. Damit ist das ganze als LED-Matrix einsetzbar. Aktuell habe wir 21 Kästen fertig.
+state: sleeping
+tag: matelight
 contributors:
     - joni
     - vale

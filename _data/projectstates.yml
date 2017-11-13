@@ -1,0 +1,16 @@
+
+-   name: started
+    image: /uploads/project-state-started.svg
+    description: "Das Projekt wurde gerade erst angefangen. Derzeit formiert sich ein Team um es umzusetzen."
+
+-   name: running
+    image: /uploads/project-state-running.svg
+    description: "An dem Projekt wird mit Hochdruck gearbeitet. Jeden Donnerstag ist ein Fortschritt zu sehen."
+
+-   name: finished
+    image: /uploads/project-state-finished.svg
+    description: "Das Projekt ist abgeschlossen, dokumentiert und einsatzbereit"
+
+-   name: sleeping
+    image: /uploads/project-state-sleeping.svg
+    description: "Das Projekt ruht vorübergehend und wartet auf motivierte Menschen mit viel viel Koffein."

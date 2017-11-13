@@ -6,6 +6,7 @@ badge: /uploads/CodeForHeilbronn.svg
 github: https://github.com/opendata-heilbronn/slammaster
 teaser: Der SlamMaster ist ein Tool um Wertungen bei einem PoetrySlam zu visualisieren. Initial mit dem Popbüro Heilbronn für den BW-Slam 2016 entwickelt, ist er schnell relativ bekannt geworden.
 tag: slammaster
+state: running
 contributors:
     - joni
     - patrick
