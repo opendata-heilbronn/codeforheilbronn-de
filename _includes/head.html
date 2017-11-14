@@ -1,3 +1,11 @@
 <meta charset="utf-8">
-<!-- <link rel="stylesheet" media="screen and (min-device-width: 1200px)" href="/styles/main.css" /> -->
+
+{% if page.title %} <meta property="og:title" content="{{ page.title }}" /> {% endif %}
+{% if page.teaser %} <meta property="og:description" content="{{ page.teaser }}" /> {% endif %}
+{% if page.layout == 'blog' %} <meta property="og:type" content="article" /> {% endif %}
+{% if page.layout == 'event' %} <meta property="og:type" content="website" /> {% endif %}
+{% if page.url %} <meta property="og:url" content="{{ page.url }}" /> {% endif %}
+{% if page.image %} <meta property="og:image" content="{{ page.image }}" /> {% else %} <meta property="og:image" content="/uploads/CodeForHeilbronn.svg" />  {% endif %}
+
+
 <link rel="stylesheet" href="/styles/main.css" />
