@@ -6,7 +6,8 @@
     </section>
 
     <section>
-
+      <a class="twitter-timeline" href="https://twitter.com/codeforhn?ref_src=twsrc%5Etfw">Tweets by codeforhn</a> 
+      <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     </section>
 
     <section>
@@ -30,7 +31,11 @@
 </div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.js"></script>
+<script src="https://cdn.rawgit.com/google/code-prettify/master/loader/run_prettify.js"></script>
 <script>
+
+  $("code").addClass("prettyprint");
+
   function sendslack() {
     var mail = document.getElementById("slack-email").value;
 
