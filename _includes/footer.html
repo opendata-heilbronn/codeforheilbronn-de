@@ -5,7 +5,51 @@
         <a href="/impressum.html">impressum</a>
     </section>
 
+    <section>
+
+    </section>
+
+    <section>
+      <div>
+        <form onsubmit="return sendslack()" id="slack-form">
+          <div class="cfh-footer-label">
+            <img class="cfh-footer-logo-image" src="/uploads/logo-slack.svg" />
+            Want to join our Slack-Team? Send us a invitation request!
+          </div>
+          <div class="cfh-footer-input">
+            <input type="email" id="slack-email" placeholder="email" />
+            <input type="submit" />
+          </div>
+          <div class="success hidden">
+            Die Anfrage wurde versendet Wir melden uns so schnell wie möglich! 
+          </div>
+        </form>
+    </section>
+
 </div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.js"></script>
+<script>
+  function sendslack() {
+    var mail = document.getElementById("slack-email").value;
+
+
+    $.ajax({
+        type: "POST",
+        url: "https://hooks.zapier.com/hooks/catch/2269356/sh039d/",
+        crossDomain: true,
+        data: '{ "email": "' + mail + '"}',
+        success: function (data) {
+          $("#slack-form .success").removeClass("hidden");
+        },
+        error: function (err) {
+            // handle your error logic here
+        }
+    });
+
+    return false;
+  };
+</script>
 
 <script type="application/ld+json">
 {

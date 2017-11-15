@@ -2,6 +2,12 @@
 
 ---
 
+* {
+    outline: none;
+}
+
+
+
 @import "partials/common.scss";
 @import "partials/navigation.scss";
 @import "partials/footer.scss";

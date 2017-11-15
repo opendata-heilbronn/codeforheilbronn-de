@@ -8,8 +8,56 @@
     padding: 100px 20vw;
     color: rgb(255,255,255);
 
+    display: flex;
+
     a {
         color: rgb(255,255,255);
         text-decoration: none;    
     }
+}
+
+.footer > section {
+    width: 100%;
+}
+
+.footer > section img.cfh-footer-logo-image {
+    max-width: 40px; 
+    max-height: 40px;
+    margin-right: 10px;
+}
+
+.footer > section .cfh-footer-label {
+    display: flex;
+}
+
+.footer > section .cfh-footer-input {
+    display: flex;
+}
+
+.footer > section div {
+    margin-bottom: 10px;
+}
+
+.footer > section .cfh-footer-input [type="email"] {
+    width: 100%;
+    background: rgb(135, 175, 193);
+    border: none;
+    line-height: 30px;
+    padding: 0 10px;
+}
+
+.footer > section .success {
+    line-height: 30px;
+    background: rgb(86, 188, 75);
+    border: solid 1px rgb(86, 120, 75);
+    padding: 0 10px;
+}
+
+.footer > section .cfh-footer-input [type="submit"] {
+    background: rgb(135, 175, 193);
+    border: none;
+}
+
+.footer .hidden {
+    display: none;
 }
