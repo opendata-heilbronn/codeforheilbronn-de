@@ -18,7 +18,7 @@ layout: page
 
 </div>
 
-<div class="cfh-badge-list" style="margin-top: 20px;">
+<div id="cfh-badge-list" class="cfh-badge-list" style="margin-top: 20px;">
     {% for badge in site.badges %}
         <a href="{{ badge.url }}">
             <img class="cfh-badge-img" src="{{badge.image}}" />
@@ -55,35 +55,37 @@ layout: page
     var badges = document.getElementsByClassName("cfh-badge-img");
     var container = document.getElementsByClassName("cfh-badge-list")[0];
 
-    var width = 186;
-    var height = 160;
+    var width_badges = 186;
+    var height_badges = 160;
 
-    var col = 0;
-    var row = 0;
+    var col_badges = 0;
+    var row_badges = 0;
 
-    for (var i = 0; i < badges.length; i++) {
+    var container = $("#cfh-badge-list");
+    var containerOuterWidth = container.outerWidth();
 
-        if ((row * width) + width > container.offsetWidth || (col % 2 == 1 && row * width > container.offsetWidth - width)) {
-            col++;
-            row = 0;
+    $(".cfh-badge-img").each(function(index, elem) {
+        if ((col_badges * width_badges) + width_badges > containerOuterWidth || (row_badges % 2 == 1 && col_badges * width_badges > containerOuterWidth - width_badges)) {
+            row_badges++;
+            col_badges = 0;
         }
 
-        var element = badges[i];
-        var top = col * height;
-        var left = row * width;
+        var top_badges = row_badges * height_badges;
+        var left_badges = col_badges * width_badges;
 
-        if (col % 2 == 1) {
-            left += 93;
+        if (row_badges % 2 == 1) {
+            left_badges += 93;
         }
+        console.info("badge " + index + " - top:" + top_badges + " ,left:" + left_badges + " - row:" + row_badges + ", col:" + col_badges);
 
-        element.style.left = left;
-        element.style.top = top;
+        $(elem).css("left", left_badges + "px");
+        $(elem).css("top", top_badges + "px");
 
+        col_badges++;
+    });
 
-        row++;
-    }
-
-    container.style.height = (((col + 1) * height) + 50) + "px"; 
+    console.info("container col:" + row_badges);
+    $(container).css("height", (((row_badges + 1) * height_badges) + 50) + "px"); 
 
 })();
 
