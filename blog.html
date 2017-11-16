@@ -1,0 +1,9 @@
+---
+layout: page
+---
+
+<div class="cfh-cards">
+    {% for post in site.posts %}
+        {% include cfh-blog-card.html post=post %}
+    {% endfor %}
+</div>
