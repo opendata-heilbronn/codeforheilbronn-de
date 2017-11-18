@@ -17,19 +17,19 @@ Am 07.10. hat in Europa die CodeWeek begonnen und bei Code For Heilbronn standen
 
 ## Und Was haben wir gemacht?
 
-Angefangen hat der Workshop auf rein theotrtischer Ebene, bei der die Grundkentnisse der Programmiersprache C++ übermittelt wurden. Weil unsere Teilnehmer alle noch sehr jung waren und darin, haben wir uns Mühe gegeben, alles so anzustellen, dass es auch jeder versteht: unkompliziert und idiotensicher.
+Angefangen hat der Workshop auf rein theoretischer Ebene, bei der die Grundkenntnisse der Programmiersprache C++ übermittelt wurden. Weil unsere Teilnehmer alle noch sehr jung waren und darin, haben wir uns Mühe gegeben, alles so anzustellen, dass es auch jeder versteht: unkompliziert und idiotensicher.
 
 Gleich danach konnten die frisch geschlüpften Programmierer das anwenden, was sie nach der Theoriestunde noch im Kopf hatten. Für die Praxisphase wurden dann der Einstieg mit 2 kleinen Programmierübungen vereinfacht: ein Programm um die gedrückte Taste einzulesen und ein Programm um die Status-LED der Platine blinken zu lassen.
 
-Danach wurde es knochenernst: wir haben gemeinsam ein Tic-Tac-Toe Spiel programmiert. Wer das Spiel fertig bekommen hat (glücklicherweise alle, weil wir keinen Programmiereinsteiger auf der Strecke liegen lassen), durfte die Platine mit dem fertigen Tic-Tac-Toe Spiel mit heim nehmen.
+Danach wurde es Ernst: wir haben gemeinsam ein Tic-Tac-Toe Spiel programmiert. Wer das Spiel fertig bekommen hat (glücklicherweise alle, weil wir keinen Programmiereinsteiger auf der Strecke liegen lassen), durfte die Platine mit dem fertigen Tic-Tac-Toe Spiel mit Heim nehmen.
 
 ## Platine? Sagt bloß ...
 
 Ja, wir haben das Spiel auf eine Platine gepackt. Mittig war das Herz der Platine: ein Arduino Nano. Unser Spielfeld war eine 3x3 RGB LED Matrix, über der sich noch eine weitere RGB LED als Status-LED befang. Warum RGB? - Naja, man braucht für 2 Spieler 2 Farben und wer möchte, kann sein Programm so konfigurieren, dass er seine Lieblingsfarben für jeden Spieler verwendet. Bei den Tasten haben wir ein wenig mit den Pins vom Arduino gespart: ein Spannungsteiler, bei den über den AD-Wandler eingelesen wurde, welche Taste gedrückt wurde. Gerade für Anfänger ist es nicht schwer, zu verstehen, wie ein Spannungsteiler und ein Mutiplexer funktioniert.
 
-Da wir 20 Platinen für genausoviele Teilnehmer bestellt haben, sind wir natürlich überaus froh, [Meet and Code](https://www.meet-and-code.org/) als Sponsor bekommen zu haben. Anderseits hätten die Teilnehmer ihre Platinen nicht mit heim nehmen können.
+Da wir 20 Platinen für genauso viele Teilnehmer bestellt haben, sind wir natürlich überaus froh, [Meet and Code](https://www.meet-and-code.org/) als Sponsor bekommen zu haben. Andererseits hätten die Teilnehmer ihre Platinen nicht mit heim nehmen können.
 
-Die von uns erstellte Platine ist nicht nur zum Tic-Tac-Toe Spielen gedacht, sondern ein richtiges Mutitalent. Sie wurde so entwichelt, dass die Teilnehmer des Workshops nach ihrer eigenen Kreativität Spiele dafür entwickeln können, wie z.B. das Spiel Senso oder ein Programm, mit dem man die Platine als Würfel verwenden kann.
+Die von uns erstellte Platine ist nicht nur zum Tic-Tac-Toe Spielen gedacht, sondern ein richtiges Multitalent. Sie wurde so entwickelt, dass die Teilnehmer des Workshops nach ihrer eigenen Kreativität Spiele dafür entwickeln können, wie z.B. das Spiel Senso oder ein Programm, mit dem man die Platine als Würfel verwenden kann.
 
 ## Und das fertige Spiel?
 
