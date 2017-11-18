@@ -13,7 +13,7 @@ authors:
     - michi
 ---
 
-Am 07.10. hat in Europa die CodeWeek begonnen bei Code For Heilbronn standen an diesem Wochenende die Türen offen für die Teilnahme an einem Arduino-Workshop für Einsteiger und Experten. Dabei waren die Teilnehmer hart im Nehmen: Grundkenntnisse C++, Elektronik und dann auch noch Programmierung eines Tic-Tac-Toe Spiels. Dafür haben sie es sich aber verdient, dass sie die fertige Platine nach dem Workshop behalten durften.
+Am 07.10. hat in Europa die CodeWeek begonnen und bei Code For Heilbronn standen an diesem Wochenende die Türen offen für die Teilnahme an einem Arduino-Workshop für Einsteiger und Experten. Dabei waren die Teilnehmer hart im Nehmen: Grundkenntnisse C++, Elektronik und dann auch noch Programmierung eines Tic-Tac-Toe Spiels. Dafür haben sie es sich aber verdient, dass sie die fertige Platine nach dem Workshop behalten durften.
 
 ## Und Was haben wir gemacht?
 
