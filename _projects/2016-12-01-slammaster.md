@@ -23,3 +23,12 @@ Das Tool dient zum visualisieren der Punkte wärend des Slams über einen Projek
 
 Die neue Version soll als Electron App umgesetzt, auf möglichst vielen Plattformen laufen.
 
+## Kontakt zum Projekt
+
+Da es vermehrt Anfragen zum Projekt gibt, haben wir eine offizielle Projekt-Mailadresse für Anfragen zum Projekt. Auf dieses Postfach haben alle Projektmitglieder
+Zugriff und können dann darauf reagieren.
+
+slammaster(at)cfhn.it
+
+Bitte verwendet diese Mail-Adresse für alle allgemeinen Anfragen zum Slammaster.
+
