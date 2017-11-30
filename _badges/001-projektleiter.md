@@ -18,4 +18,10 @@ Dieser Badge wird für den erfolgreichen Abschluss eines Projektes verliehen.
 
 ## Verliehen an
 
-Bisher hat noch niemand diesen Badge erworben.
+{% for contributor in site.data.contributors %}
+    {% for ctr_badge in contributor.badges %}
+        {% if (ctr_badge.id == page.bid) %}
+            {% include cfh-contributor.html contributor=contributor.nick %}
+        {% endif %}
+    {% endfor %}
+{% endfor %}

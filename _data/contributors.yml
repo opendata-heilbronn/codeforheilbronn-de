@@ -26,6 +26,8 @@
     avatar:     "/uploads/avatar-vale.jpg"
     intro:      "hardware ist alternativlos"
     badges:
+        -   id: "101"
+            date: "30.11.2017"
 
 -   nick:       "leo"
     name:       "leo"
@@ -54,3 +56,14 @@
     avatar:     "/uploads/avatar-michi.jpg"
     intro:      "Wird das Internet leichter, wenn ich etwas herunterlade?"
     badges:
+        -   id: "002"
+            date: "30.11.2017"
+    
+-   nick:       "leon"
+    name:       "Leon"
+    twitter:    "@leon_hellmich"
+    avatar:     "/uploads/avatar-leon.jpg"
+    intro:      "Gummiball mit Fragenkanone?"
+    badges: 
+        -   id: "104"
+            date: "30.11.2017"

@@ -1,7 +1,7 @@
 ---
 layout: badge
 name: Projektleiter
-id: 003
+id: "103"
 tags: [aufgaben]
 image: /uploads/badge-103-opendata.svg
 color: rgb(139, 195, 74);
@@ -19,4 +19,10 @@ Dieser Badge wird für ein abgeschlossenes und dokumentiertes OpenData-Projekt v
 
 ## Verliehen an
 
-Bisher hat noch niemand diesen Badge erworben.
+{% for contributor in site.data.contributors %}
+    {% for ctr_badge in contributor.badges %}
+        {% if (ctr_badge.id == page.bid) %}
+            {% include cfh-contributor.html contributor=contributor.nick %}
+        {% endif %}
+    {% endfor %}
+{% endfor %}

@@ -13,20 +13,22 @@
         <div class="cfh-project-title">{{title}}</div>
         {% endif %}
 
-
         <div class="cfh-card-content">
             <h3>{{ i_contributor.name }}</h3>
             <p>{{ i_contributor.intro }}</p>
 
             <div style="margin-top: 20px;">
-                {% for id in i_contributor.badges %} {% for badge in site.badges %} {% if badge.bid == id.id %}
-                <a href="{{ badge.url }}" style="text-decoration: none;">
-                    <img class="cfh-card-badge-small" src="{{badge.image}}" />
-                </a>
-                {% endif %} {% endfor %} {% endfor %}
+                {% for id in i_contributor.badges %} 
+                    {% for badge in site.badges %}
+                        {% if badge.bid == id.id %}
+                            <a href="{{ badge.url }}" style="text-decoration: none;">
+                                <img class="cfh-card-badge-small" src="{{badge.image}}" />
+                            </a>
+                        {% endif %} 
+                    {% endfor %} 
+                {% endfor %}
             </div>
         </div>
-
 
         <div class="cfh-card-footer">
             {% if i_contributor.twitter %}

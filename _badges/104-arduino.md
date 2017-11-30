@@ -1,6 +1,7 @@
 ---
 layout: badge
 name: Projektleiter
+bid: "104"
 tags: [aufgaben]
 image: /uploads/badge-104-arduino.svg
 color: rgb(96, 125, 139);
@@ -18,4 +19,10 @@ Dieser Badge wird für ein abgeschlossenes und dokumentiertes Arduino-Projekt ve
 
 ## Verliehen an
 
-Bisher hat noch niemand diesen Badge erworben.
+{% for contributor in site.data.contributors %}
+    {% for ctr_badge in contributor.badges %}
+        {% if (ctr_badge.id == page.bid) %}
+            {% include cfh-contributor.html contributor=contributor.nick %}
+        {% endif %}
+    {% endfor %}
+{% endfor %}

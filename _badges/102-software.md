@@ -1,6 +1,7 @@
 ---
 layout: badge
 name: Projektleiter
+bid: "102"
 tags: [aufgaben]
 image: /uploads/badge-102-software.svg
 color: rgb(139, 195, 74);
@@ -18,4 +19,10 @@ Dieser Badge wird für ein abgeschlossenes und dokumentiertes Software-Projekt v
 
 ## Verliehen an
 
-Bisher hat noch niemand diesen Badge erworben.
+{% for contributor in site.data.contributors %}
+    {% for ctr_badge in contributor.badges %}
+        {% if (ctr_badge.id == page.bid) %}
+            {% include cfh-contributor.html contributor=contributor.nick %}
+        {% endif %}
+    {% endfor %}
+{% endfor %}

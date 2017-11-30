@@ -1,6 +1,7 @@
 ---
 layout: badge
 name: JaaScript
+bid: "108"
 tags: [aufgaben]
 image: /uploads/badge-108-javascript.svg
 color: rgb(251, 216, 60);
@@ -18,4 +19,10 @@ Dieser Badge wird für ein abgeschlossenes und dokumentiertes JavaScript-Projekt
 
 ## Verliehen an
 
-Bisher hat noch niemand diesen Badge erworben.
+{% for contributor in site.data.contributors %}
+    {% for ctr_badge in contributor.badges %}
+        {% if (ctr_badge.id == page.bid) %}
+            {% include cfh-contributor.html contributor=contributor.nick %}
+        {% endif %}
+    {% endfor %}
+{% endfor %}

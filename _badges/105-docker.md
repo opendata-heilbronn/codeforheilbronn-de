@@ -1,6 +1,7 @@
 ---
 layout: badge
 name: Docker
+bid: "105"
 tags: [aufgaben]
 image: /uploads/badge-105-docker.svg
 color: rgb(36, 184, 235);
@@ -18,4 +19,10 @@ Dieser Badge wird für ein abgeschlossenes und dokumentiertes Projekt mit Docker
 
 ## Verliehen an
 
-Bisher hat noch niemand diesen Badge erworben.
+{% for contributor in site.data.contributors %}
+    {% for ctr_badge in contributor.badges %}
+        {% if (ctr_badge.id == page.bid) %}
+            {% include cfh-contributor.html contributor=contributor.nick %}
+        {% endif %}
+    {% endfor %}
+{% endfor %}
