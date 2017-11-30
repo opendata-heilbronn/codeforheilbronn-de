@@ -5,6 +5,7 @@ tags:
 - arduino
 - event
 - "Tic-Tac-Toe"
+- "tic-tac-toe-platine"
 layout: blog
 subtitle: Code For Heilbronn und Fablab Neuenstadt veranstalten unter der Leitung von @MitchiLaser einen Arduino-Workshop für Einsteiger und Experten
 published: true

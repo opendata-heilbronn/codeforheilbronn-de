@@ -9,7 +9,7 @@ tags:
 layout: blog
 subtitle: "Zweites Treffen des Software-Club widmete sich dem Thema 'Testdriven in JavaScript entwickeln'"
 published: true
-teaser: "Alle zwei Wochen trifft sich neuerdings der Software-Club. Diese Treffen sollen der Vertiefung handwerklicher Fähigkeiten in der Softwareentwicklung dienen. Beim Treffen am 15.22.17 ging es um testgetriebene Entwicklung unter JavaScript mit Hilfe von tape." 
+teaser: "Alle zwei Wochen trifft sich neuerdings der Software-Club. Diese Treffen sollen der Vertiefung handwerklicher Fähigkeiten in der Softwareentwicklung dienen. Beim Treffen am 15.11.17 ging es um testgetriebene Entwicklung unter JavaScript mit Hilfe von tape." 
 authors: 
     - adrian
     - joni
