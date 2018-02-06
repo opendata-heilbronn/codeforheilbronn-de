@@ -1,10 +1,16 @@
+title: Code for Heilbronn e.V.
+description: >-
+  Offene Werkstatt - Open Data - Software- und Hardware Workshops
+
+logo: /uploads/CodeForHeilbronn.svg
+theme: alembic-jekyll-theme
+lang: de-DE
+timezone: Europe/Berlin
+permalink: /:year/:month/:day/:title.html
+
 
 markdown: kramdown
 
-sass:
-    sass_dir: styles
-    style: compressed
-  
 collections:
   uploads:
     title: Uploads
@@ -21,3 +27,18 @@ collections:
   events:
     title: Events
     output: true
+
+
+navigation_header:
+  Blog: /
+  Verein: /vereine
+  Projekte: /projekte
+  Termine: /termine
+
+plugins:
+  - jekyll-feed
+
+exclude:
+   - Gemfile
+   - Gemfile.lock
+   - .idea/

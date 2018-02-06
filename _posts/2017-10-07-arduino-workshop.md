@@ -2,16 +2,16 @@
 title: Arduino Workshop
 date: 2017-10-07
 tags: 
-- arduino
-- event
-- "Tic-Tac-Toe"
-- "tic-tac-toe-platine"
-layout: blog
+    - arduino
+    - event
+    - "Tic-Tac-Toe"
+    - "tic-tac-toe-platine"
+layout: post
+categories: Workshop
+category: Projekte
 subtitle: Code For Heilbronn und Fablab Neuenstadt veranstalten unter der Leitung von @MitchiLaser einen Arduino-Workshop für Einsteiger und Experten
-published: true
-teaser: "Arduinos sind unter den Makern sehr beliebt, vor allem weil man sie für sehr, sehr viele Projekte verwenden kann. Dieser Workshop zeigt, wie man mit ganz einfachen Gegenständen wie LEDs und Tastern ein Arduino-Bastelprojekt realisieren kann. Jeder Teilnehmer hat am Ende ein fertig programmiertes Tic-Tac-Toe Spiel, welches er mit nach Hause nehmen kann. Jetzt fehlt nur noch ein Freund, gegen den man spielen kann. Die Veranstaltung ist eine Zusammenarbeit aus CodeForHeilbronn und FabLab Neuenstadt, veranstaltet vom Jugendförderverein Brückedächle e.V."
-authors: 
-    - michi
+excerpt: "Arduinos sind unter den Makern sehr beliebt, vor allem weil man sie für sehr, sehr viele Projekte verwenden kann. Dieser Workshop zeigt, wie man mit ganz einfachen Gegenständen wie LEDs und Tastern ein Arduino-Bastelprojekt realisieren kann. Jeder Teilnehmer hat am Ende ein fertig programmiertes Tic-Tac-Toe Spiel, welches er mit nach Hause nehmen kann. Jetzt fehlt nur noch ein Freund, gegen den man spielen kann. Die Veranstaltung ist eine Zusammenarbeit aus CodeForHeilbronn und FabLab Neuenstadt, veranstaltet vom Jugendförderverein Brückedächle e.V."
+authors: michi
 ---
 
 Am 07.10. hat in Europa die CodeWeek begonnen und bei Code For Heilbronn standen an diesem Wochenende die Türen offen für die Teilnahme an einem Arduino-Workshop für Einsteiger und Experten. Dabei waren die Teilnehmer hart im Nehmen: Grundkenntnisse C++, Elektronik und dann auch noch Programmierung eines Tic-Tac-Toe Spiels. Dafür haben sie es sich aber verdient, dass sie die fertige Platine nach dem Workshop behalten durften.
