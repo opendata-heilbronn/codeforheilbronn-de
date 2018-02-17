@@ -1,6 +1,6 @@
 ---
 layout: page
-feature_image: /uploads/banner-events.jpg
+feature_image: ./uploads/banner-events.jpg
 ---
 
 # Termine

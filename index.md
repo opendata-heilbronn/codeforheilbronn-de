@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Code for Heilbronn
-feature_image: /uploads/banner-home.jpg
+feature_image: ./uploads/banner-home.jpg
 description: Wir sind ein Verein von jungen Menschen, die sich für Technik interessieren und gerne ihr wissen mit anderen teilen. 
 ---
 

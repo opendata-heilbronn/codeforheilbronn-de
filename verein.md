@@ -1,6 +1,7 @@
 ---
 layout: page
-feature_image: /uploads/banner-verein.jpg
+feature_image: ./uploads/banner-verein.jpg
+title: Verein
 ---
 
 # Wie es begann
