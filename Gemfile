@@ -10,7 +10,8 @@ source "https://rubygems.org"
 # Happy Jekylling!
 gem "jekyll"
 
-gem "alembic-jekyll-theme"
+gem "jekyll-remote-theme"
+gem "jekyll-seo-tag"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
