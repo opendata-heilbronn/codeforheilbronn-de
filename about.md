@@ -3,8 +3,6 @@ layout: page
 feature_image: ./uploads/banner-about.jpg
 ---
 
-## Impressum 
-
 Coworking Heilbronn e.V.  
 Am Wollhaus 1  
 74072 Heilbronn  

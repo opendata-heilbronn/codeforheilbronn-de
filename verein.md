@@ -4,7 +4,7 @@ feature_image: ./uploads/banner-verein.jpg
 title: Verein
 ---
 
-# Wie es begann
+## Wie es begann
 
 Der Code for Heilbronn e.V. wurde am 24.07.2017 in Heilbronn gegründet. Code
 for Heilbronn war zuvor eine offene Initiative, die von Felix Ebert
@@ -13,7 +13,7 @@ auf Einladung der [Open Knowledge Foundation Deutschland](https://oknf.de)
 geründet, die das Vorbild der "Code for" Organisationen von Code for Amarica
 übernahm.
 
-# Code for Heilbronn e.V.
+## Code for Heilbronn e.V.
 Heute ist der Code for Heilbronn e.V. ein gemeinnütziger Verein
 und betreibt ein offenes FabLab in den Räumlichkeiten
 vom Coworking Space, organisiert Software- und Hardware Workshops und setzt sich
@@ -38,29 +38,29 @@ und keine Angst, Vorkenntnisse sind nicht notwendig.
 News und aktuelle Informationen zur Terminen findet ihr auf unserem Twitter Account
 [@codeforhn](https://twitter.com/codeforhn) und auf [Meetup](https://meetup.com/codeforhn/).
 
-# Treffen und Öffnungszeiten
+## Treffen und Öffnungszeiten
 
 Der feste Vereinstreff ist der Coding Abend &copy;, der jeden Donnerstag ab
 18 Uhr im Wollhaus, 5. Stock stattfindet.
 Das FabLab ist auch jeden zweiten Samstag ab 13 Uhr offen. Bitte schaut
 nach den genauen Öffnungszeiten auf [Meetup](https://meetup.com/codeforhn/).
 
-# Satzung
+## Satzung
 
 Die Satzung vom Code for Heilbronn findet ihr [hier](satzung.html).
 
-# Mitgliedsanträge
+## Mitgliedsanträge
 
 Die Mitgliedsanträge findet ihr im FabLab und [online](/uploads/mitgliedsantrag.pdf).
 
-# Badges
+## Badges
 
 Der Verein vergibt an aktive Mitglieder Badges. Badges sind kleine Sticker und
 eine Form der Anerkennung. Sie sollen dazu motivieren, Projekte fertig zu stellen und zu dokumentieren.
 
 Eine Liste aller Badges findet ihr [hier](badges.html).
 
-# Vorstand
+## Vorstand
 
 Vorstandsvorsitzender
 : Adrian Stabiszewski, [@nitegate](https://twitter.com/nitegate)

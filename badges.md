@@ -4,8 +4,6 @@ feature_image: ./uploads/banner-badges.jpg
 title: CFH-Badges
 ---
 
-# CFH-Badges
-
 Badges sind hexagonale Sticker. Sie eignen sich hervorragend um damit die Rückseite eines Laptops zu verschönern.
 Außerdem dienen Sie dazu, dass jeder selbstständig Ansprechpartner für einen bestimmten Skill finden kann.
 So kann z.B. ein neues Mitglied schnell jemanden mit Arduino Badge um fachliche Hilfe fragen oder jemanden

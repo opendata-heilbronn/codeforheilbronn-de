@@ -3,8 +3,6 @@ layout: page
 title: Satzung
 ---
 
-# Satzung
-
 Satzung von “Code for Heilbronn”
 in der von der Gründungsversammlung vom 24.07.2017 in Heilbronn beschlossenen Fassung.
 
