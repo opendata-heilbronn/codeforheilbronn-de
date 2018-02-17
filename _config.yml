@@ -3,7 +3,7 @@ description: >-
   Offene Werkstatt - Open Data - Software- und Hardware Workshops
 
 logo: /uploads/CodeForHeilbronn.svg
-theme: jekyll-theme-cayman
+theme: alembic-jekyll-theme
 lang: de-DE
 timezone: Europe/Berlin
 permalink: /:year/:month/:day/:title.html
