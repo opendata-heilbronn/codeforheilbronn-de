@@ -31,9 +31,11 @@ collections:
 
 navigation_header:
   Blog: /
-  Verein: /verein
-  Projekte: /projekte
-  Termine: /termine
+  Verein: /verein.html
+  Badges: /badges.html
+  Projekte: /projects.html
+  Termine: /events.html
+  Über: /about.html
 
 plugins:
   - jekyll-feed

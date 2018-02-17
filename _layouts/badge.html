@@ -1,17 +1,17 @@
+---
+layout: page
+---
 
-{% include head.html %}
+<div class="cfh-badge" style="background-image: url({{ page.image }})"></div>
 
-{% include navigation.html %}
+{{ content }}
 
-<div class="cfh-banner" style="background-image: url({{ site.data.design.headerimage }}); border-bottom: solid 7px {{ page.color }};"></div>
+<h2>Verliehen an</h2>
 
-<div class="content-container" style="margin-top: 100px;">
-
-    <div class="cfh-badge" style="background-image: url({{ page.image }})"></div>
-
-    {{ content }}
-</div>
-
-
-
-{% include footer.html %}
+{% for contributor in site.data.contributors %}
+    {% for ctr_badge in contributor.badges %}
+        {% if ctr_badge.id == page.bid %}
+            {% include cfh-contributor.html contributor=contributor.nick %}
+        {% endif %}
+    {% endfor %}
+{% endfor %}

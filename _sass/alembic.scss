@@ -1,5 +1,13 @@
 @charset "utf-8";
 
+.cfh-badge {
+  width: 80px;
+  height: 80px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
+
 // Import frameworks & theme styles
 @import "normalize",
 "settings",
@@ -7,3 +15,9 @@
 "syntax",
 "flex",
 "theme";
+
+@import 
+"event",
+"project",
+"cfh-banner",
+"cfh-contributor";
