@@ -2,12 +2,12 @@
 title: Erste Schritte Richtung Farmbot
 date: 2016-04-28
 tags: 
-- arduino
-- farmbot
-layout: blog
-subtitle: Code For Heilbronn und Fablab Neuenstadt veranstalten unter der Leitung von @MitchiLaser einen Arduino-Workshop für Einsteiger und Experten
-published: true
-teaser: "Juhu! Mit Gewinn des CodeWeek Award ist es uns im Rahmen von Code for Heilbronn möglich, einen Farmbot mit Kindern und Jugendlichen aufzubauen – ein Projekt, welches wir schon lange umsetzen wollten."
+    - arduino
+    - farmbot
+layout: post
+categories: CodeWeek
+category: FarmBot
+excerpt: "Juhu! Mit Gewinn des CodeWeek Award ist es uns im Rahmen von Code for Heilbronn möglich, einen Farmbot mit Kindern und Jugendlichen aufzubauen – ein Projekt, welches wir schon lange umsetzen wollten."
 authors:
 ---
 

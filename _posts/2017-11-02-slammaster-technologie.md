@@ -2,13 +2,13 @@
 title: Slammaster Technologiestack
 date: 2017-11-02
 tags: 
-- Poetry Slam
-- electron
-- slammaster
-layout: blog
+    - Poetry Slam
+    - electron
+    - slammaster
+layout: post
+category: Projekte
 subtitle: Das Slamtool bekommt eine Rundumerneuerung.
-published: true
-teaser: Wir haben eine Anfrage zum Poetry-Slam-Tool vom Kampf der Künste aus Hamburg bekommen. Da es nicht die einzige Anfrage in der letzten Zeit war, haben wir beschlossen, dass dass Projekt endlich einmal die lang geplanten Verbesserungen bekommen soll. Das bedeutet, dass der Slammaster komplett neu aufgebaut werden soll. Wir wollen ihn als Electron App auf alle gängigen Plattformen bringen. Desweiteren soll er eine massiv umgestaltete Bedienung bekommen. Die alte unübersichtliche Oberfläche fliegt heraus, herein kommt eine neue Intuitivere UI.
+excerpt: Wir haben eine Anfrage zum Poetry-Slam-Tool vom Kampf der Künste aus Hamburg bekommen. Da es nicht die einzige Anfrage in der letzten Zeit war, haben wir beschlossen, dass dass Projekt endlich einmal die lang geplanten Verbesserungen bekommen soll. Das bedeutet, dass der Slammaster komplett neu aufgebaut werden soll. Wir wollen ihn als Electron App auf alle gängigen Plattformen bringen. Desweiteren soll er eine massiv umgestaltete Bedienung bekommen. Die alte unübersichtliche Oberfläche fliegt heraus, herein kommt eine neue Intuitivere UI.
 authors: 
     - joni
 ---

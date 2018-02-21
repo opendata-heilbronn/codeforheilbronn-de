@@ -1,7 +1,7 @@
 ---
 layout: project
 name: tic-tac-toe-platine
-image: /uploads/b04e55a2-b08e-4c38-81cb-fdf56552397e.jpg
+feature_image: /uploads/b04e55a2-b08e-4c38-81cb-fdf56552397e.jpg
 badge: /uploads/CodeForHeilbronn.svg
 github: https://github.com/MitchiLaser/Tic_Tac_Toe
 teaser: 
