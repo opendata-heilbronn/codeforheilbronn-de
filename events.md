@@ -1,9 +1,8 @@
 ---
 layout: page
-feature_image: /uploads/banner-events.jpg
+feature_image: ./uploads/banner-events.jpg
+title: Termine
 ---
-
-# Termine
 
 Der __CodingAbend__, als allgemeines Treffen aller Aktiven findet jeden Donnerstag ab 18 Uhr statt.
 Dort wird zusammen an diversen Projekten gearbeitet. Die Termine und genauere Beschreibungen können auf

@@ -3,11 +3,11 @@ description: >-
   Offene Werkstatt - Open Data - Software- und Hardware Workshops
 
 logo: /uploads/CodeForHeilbronn.svg
-theme: alembic-jekyll-theme
 lang: de-DE
 timezone: Europe/Berlin
 permalink: /:year/:month/:day/:title.html
 
+remote_theme: daviddarnes/alembic
 
 markdown: kramdown
 
@@ -39,6 +39,8 @@ navigation_header:
 
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-seo-tag
 
 exclude:
    - Gemfile
