@@ -3,6 +3,7 @@ layout: post
 title: FabLab Opening
 feature_image: /uploads/fablab-opening-1.jpg
 category: Event
+author: adrian
 ---
 
 Heute haben wir offiziell das FabLab eingeweiht. Damit steht das
