@@ -11,6 +11,8 @@ contributors:
     - vale
     - leo
     - franz
+redirect_from:
+    - /bd501
 ---
 
 ## Projektbeschreibung
