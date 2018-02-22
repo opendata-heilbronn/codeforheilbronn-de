@@ -6,12 +6,7 @@
         {% endif %}
         
         <div class="cfh-card-content">
-            <h3>{{ include.project.name }}</h3>
+            <h2><p><a href="{{ include.project.url }}">{{ include.project.name }}</a></p></h2>
             <p>{{ include.project.teaser }}</p>
-        </div>
-
-
-        <div class="cfh-card-footer">
-            <a href="{{ include.project.url }}">Details zum Projekt</a>
         </div>
     </div>
