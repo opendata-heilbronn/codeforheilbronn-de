@@ -7,7 +7,7 @@ tags:
 categories:
   - CodingAbend
   - FarmBot
-layout: blog
+layout: post
 published: true
 teaser: "Der Farmbot kann nun per G-Code angesteuert werden."
 author: leo
