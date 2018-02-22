@@ -4,6 +4,7 @@ name: JaaScript
 bid: "108"
 tags: [aufgaben]
 image: /uploads/badge-108-javascript.svg
+permalink: /bd108
 color: rgb(251, 216, 60);
 published: true
 ---

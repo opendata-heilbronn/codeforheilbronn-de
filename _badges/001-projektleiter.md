@@ -4,6 +4,7 @@ name: Projektleiter
 bid: "001"
 tags: [aufgaben]
 image: /uploads/badge-001-projektleiter.svg
+permalink: /bd001
 color: rgb(255, 152, 0);
 published: true
 ---
