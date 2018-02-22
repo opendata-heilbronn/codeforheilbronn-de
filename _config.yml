@@ -31,11 +31,11 @@ collections:
 
 navigation_header:
   Blog: /
-  Verein: /verein.html
-  Badges: /badges.html
-  Projekte: /projects.html
-  Termine: /events.html
-  Über: /about.html
+  Verein: /verein
+  Badges: /badges
+  Projekte: /projects
+  Termine: /events
+  Über: /about
 
 plugins:
   - jekyll-feed

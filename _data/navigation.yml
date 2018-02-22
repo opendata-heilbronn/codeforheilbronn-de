@@ -4,19 +4,19 @@
   url: /
 
 - title: Projekte
-  url: /projects.html
+  url: /projects
 
 - title: Blog
-  url: /blog.html
+  url: /blog
 
 - title: Badges
-  url: /badges.html
+  url: /badges
 
 - title: Events
-  url: /events.html
+  url: /events
 
 - title: About
-  url: /about.html
+  url: /about
 
 
 #- title: Group of Things

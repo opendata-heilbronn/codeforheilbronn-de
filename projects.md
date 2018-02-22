@@ -1,6 +1,6 @@
 ---
 layout: page
-feature_image: ./uploads/banner-projects.jpg
+feature_image: /uploads/banner-projects.jpg
 title: Projekte
 ---
 

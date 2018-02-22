@@ -1,6 +1,6 @@
 ---
 layout: page
-feature_image: ./uploads/banner-badges.jpg
+feature_image: /uploads/banner-badges.jpg
 title: CFH-Badges
 ---
 
