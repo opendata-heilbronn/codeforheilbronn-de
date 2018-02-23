@@ -20,7 +20,9 @@ bestimmten Thema angeboten. Danach wird gemeinsam geübt, verbessert und entwick
 # Einladungen zu kommenden und vergangenen Events
 
 <div class="cfh-cards">
-{% for event in site.events limit: 3 %}
+{% assign events = site.posts | where: 'category', 'Einladung' | sort: 'date' | reverse %}
+
+{% for event in events limit: 3 %}
       {% include cfh-event-card.html event=event %}
 {% endfor %}
 </div>

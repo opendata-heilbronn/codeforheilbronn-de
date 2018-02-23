@@ -6,6 +6,8 @@ image: /uploads/9e87d584-21af-401d-970a-49a4d5beb35d.png
 published: true
 registration: https://www.meetup.com/de-DE/preview/codeforhn/events/243961462
 start: 15.12.2017
+category: Einladung
+author: joni
 ---
 
 Jeder Softwareentwickler_in kennt das Problem mit den kleinen Nebenprojekten oder entwickelt gar in seiner Freizeit eigene kleine Anwendungen.
