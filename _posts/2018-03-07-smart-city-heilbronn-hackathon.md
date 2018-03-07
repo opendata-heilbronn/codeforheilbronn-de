@@ -12,27 +12,19 @@ author: adrian
 ---
 
 Fraunhofer IAO und Code for Heilbronn laden am 17. März 2018 gemeinsam 
-zu einem Hackathon mit dem Thema Smart City / Campus ein. 
-Das Fraunhofer IAO möchte als zukunftsorientiertes Institut die Gewinnung 
-und Analyse von offenen Daten in Heilbronn etablieren, um Heilbronn so zu 
-einer »smarten« Stadt zu machen.
-Langfristig stehen vor allem die Entwicklung von neuen Diensten und 
-damit die Erleichterung des Lebens für das Institut im ferneren Interessenhorizont.
-
-Besonders unkritische, nicht-personenbezogene Daten sind ein Kernaspekt des 
-Hackathons und sollen am 17. März zusammen mit Code for Heilbronn 
-erhoben und verarbeitet werden. Die Erfassung der Daten soll 
-mittels eigener Sensorik geschehen, sodass zum Beispiel Schall, 
-Temperatur, Beleuchtung, die Qualität von WLAN oder Umweltdaten bald schon 
-der Öffentlichkeit zugänglich gemacht werden.
+zu einem Hackathon mit dem Thema Smart City / Campus ein. Das Fraunhofer 
+IAO möchte dieses Thema mit den lokalen Communities und mit den Studierenden angehen.
+Besonders unkritische, nicht-personenbezogene Daten sind ein Kernaspekt 
+des Hackathons und sollen zusammen mit Code for Heilbronn erhoben und 
+verarbeitet werden. Die Erfassung der Daten soll mittels eigener Sensorik 
+geschehen, sodass zum Beispiel Schall, Temperatur, Beleuchtung, die Qualität 
+von WLAN oder Umweltdaten bald schon der Öffentlichkeit zugänglich gemacht werden.
 
 Der Hackathon verbindet somit die Möglichkeit, mit Hardware zu arbeiten, 
 als auch Software zu entwickeln. Passende Sensorik ist zum Ausprobieren 
 vorhanden und ein paar Themenfelder wurden schon im Vorhinein definiert: 
 So zum Beispiel das Übertragen von Daten mit LoRa, das Erfassen von 
 Umweltdaten mit Mikrocontrollern und der Nutzung der entstandenen Daten.
-Interessierte sollten ihren eigenen Laptop mitbringen – für Verpflegung 
-und spannende Hardware ist gesorgt.
 
 [Via Pressemitteilung IAO](https://www.iao.fraunhofer.de/lang-de/presse-und-medien/aktuelles/1989-fraunhofer-iao-macht-bildungscampus-in-heilbronn-smart.html)
 
