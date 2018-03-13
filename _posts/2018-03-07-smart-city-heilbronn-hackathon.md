@@ -10,7 +10,10 @@ registration: https://www.meetup.com/de-DE/codeforhn/events/248306628/
 date: 2018-03-07
 author: adrian
 redirect_from:
-    - /scHack
+    - /scHack1
+    - /schack1
+    - /sc-hack-v1
+    - /180307
 ---
 
 Fraunhofer IAO und Code for Heilbronn laden am 17. März 2018 gemeinsam 
