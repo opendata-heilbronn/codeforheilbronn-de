@@ -33,13 +33,6 @@ Umweltdaten mit Mikrocontrollern und der Nutzung der entstandenen Daten.
 
 [Via Pressemitteilung IAO](https://www.iao.fraunhofer.de/lang-de/presse-und-medien/aktuelles/1989-fraunhofer-iao-macht-bildungscampus-in-heilbronn-smart.html)
 
-09:00 - 10:00 | Ankommen, Networking, Getränke & Snacks
-10:00 - 10:30 | Eröffnung
-10:30 - 11:00 | Kurzvorstellung der Sensoren, Projektideen
-11:00 - 19:00 | Hacken, Hacken, Hacken
-19:00 - 20:00 | Vorstellung der Projekte und Feedback
-ab 20:00      | Networking bei Snacks und Drinks
-
 Die Teilnahme ist für alle kostenlos. Für WiFi, Getränke und Snacks ist gesorgt. 
 Bitte bring dein Notebook oder andere spannende Hardware mit.
 
