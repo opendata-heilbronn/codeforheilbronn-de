@@ -6,7 +6,7 @@ logo: /uploads/CodeForHeilbronn.svg
 lang: de-DE
 timezone: Europe/Berlin
 permalink: /:year/:month/:day/:title.html
-avatarurl: favicon.png
+avatarurl: /favicon.png
 
 remote_theme: daviddarnes/alembic
 
