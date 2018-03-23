@@ -2,12 +2,11 @@
 layout: project
 name: Tisch-Steckdosenleisten
 feature_image: /uploads/prj_steckdosenleiste/teaser.jpg
-teaser: 
+teaser: "Um dem Problem von herumliegenden Steckerleisten entgegenzuwirken, wurden Montagemöglichkeiten für diese 3D-gedruckt."
 state: finished
 tag: Steckdosenleisten
 contributors:
     - franz
-    - vale
 
 ---
 
