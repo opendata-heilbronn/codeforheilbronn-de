@@ -3,7 +3,7 @@ layout: badge
 name: Projektleiter
 bid: "102"
 tags: [aufgaben]
-image: /uploads/badge-102-software.svg
+image: /uploads/badges/badge-102-software.svg
 permalink: /bd102
 color: rgb(139, 195, 74);
 published: true

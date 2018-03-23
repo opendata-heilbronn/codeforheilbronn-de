@@ -3,7 +3,7 @@ layout: badge
 name: Docker
 bid: "105"
 tags: [aufgaben]
-image: /uploads/badge-105-docker.svg
+image: /uploads/badges/badge-105-docker.svg
 permalink: /bd105
 color: rgb(36, 184, 235);
 published: true

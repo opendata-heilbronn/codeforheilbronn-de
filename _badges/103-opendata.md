@@ -3,7 +3,7 @@ layout: badge
 name: Projektleiter
 id: "103"
 tags: [aufgaben]
-image: /uploads/badge-103-opendata.svg
+image: /uploads/badges/badge-103-opendata.svg
 permalink: /bd103
 color: rgb(139, 195, 74);
 published: true

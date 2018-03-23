@@ -1,6 +1,6 @@
 ---
 layout: page
-feature_image: /uploads/banner-events.jpg
+feature_image: /uploads/site_internal/banner-events.jpg
 title: Termine
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-feature_image: /uploads/banner-verein.jpg
+feature_image: /uploads/site_internal/banner-verein.jpg
 title: Verein
 ---
 
@@ -51,7 +51,7 @@ Die Satzung vom Code for Heilbronn findet ihr [hier](satzung.html).
 
 ## Mitgliedsanträge
 
-Die Mitgliedsanträge findet ihr im FabLab und [online](/uploads/mitgliedsantrag.pdf).
+Die Mitgliedsanträge findet ihr im FabLab und [online](/uploads/Mitgliedsantrag.pdf).
 
 ## Badges
 
