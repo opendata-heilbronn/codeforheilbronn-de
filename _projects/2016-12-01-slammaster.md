@@ -1,6 +1,6 @@
 ---
 layout: project
-name: slammaster
+name: Slammaster
 feature_image: /uploads/f8a61419-f73c-492e-aaf1-585317507a92.png
 badge: /uploads/CodeForHeilbronn.svg
 github: https://github.com/opendata-heilbronn/slammaster
