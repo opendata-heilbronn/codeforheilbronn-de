@@ -2,28 +2,28 @@
 -   nick:       "joni" 
     name:       "Jonathan Günz"
     twitter:    "@harmoniemand"
-    avatar:     "/uploads/avatar-joni.png"
+    avatar:     "/uploads/avatars/avatar-joni.png"
     intro:      "Softwaredeveloper, Pfadfinder und Vollzeitnerd. Ich mag alles was LEDs hat."
     badges:     
 
 -   nick:       "patrick"
     name:       "Patrick"
     twitter:    "@patrick24651"
-    avatar:     "/uploads/avatar-patrick.jpg"
+    avatar:     "/uploads/avatars/avatar-patrick.jpg"
     intro:      ""
     badges:     
 
 -   nick:       "felix" 
     name:       "Felix Ebert"
     twitter:    "@femeb"
-    avatar:     "/uploads/avatar-felix.jpg"
+    avatar:     "/uploads/avatars/avatar-felix.jpg"
     intro:      "web developer, open data, Code For Heilbronn organizer"
     badges:     
 
 -   nick:       "vale"
     name:       "Valentin"
     twitter:    "@TheVale98"
-    avatar:     "/uploads/avatar-vale.jpg"
+    avatar:     "/uploads/avatars/avatar-vale.jpg"
     intro:      "hardware ist alternativlos"
     badges:
         -   id: "101"
@@ -32,28 +32,28 @@
 -   nick:       "leo"
     name:       "Leandro"
     twitter:    "@_LeoDJ"
-    avatar:     "/uploads/avatar-leo.jpg"
+    avatar:     "/uploads/avatars/avatar-leo.jpg"
     intro:      "wir machen das irgendwann (tm)"
     badges:
 
 -   nick:       "adrian"
     name:       "Adrian Stabiszewski"
     twitter:    "@nitegate"
-    avatar:     "/uploads/avatar-adrian.jpg"
+    avatar:     "/uploads/avatars/avatar-adrian.jpg"
     intro:      "Vorstand von CodeForHeilbronn e.V. - CoWorker in Heilbronn - Entrepreneur"
     badges:
 
 -   nick:       "franz"
     name:       "Franz Imschweiler"
     twitter:    "@FranzImsch"
-    avatar:     "/uploads/avatar-franz.jpg"
+    avatar:     "/uploads/avatars/avatar-franz.jpg"
     intro:      ""
     badges:
     
 -   nick:       "michi"
     name:       "Michael"
     twitter:    "@MitchiLaser"
-    avatar:     "/uploads/avatar-michi.jpg"
+    avatar:     "/uploads/avatars/avatar-michi.jpg"
     intro:      "Wird das Internet leichter, wenn ich etwas herunterlade?"
     badges:
         -   id: "002"
@@ -62,7 +62,7 @@
 -   nick:       "leon"
     name:       "Leon"
     twitter:    "@leon_hellmich"
-    avatar:     "/uploads/avatar-leon.jpg"
+    avatar:     "/uploads/avatars/avatar-leon.jpg"
     intro:      "Gummiball mit Fragenkanone?"
     badges: 
         -   id: "104"
@@ -71,5 +71,5 @@
 -   nick:       "kris"
     name:       "Kris"
     twitter:    ""
-    avatar:     "/uploads/avatar-kris.jpg"
+    avatar:     "/uploads/avatars/avatar-kris.jpg"
     intro:      "Embedded-Systems, Web-Developer"

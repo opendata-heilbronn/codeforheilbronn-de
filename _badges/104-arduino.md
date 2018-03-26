@@ -3,7 +3,7 @@ layout: badge
 name: Projektleiter
 bid: "104"
 tags: [aufgaben]
-image: /uploads/badge-104-arduino.svg
+image: /uploads/badges/badge-104-arduino.svg
 permalink: /bd104
 color: rgb(96, 125, 139);
 published: true

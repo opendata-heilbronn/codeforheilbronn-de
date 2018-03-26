@@ -2,7 +2,7 @@
 layout: event
 title: GitHub Hackathon - stop starting, start finishing 
 tags: [hackathon]
-image: /uploads/9e87d584-21af-401d-970a-49a4d5beb35d.png
+image: /uploads/post_media/github_mascot.png
 published: true
 registration: https://www.meetup.com/de-DE/preview/codeforhn/events/243961462
 start: 15.12.2017

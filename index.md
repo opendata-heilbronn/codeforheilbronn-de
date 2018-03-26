@@ -1,6 +1,6 @@
 ---
 layout: blog
-feature_image: /uploads/banner-home.jpg
+feature_image: /uploads/site_internal/banner-home.jpg
 description: Wir sind ein Verein von jungen Menschen, die sich für Technik interessieren und gerne ihr Wissen mit anderen teilen. 
 ---
 
