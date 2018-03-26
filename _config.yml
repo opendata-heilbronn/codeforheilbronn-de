@@ -38,6 +38,11 @@ navigation_header:
   Termine: /events
   Über: /about
 
+navigation_footer:
+  Kategorien: /categories
+  Satzung: /satzung
+  Mitgliedsantrag: /uploads/Mitgliedsantrag.pdf
+
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
