@@ -32,11 +32,11 @@ collections:
 
 navigation_header:
   Blog: /
-  Verein: /verein
-  Badges: /badges
-  Projekte: /projects
-  Termine: /events
-  Über: /about
+  Verein: /verein/
+  Badges: /badges/
+  Projekte: /projects/
+  Termine: /events/
+  Über: /about/
 
 navigation_footer:
   Kategorien: /categories
