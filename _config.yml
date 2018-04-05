@@ -2,10 +2,10 @@ title: Code for Heilbronn e.V.
 description: >-
   Offene Werkstatt - Open Data - Software- und Hardware Workshops
 
+permalink: /:title.html
 logo: /uploads/CodeForHeilbronn.svg
 lang: de-DE
 timezone: Europe/Berlin
-permalink: /:year/:month/:day/:title.html
 avatarurl: /favicon.png
 
 remote_theme: daviddarnes/alembic
@@ -28,7 +28,13 @@ collections:
   events:
     title: Events
     output: true
-
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    permalink: /:year/:month/:day/:title.html
 
 navigation_header:
   Blog: /
