@@ -1,0 +1,46 @@
+{% for contr in site.contributors %} {% if contr.nick == include.contributor %} {% assign i_contributor = contr %} {% endif
+%} {% endfor %}
+
+<div class="cfh-contributor cfh-contributor-image" style="background-image: url({{ i_contributor.avatar }});">
+
+    <div class="cfh-card" style="min-width: 180px;">
+        <div class="cfh-card-image" style="background-image: url({{ i_contributor.avatar }});"></div>
+
+        <div class="container p-2">
+            <div class="row">
+                <div class="col text-uppercase font-weight-bold">
+                    {{ i_contributor.name }}
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    {{ i_contributor.intro }}
+                </div>
+            </div>
+
+            {% if i_contributor.twitter %}
+            <div class="row">
+                <div class="col">
+                    <a href="https://twitter.com/{{i_contributor.twitter}}">
+                        <img class="" style="max-width: 24px;" src="/uploads/site_internal/logo-twitter.svg" />
+                        <span class="">{{i_contributor.twitter}}</span>
+                    </a>
+                </div>
+            </div>
+            {% endif %}
+
+            <div class="row mt-2">
+                <div class="col-12 font-weight-bold">
+                    Erworbene Badges:
+                </div>
+                <div class="col-12">
+                    {% for id in i_contributor.badges %} {% for badge in site.badges %} {% if badge.bid == id.id %}
+                    <a href="{{ badge.url }}" style="text-decoration: none;">
+                        <img class="cfh-card-badge-small" style="max-width: 48px; min-width: 48px;" src="{{badge.image}}" />
+                    </a>
+                    {% endif %} {% endfor %} {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

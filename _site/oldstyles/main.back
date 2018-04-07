@@ -1,0 +1,23 @@
+* {
+    outline: none;
+}
+
+
+
+@import "partials/common.scss";
+@import "partials/navigation.scss";
+@import "partials/footer.scss";
+@import "partials/event.scss";
+@import "partials/project.scss";
+@import "partials/blog.scss";
+
+@import "partials/cfh-banner.scss";
+@import "partials/cfh-card.scss";
+@import "partials/cfh-badge-list.scss";
+@import "partials/cfh-event-header.scss";
+@import "partials/cfh-contributor.scss";
+@import "partials/cfh-code.scss";
+
+@import "partials/layout-project.scss";
+
+@import "partials/site-index.scss";

@@ -1,0 +1,32 @@
+
+stages:
+  - test
+  - deploy
+
+test:
+  stage: test
+  script: echo "no tests needed for a jekyll app"
+
+deploy_test:
+  stage: deploy
+  script:
+    - jekyll build --destination /var/www/staticsites/test-codeforheilbronn-de
+  tags:
+    - shell
+  environment:
+    name: Test
+    url: http://test.codeforheilbronn.de
+  only:
+    - develop
+
+deploy_production:
+  stage: deploy
+  script:
+    - jekyll build --destination /var/www/staticsites/codeforheilbronn-de
+  tags:
+    - shell
+  environment:
+    name: Production
+    url: http://codeforheilbronn.de
+  only:
+    - master

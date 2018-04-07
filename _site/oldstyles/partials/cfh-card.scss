@@ -1,0 +1,97 @@
+
+.cfh-cards {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    flex-wrap: wrap;
+}
+
+.cfh-card-float-right {
+    .cfh-card{
+        float: right;
+        margin-left: 20px;
+    }
+}
+
+.cfh-card {
+    width: 30%;
+    height: 450px;
+    background: rgb(255,255,255);
+    box-shadow: rgb(200, 200, 200) 0px 0px 10px;
+    border-radius: 2px;
+    position: relative;
+    margin-top: 20px;
+    min-width: 350px;
+
+
+    .cfh-card-image {
+        background: #3f51b5;
+        background-size: cover;
+        background-position: center;
+        width: 100%;
+        height: 200px;
+        border-top-left-radius: 2px;
+        border-top-right-radius: 2px;
+    }
+
+    .cfh-card-badge {
+        width: 100px;
+        height: 100px;
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-position: center;
+        position: absolute;
+        top: 150px;
+        left: 25px;
+    }
+
+    .cfh-card-content {
+        padding: 20px;
+        height: 200px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        text-align: justify;
+
+        h3 {
+            margin-top: 0;
+            margin-bottom: 30px;
+        }
+
+        .cfh-card-badge-small {
+            max-width: 40px;
+            max-height: 40px;
+        }
+    }
+
+    .cfh-card-footer {
+        text-align: right;
+        padding: 0 20px;
+
+        a {
+            text-decoration: none;
+            color: unset;
+            background: rgb(230, 230, 230);
+            padding: 5px 10px;
+            display: flex;
+
+            .cfh-card-footer-icon {
+                max-width: 30px;
+                max-height: 30px;
+                margin-right: 10px;
+            }
+            .cfh-card-footer-label {
+                line-height: 30px;
+            }
+        }
+
+    }
+}
+
+.cfh-project-card {
+    .cfh-card-content {
+
+        h3 {
+            padding-left: 130px;
+        }
+    }
+}

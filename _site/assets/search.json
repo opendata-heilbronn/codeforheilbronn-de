@@ -1,0 +1,398 @@
+
+
+[
+  
+  
+    
+    
+      {
+        "title": "001 Projektleiter",
+        "excerpt": "Voraussetzungen\n\n",
+        "content": "Voraussetzungen\n\nDieser Badge wird für den erfolgreichen Abschluss eines Projektes verliehen.\n\n\n  Ein abgeschlossenes Projekt\n  Das Projekt muss dokumentiert sein\n  Am Projekt müssen mindestens 2 weitere Personen mitgearbeitet haben\n\n\n",
+        "url": "/bd001"
+      },
+    
+      {
+        "title": "002 Speaker",
+        "excerpt": "Voraussetzungen\n\n",
+        "content": "Voraussetzungen\n\nDieser Badge wird für einen vorbereiteten und geleiteten Workshop verliehen.\n\n\n  Der Workshop muss vorbereitet, gehalten und dokumentiert werden\n  Der Workshop muss mindestens 30 Minuten gehen\n  Beim Workshop müssen mindestens 5 weitere Personen anwesend sein\n\n\n",
+        "url": "/bd002"
+      },
+    
+      {
+        "title": "003 Unicorn",
+        "excerpt": "\n",
+        "content": "\n",
+        "url": "/bd003"
+      },
+    
+      {
+        "title": "101 Hardware",
+        "excerpt": "Voraussetzungen\n\n",
+        "content": "Voraussetzungen\n\nDieser Badge wird für ein abgeschlossenes und dokumentiertes Hardware-Projekt verliehen.\n\n\n  Das Projekt muss einen überwiegenden Hardwareanteil haben.\n  Das Projekt muss abgeschlossen (Projektziel erfüllt) sein.\n  Das Projekt muss auf codeforheilbronn.de dokumentiert sein.\n  Der Quellcode muss auf Github veröffentlicht werden.\n\n\n",
+        "url": "/bd101"
+      },
+    
+      {
+        "title": "102 Software",
+        "excerpt": "Voraussetzungen\n\n",
+        "content": "Voraussetzungen\n\nDieser Badge wird für ein abgeschlossenes und dokumentiertes Software-Projekt verliehen.\n\n\n  Das Projekt muss einen überwiegenden Softwareanteil haben.\n  Das Projekt muss abgeschlossen (Projektziel erfüllt) sein.\n  Das Projekt muss auf codeforheilbronn.de dokumentiert sein.\n  Der Quellcode muss auf Github veröffentlicht werden.\n\n\n",
+        "url": "/bd102"
+      },
+    
+      {
+        "title": "103 Opendata",
+        "excerpt": "Voraussetzungen\n\n",
+        "content": "Voraussetzungen\n\nDieser Badge wird für ein abgeschlossenes und dokumentiertes OpenData-Projekt verliehen.\n\n\n  Das Projekt muss entweder offene Daten generieren, bereitstellen oder nutzen.\n  Das Projekt muss abgeschlossen (Projektziel erfüllt) sein.\n  Das Projekt muss auf codeforheilbronn.de dokumentiert sein.\n  Der Quellcode muss auf Github veröffentlicht werden.\n\n\n",
+        "url": "/bd103"
+      },
+    
+      {
+        "title": "104 Arduino",
+        "excerpt": "Voraussetzungen\n\n",
+        "content": "Voraussetzungen\n\nDieser Badge wird für ein abgeschlossenes und dokumentiertes Arduino-Projekt verliehen.\n\n\n  Das Projekt muss die Arduino-Library nutzen und einen kompatiblen Microcontroller.\n  Das Projekt muss abgeschlossen (Projektziel erfüllt) sein.\n  Das Projekt muss auf codeforheilbronn.de dokumentiert sein.\n  Der Quellcode muss auf Github veröffentlicht werden.\n\n\n",
+        "url": "/bd104"
+      },
+    
+      {
+        "title": "105 Docker",
+        "excerpt": "Voraussetzungen\n\n",
+        "content": "Voraussetzungen\n\nDieser Badge wird für ein abgeschlossenes und dokumentiertes Projekt mit Dockerintegration verliehen.\n\n\n  Das Projekt muss an einer Stelle mit Docker arbeiten oder Docker selbst erweitern oder verbessern.\n  Das Projekt muss abgeschlossen (Projektziel erfüllt) sein.\n  Das Projekt muss auf codeforheilbronn.de dokumentiert sein.\n  Der Quellcode muss auf Github veröffentlicht werden.\n\n\n",
+        "url": "/bd105"
+      },
+    
+      {
+        "title": "107 Git",
+        "excerpt": "Voraussetzungen\n\n",
+        "content": "Voraussetzungen\n\nDieser Badge wird verliehen, wenn bei einem Projekt erfolgreich GIT eingesetzt und an einem GIT-Workshop teilgenommen wurde.\n\n\n  Teilnahme an einem GIT-Workshop\n  Mindestens 5 Commits an einem Projekt\n\n\n",
+        "url": "/bd107"
+      },
+    
+      {
+        "title": "108 Javascript",
+        "excerpt": "Voraussetzungen\n\n",
+        "content": "Voraussetzungen\n\nDieser Badge wird für ein abgeschlossenes und dokumentiertes JavaScript-Projekt verliehen.\n\n\n  Das Projekt muss einen überwiegenden JavaScript-Anteil haben.\n  Das Projekt muss abgeschlossen (Projektziel erfüllt) sein.\n  Das Projekt muss auf codeforheilbronn.de dokumentiert sein.\n  Der Quellcode muss auf Github veröffentlicht werden.\n\n\n",
+        "url": "/bd108"
+      },
+    
+      {
+        "title": "109 Java",
+        "excerpt": "Voraussetzungen\n\n",
+        "content": "Voraussetzungen\n\nDieser Badge wird für ein abgeschlossenes und dokumentiertes Java-Projekt verliehen.\n\n\n  Das Projekt muss einen überwiegenden Java-Anteil haben.\n  Das Projekt muss abgeschlossen (Projektziel erfüllt) sein.\n  Das Projekt muss auf codeforheilbronn.de dokumentiert sein.\n  Der Quellcode muss auf Github veröffentlicht werden.\n\n\n",
+        "url": "/bd109"
+      },
+    
+      {
+        "title": "110 Cpp",
+        "excerpt": "Voraussetzungen\n\n",
+        "content": "Voraussetzungen\n\nDieser Badge wird für ein abgeschlossenes und dokumentiertes C++ oder C Projekt verliehen.\n\n\n  Das Projekt muss einen überwiegenden C++ oder C Anteil haben.\n  Das Projekt muss abgeschlossen (Projektziel erfüllt) sein.\n  Das Projekt muss auf codeforheilbronn.de dokumentiert sein.\n  Der Quellcode muss auf Github veröffentlicht werden.\n\n\n",
+        "url": "/bd110"
+      },
+    
+      {
+        "title": "111 Csharp",
+        "excerpt": "Voraussetzungen\n\n",
+        "content": "Voraussetzungen\n\nDieser Badge wird für ein abgeschlossenes und dokumentiertes C# Projekt verliehen.\n\n\n  Das Projekt muss einen überwiegenden C# Anteil haben.\n  Das Projekt muss abgeschlossen (Projektziel erfüllt) sein.\n  Das Projekt muss auf codeforheilbronn.de dokumentiert sein.\n  Der Quellcode muss auf Github veröffentlicht werden.\n\n",
+        "url": "/bd111"
+      },
+    
+  
+    
+    
+      {
+        "title": "Adrian",
+        "excerpt": "\n",
+        "content": "\n",
+        "url": "/contributors/adrian"
+      },
+    
+      {
+        "title": "Felix",
+        "excerpt": "\n",
+        "content": "\n",
+        "url": "/contributors/felix"
+      },
+    
+      {
+        "title": "Franz",
+        "excerpt": "\n",
+        "content": "\n",
+        "url": "/contributors/franz"
+      },
+    
+      {
+        "title": "Joni",
+        "excerpt": "\n",
+        "content": "\n",
+        "url": "/contributors/joni"
+      },
+    
+      {
+        "title": "Kris",
+        "excerpt": "\n",
+        "content": "\n",
+        "url": "/contributors/kris"
+      },
+    
+      {
+        "title": "Leo",
+        "excerpt": "\n",
+        "content": "\n",
+        "url": "/contributors/leo"
+      },
+    
+      {
+        "title": "Leon",
+        "excerpt": "\n",
+        "content": "\n",
+        "url": "/contributors/leon"
+      },
+    
+      {
+        "title": "Michi",
+        "excerpt": "\n",
+        "content": "\n",
+        "url": "/contributors/michi"
+      },
+    
+      {
+        "title": "Mike",
+        "excerpt": "\n",
+        "content": "\n",
+        "url": "/contributors/mike"
+      },
+    
+      {
+        "title": "Patrick",
+        "excerpt": "\n",
+        "content": "\n",
+        "url": "/contributors/patrick"
+      },
+    
+      {
+        "title": "Tim",
+        "excerpt": "\n",
+        "content": "\n",
+        "url": "/contributors/tim"
+      },
+    
+      {
+        "title": "Vale",
+        "excerpt": "\n",
+        "content": "\n",
+        "url": "/contributors/vale"
+      },
+    
+  
+    
+    
+  
+    
+    
+      {
+        "title": "Erste Schritte Richtung Farmbot",
+        "excerpt": "Juhu! Mit Gewinn des CodeWeek Award ist es uns im Rahmen von Code for Heilbronn möglich, einen Farmbot mit Kindern und Jugendlichen aufzubauen – ein Projekt, welches wir schon lange umsetzen wollten.\n",
+        "content": "Dieser Artikel ist ursprünglich auf award.coweek.de veröffentlich worden.\n\nDer Originalartikel kann hier abgerufen werden -&gt; Originalartikel\n\n\n\nJuhu! Mit Gewinn des CodeWeek Award ist es uns im Rahmen von Code for Heilbronn möglich, einen Farmbot mit Kindern und Jugendlichen aufzubauen – ein Projekt, welches wir schon lange umsetzen wollten.\n\nIn den vergangenen Wochen haben wir nun erste Schritte in Richtung Aufbau des Selbstversorger-Roboters unternommen. Inzwischen weiß bei uns jeder, was mit Gantry, Cross Slide oder Main Beam gemeint ist. Wir haben eine lokalisierte Einkaufsliste basierend auf der Bill of Materials Liste erstellt und die meisten Teile davon bereits bestellt, insbesondere Elektronik und Schienen. Die Einkaufsliste werden wir als Dokumentation zum Nachbau für andere demnächst in einem extra Blogpost teilen.\n\nIn Workshops haben wir in unserer Gruppe die Kenntnisse im Bereich Hardware und Elektronik vertieft. Dazu haben wir LED-Lampen blinken lassen, Wasserpumpen mit einem Arduino angesteuert, Bodenfeuchtesensoren ausgelesen, gelötet, Schaltpläne erstellt und vieles mehr. Das bereitet unheimlich viel Spaß und hat auch Teilnehmer begeistert, die vorher nie programmiert haben. Dies alles führen wir während unserer Coding-Abende jeden Donnerstag ab 18 Uhr im Coworking Space Heilbronn durch, so dass jeder mitmachen kann.\n\nGleichzeitig haben wir Kontakt zur Bundesgartenschau Heilbronn 2019 GmbH aufgenommen. Die Gespräche verliefen sehr positiv und wir haben nun die offizielle Unterstützung der Buga hier in Heilbronn, so dass wir den Namen “Code for Buga 2019” auch ganz offiziell benutzen dürfen und weitere Unterstützung wie einen Platz zum Gärtnern auf dem Bundesgartenschaugelände erhalten können.\n\nNun folgt bald der erste großer Hackday, auf den wir uns schon sehr freuen. Am 04. Juni laden wir insbesondere Schüler zwischen 12-18 Jahren dazu ein, in mehreren Gruppen an der Umsetzung des Farmbots zu arbeiten. Einige der Teilnehmer (zum Teil selbst Schüler) und wir als Organisatoren werden die Gruppen als Mentoren unterstützen.\n\nZum Abschluss möchten wir insbesondere den Schülern Franz und Simon danken für die Unterstützung des Projekts – wir konnten bereits viel Hardware-Kenntnisse von ihnen lernen.\n",
+        "url": "/2016/04/28/erste-schritte-farmbot.html"
+      },
+    
+      {
+        "title": "Farmbot Hackday",
+        "excerpt": "Während dem Hackday haben sich die Teilnehmer recht schnell in mehrere Gruppen aufgeteilt.\nEs fand sich ein Team, das sich um den Aufbau der Mechanik des FarmBots kümmerte, ein Team, das die Ansteuerung der Motoren vorbereitete und ein Team, das das Auslesen diverser Sensoren mithilfe von Arduinos übernahm.\n\n",
+        "content": "Während dem Hackday haben sich die Teilnehmer recht schnell in mehrere Gruppen aufgeteilt.\nEs fand sich ein Team, das sich um den Aufbau der Mechanik des FarmBots kümmerte, ein Team, das die Ansteuerung der Motoren vorbereitete und ein Team, das das Auslesen diverser Sensoren mithilfe von Arduinos übernahm.\n\nDie Atmosphäre über den Tag war unglaublich. Von Jung bis Alt wurde produktiv programmiert, gesägt und gebastelt. Jeder hatte seinen Spaß und konnte am Ende des Tages Erfolg vermelden.\n\nEin Highlight des Tages war die erfolgreiche Ansteuerung der Schrittmotoren. Sozusagen die “ersten Schritte” des Farmbots mitzuerleben und auch dabei mitgeholfen zu haben ist schon etwas Tolles.\n\nAls Abschluss des Tages wurde dem Farmbot sogar beigebracht, Musik zu machen:\n\nPirates oft the caribian bei #farmbot @codeforhn pic.twitter.com/kqLhKKN0yT&mdash; joni und 753 anderen (@harmoniemand) June 4, 2016\n\n\n",
+        "url": "/2016/06/04/hackday.html"
+      },
+    
+      {
+        "title": "Coding Abend - Farmbot Tweaks",
+        "excerpt": "Am heutigen Coding Abend wurde viel an der Firmware für die Ansteuerung der Motoren des Farmbots geschraubt.\n\n",
+        "content": "Am heutigen Coding Abend wurde viel an der Firmware für die Ansteuerung der Motoren des Farmbots geschraubt.\n\nZu Beginn haben wir den Farmbot im Meetingraum aufgestellt, damit alle um ihn herum sitzen konnten. Der Farmbot wurde auf jeder Achse um einen zweiten Endstop erweitert, damit er genau erkennen kann, wie lang eine Achse ist.\n\nAuch die Entwicklung der Firmware hat einen großen Schritt voran gemacht. Es wurden weitere G-Code-Befehle implementiert und das Zusammenspiel der einzelnen Achsen verbessert.\n\nAm Ende des Tages hatten wir einen Farmbot, der sich nun genau auf seinen Achsen orientieren konnte:\n\nDer Farmbot kennt nun dank zwei Endstops je Achse genau seine Grenzen - danke an @_LeoDJ @LabVonUndZuMeow @FranzImsch pic.twitter.com/Pyu9wJBIlw&mdash; Code for Heilbronn e. V. (@codeforhn) January 19, 2017\n\n\n",
+        "url": "/2017/01/19/coding-abend.html"
+      },
+    
+      {
+        "title": "Arduino Workshop",
+        "excerpt": "Arduinos sind unter den Makern sehr beliebt, vor allem weil man sie für sehr, sehr viele Projekte verwenden kann. Dieser Workshop zeigt, wie man mit ganz einfachen Gegenständen wie LEDs und Tastern ein Arduino-Bastelprojekt realisieren kann. Jeder Teilnehmer hat am Ende ein fertig programmiertes Tic-Tac-Toe Spiel, welches er mit nach Hause nehmen kann. Jetzt fehlt nur noch ein Freund, gegen den man spielen kann. Die Veranstaltung ist eine Zusammenarbeit aus CodeForHeilbronn und FabLab Neuenstadt, veranstaltet vom Jugendförderverein Brückedächle e.V.\n",
+        "content": "Am 07.10. hat in Europa die CodeWeek begonnen und bei Code For Heilbronn standen an diesem Wochenende die Türen offen für die Teilnahme an einem Arduino-Workshop für Einsteiger und Experten. Dabei waren die Teilnehmer hart im Nehmen: Grundkenntnisse C++, Elektronik und dann auch noch Programmierung eines Tic-Tac-Toe Spiels. Dafür haben sie es sich aber verdient, dass sie die fertige Platine nach dem Workshop behalten durften.\n\nUnd Was haben wir gemacht?\n\nAngefangen hat der Workshop auf rein theoretischer Ebene, bei der die Grundkenntnisse der Programmiersprache C++ übermittelt wurden. Weil unsere Teilnehmer alle noch sehr jung waren und darin, haben wir uns Mühe gegeben, alles so anzustellen, dass es auch jeder versteht: unkompliziert und idiotensicher.\n\nGleich danach konnten die frisch geschlüpften Programmierer das anwenden, was sie nach der Theoriestunde noch im Kopf hatten. Für die Praxisphase wurden dann der Einstieg mit 2 kleinen Programmierübungen vereinfacht: ein Programm um die gedrückte Taste einzulesen und ein Programm um die Status-LED der Platine blinken zu lassen.\n\nDanach wurde es Ernst: wir haben gemeinsam ein Tic-Tac-Toe Spiel programmiert. Wer das Spiel fertig bekommen hat (glücklicherweise alle, weil wir keinen Programmiereinsteiger auf der Strecke liegen lassen), durfte die Platine mit dem fertigen Tic-Tac-Toe Spiel mit Heim nehmen.\n\nPlatine? Sagt bloß …\n\nJa, wir haben das Spiel auf eine Platine gepackt. Mittig war das Herz der Platine: ein Arduino Nano. Unser Spielfeld war eine 3x3 RGB LED Matrix, über der sich noch eine weitere RGB LED als Status-LED befang. Warum RGB? - Naja, man braucht für 2 Spieler 2 Farben und wer möchte, kann sein Programm so konfigurieren, dass er seine Lieblingsfarben für jeden Spieler verwendet. Bei den Tasten haben wir ein wenig mit den Pins vom Arduino gespart: ein Spannungsteiler, bei den über den AD-Wandler eingelesen wurde, welche Taste gedrückt wurde. Gerade für Anfänger ist es nicht schwer, zu verstehen, wie ein Spannungsteiler und ein Mutiplexer funktioniert.\n\nDa wir 20 Platinen für genauso viele Teilnehmer bestellt haben, sind wir natürlich überaus froh, Meet and Code als Sponsor bekommen zu haben. Andererseits hätten die Teilnehmer ihre Platinen nicht mit heim nehmen können.\n\nDie von uns erstellte Platine ist nicht nur zum Tic-Tac-Toe Spielen gedacht, sondern ein richtiges Multitalent. Sie wurde so entwickelt, dass die Teilnehmer des Workshops nach ihrer eigenen Kreativität Spiele dafür entwickeln können, wie z.B. das Spiel Senso oder ein Programm, mit dem man die Platine als Würfel verwenden kann.\n\nUnd das fertige Spiel?\n\nDas Programm wurde so entwickelt, dass es gerade für Einsteiger leichter zu verstehen ist. Natürlich ist es Open Source und für jeden frei verwendbar.\n\nint Spielfeld[9];\nint Spieler;\nint Gewinner;\n\n// Alle Pins, die mit den LEDs verbunden sind, auf Ausgang setzen\nvoid Init(void)\n{\n    for (int i = 2; i &lt; 15; i++) {\n        pinMode(i, OUTPUT);\n    }\n}\n\n// Um alle LEDs aus zu schalten, müssen die damit verbundenen Pins auf LOW gesetzt werden.\nvoid AllesAus(void)\n{\n    for (int i = 2; i &lt; 15; i++) {\n        // Der Pin 11 muss abeer auf HIGH gesetzt werden, weil er nicht mit einem Transistor verbunden ist\n        if (i != 11) {\n            digitalWrite(i, HIGH);\n        }\n        else {\n            digitalWrite(i, LOW);\n        }\n    }\n}\n\n//  Zu Beginn eines Spiels werden alle Variablen auf ihren Standardwert gesetzt\nvoid InitVariablen(void)\n{\n    // Alle Elemente des Arrays Spielfeld werden mit 0 belegt\n    for (int i = 0; i &lt; 9; i++) {\n        Spielfeld[i] = 0;\n    }\n\n    // Spieler 1 darf mit dem Spiel beginnen\n    Spieler = 1;\n\n    // Noch hat niemand gewonnen. Deshalb wird diese Variable mit 0 belegt\n    Gewinner = 0;\n}\n\n// Diese Funktion liefert zurück, welche Taste atuell gedrückt wird.\n// Alle Tasten bilden einen Spannungsteiler, mit dem das Verhältnis der Widerstände zueinander über einen AD-Wandler ausgelesen wird.\n// Falls keine Tate gedrückt wird, zieht der Pulldown-Widerstand die Spannung auf 0V\nint TasteGedrueckt(void)\n{\n    // 10 bedeutet, dass keine Taste gedrückt wird\n    int Taste = 10;\n\n    int ADC_Wert = analogRead(A7);\n\n    // Im Folgenen werden die Werte des AD-Wandlers verglichen. daraus wird dann ermittelt, welche taste gedrückt wird\n\n    if ((ADC_Wert &gt; 360) &amp;&amp; (ADC_Wert &lt; 370)) {\n        Taste = 0;\n    }\n    if ((ADC_Wert &gt; 560) &amp;&amp; (ADC_Wert &lt; 570)) {\n        Taste = 1;\n    }\n    if ((ADC_Wert &gt; 635) &amp;&amp; (ADC_Wert &lt; 645)) {\n        Taste = 2;\n    }\n    if ((ADC_Wert &gt; 390) &amp;&amp; (ADC_Wert &lt; 400)) {\n        Taste = 3;\n    }\n    if ((ADC_Wert &gt; 500) &amp;&amp; (ADC_Wert &lt; 515)) {\n        Taste = 4;\n    }\n    if ((ADC_Wert &gt; 725) &amp;&amp; (ADC_Wert &lt; 735)) {\n        Taste = 5;\n    }\n    if ((ADC_Wert &gt; 415) &amp;&amp; (ADC_Wert &lt; 430)) {\n        Taste = 6;\n    }\n    if ((ADC_Wert &gt; 460) &amp;&amp; (ADC_Wert &lt; 470)) {\n        Taste = 7;\n    }\n    if ((ADC_Wert &gt; 845) &amp;&amp; (ADC_Wert &lt; 860)) {\n        Taste = 8;\n    }\n\n    //Serial.println( Taste );\n\n    // Der ermittelte wert für die Taste wird anschließend zurückgegeben\n    return Taste;\n}\n\n// Diese Funktion kümmert sich um die Ausgabe der Status-LED\nvoid AusgabeStatusLED(void)\n{\n    // Je nachdem, welcher Spieler gerade dran ist, leuchtet die LED in einer bestimmten Farbe\n    switch (Spieler) {\n    case 0: // Allle Farben aus\n        digitalWrite(5, HIGH);\n        digitalWrite(7, HIGH);\n        digitalWrite(8, HIGH);\n        break;\n    case 1: // Rot\n        digitalWrite(5, HIGH);\n        digitalWrite(7, HIGH);\n        digitalWrite(8, LOW);\n        break;\n    case 2: // Gruen\n        digitalWrite(5, HIGH);\n        digitalWrite(7, LOW);\n        digitalWrite(8, HIGH);\n        break;\n    case 3: // Blau\n        digitalWrite(5, LOW);\n        digitalWrite(7, HIGH);\n        digitalWrite(8, HIGH);\n        break;\n    }\n\n    // Setze die gemeinsame Kathode auf HIGH und schalte die LED somit an\n    digitalWrite(11, HIGH);\n\n    // Warte eine Millisekunde\n    delay(1);\n\n    // Schalte die LED aus\n    digitalWrite(11, LOW);\n\n    AllesAus();\n}\n\n// Diese Funktion gibt den Inhalt des Arrays Spielfeld auf der LED Matrix aus.\nvoid AusgabeLEDs()\n{\n    // Das wird für alle 3 Zeilen widerholt\n    for (int i = 0; i &lt; 3; i++) {\n        // Prüfe die LEDs 0, 3 und 6\n        switch (Spielfeld[3 * i]) {\n        case 0: // alle Farben aus\n            digitalWrite(2, HIGH);\n            digitalWrite(3, HIGH);\n            digitalWrite(4, HIGH);\n            break;\n        case 1: // Rot\n            digitalWrite(2, LOW);\n            digitalWrite(3, HIGH);\n            digitalWrite(4, HIGH);\n            break;\n        case 2: // Gruen\n            digitalWrite(2, HIGH);\n            digitalWrite(3, LOW);\n            digitalWrite(4, HIGH);\n            break;\n        case 3: // Blau\n            digitalWrite(2, HIGH);\n            digitalWrite(3, HIGH);\n            digitalWrite(4, LOW);\n            break;\n        }\n\n        // Pruefe die LEDs 1, 4 und 7\n        switch (Spielfeld[3 * i + 1]) {\n        case 0: // Allle Farben aus\n            digitalWrite(5, HIGH);\n            digitalWrite(7, HIGH);\n            digitalWrite(8, HIGH);\n            break;\n        case 1: // Rot\n            digitalWrite(5, HIGH);\n            digitalWrite(7, HIGH);\n            digitalWrite(8, LOW);\n            break;\n        case 2: // Gruen\n            digitalWrite(5, HIGH);\n            digitalWrite(7, LOW);\n            digitalWrite(8, HIGH);\n            break;\n        case 3: // Blau\n            digitalWrite(5, LOW);\n            digitalWrite(7, HIGH);\n            digitalWrite(8, HIGH);\n            break;\n        }\n\n        // Pruefe die LEDs 2, 5 und 8\n        switch (Spielfeld[3 * i + 2]) {\n        case 0: // alle Farben aus\n            digitalWrite(12, HIGH);\n            digitalWrite(13, HIGH);\n            digitalWrite(14, HIGH);\n            break;\n        case 1: // Rot\n            digitalWrite(12, LOW);\n            digitalWrite(13, HIGH);\n            digitalWrite(14, HIGH);\n            break;\n        case 2: // Gruen\n            digitalWrite(12, HIGH);\n            digitalWrite(13, HIGH);\n            digitalWrite(14, LOW);\n            break;\n        case 3: // Blau\n            digitalWrite(12, HIGH);\n            digitalWrite(13, LOW);\n            digitalWrite(14, HIGH);\n            break;\n        }\n\n        // Schalte die dazugehörigr gemeinsame Kathode an.\n        // Die Zustände an den Kathoden werden durch den Transistor invertiert\n        switch (i) {\n        case 0:\n            digitalWrite(10, LOW);\n            break;\n        case 1:\n            digitalWrite(9, LOW);\n            break;\n        case 2:\n            digitalWrite(6, LOW);\n            break;\n        }\n\n        // warte eine Millisekunde\n        delay(1);\n\n        // Schalte die LED Matrix wieder aus\n        AllesAus();\n    }\n}\n\n// Nach jedem Spielzug muss geprüft werden ob es einen Gewinner gibt\n// Dazu werden einfach die Werte in dem Array Spielfeld zeilenweise uns spaltenweise multipliziert\nvoid PruefeGewinner(void)\n{\n    int Produkt = 1;\n\n    // Pruefe zuerst, ob es ein Unentschieden gibt\n    for (int i = 0; i &lt; 9; i++) {\n        Produkt *= Spielfeld[i];\n    }\n    if (Produkt != 0) {\n        Gewinner = -1;\n    }\n\n    // Pruefe alle 3 Zeilen und Spalten\n    for (int i = 0; i &lt; 3; i++) {\n        Produkt = Spielfeld[0 + i] * Spielfeld[3 + i] * Spielfeld[6 + i];\n        if (Produkt == 1) {\n            Gewinner = 1;\n        }\n        if (Produkt == 8) {\n            Gewinner = 2;\n        }\n\n        Produkt = Spielfeld[0 + i * 3] * Spielfeld[1 + 3 * i] * Spielfeld[2 + 3 * i];\n        if (Produkt == 1) {\n            Gewinner = 1;\n        }\n        if (Produkt == 8) {\n            Gewinner = 2;\n        }\n    }\n\n    // Pruefe die 2 Diagonalen\n    Produkt = Spielfeld[0] * Spielfeld[4] * Spielfeld[8];\n    if (Produkt == 1) {\n        Gewinner = 1;\n    }\n    if (Produkt == 8) {\n        Gewinner = 2;\n    }\n\n    Produkt = Spielfeld[2] * Spielfeld[4] * Spielfeld[6];\n    if (Produkt == 1) {\n        Gewinner = 1;\n    }\n    if (Produkt == 8) {\n        Gewinner = 2;\n    }\n}\n\n// Falls das Spiel gewonnen wurde, zeige eine dazugehörige Animation\nvoid SpielGewonnen(void)\n{\n    bool neuesSpiel = false;\n\n    // Zuerst bleibt die Anzeig für 2 Sekunden auf dem aktuellen Spielstand\n    unsigned long Counter = millis();\n    while ((millis() - 2000) &lt; Counter) {\n        AusgabeLEDs();\n    }\n\n    // Danach wird noch zwischengespeichert, welcher Spieler als nächstes an der Reihe wäre\n    // Das ist notwendig, weil später dieser Wert verloren geht\n    int naechsterSpieler = Gewinner + 1;\n    if (naechsterSpieler &gt; 2) {\n        naechsterSpieler = 1;\n    }\n\n    // Solange keine Taste gedrückt wird, wird nun diese Animation angezeigt\n    do {\n        // Teil 1\n        for (int i = 0; i &lt; 9; i++) {\n            Spielfeld[i] = Gewinner;\n        }\n        Spielfeld[4] = 0;\n\n        Counter = millis();\n        while ((millis() - 1000) &lt; Counter) {\n            AusgabeLEDs();\n\n            if (TasteGedrueckt() != 10) {\n                neuesSpiel = true;\n            }\n        }\n\n        // Teil 2\n        for (int i = 0; i &lt; 9; i++) {\n            Spielfeld[i] = 0;\n        }\n        Spielfeld[4] = Gewinner;\n\n        Counter = millis();\n        while ((millis() - 1000) &lt; Counter) {\n            AusgabeLEDs();\n\n            if (TasteGedrueckt() != 10) {\n                neuesSpiel = true;\n            }\n        }\n    } while (!neuesSpiel);\n\n    // eine Taste wurde gedrückt. Das Spiel kann weitergehen\n    InitVariablen();\n    Spieler = naechsterSpieler;\n}\n\n// Falls das Spiel mit unentschieden endet, zeige eine dazugehörige Animation\nvoid SpielUnentschieden(void)\n{\n    bool neuesSpiel = false;\n\n    // Zuerst bleibt die Anzeig für 2 Sekunden auf dem aktuellen Spielstand\n    unsigned long Counter = millis();\n    while ((millis() - 2000) &lt; Counter) {\n        AusgabeLEDs();\n    }\n\n    // Danach wird noch zwischengespeichert, welcher Spieler als nächstes an der Reihe wäre\n    // Das ist notwendig, weil später dieser Wert verloren geht\n    int naechsterSpieler = Spieler;\n\n    // Solange keine Taste gedrückt wird, wird nun diese Animation angezeigt\n    do {\n        // Teil 1\n        Spielfeld[0] = 1;\n        Spielfeld[2] = 1;\n        Spielfeld[6] = 1;\n        Spielfeld[8] = 1;\n        Spielfeld[4] = 0;\n        Spielfeld[1] = 2;\n        Spielfeld[3] = 2;\n        Spielfeld[5] = 2;\n        Spielfeld[7] = 2;\n\n        Counter = millis();\n        while ((millis() - 1000) &lt; Counter) {\n            AusgabeLEDs();\n\n            if (TasteGedrueckt() != 10) {\n                neuesSpiel = true;\n            }\n        }\n\n        // Teil 2\n        Spielfeld[0] = 2;\n        Spielfeld[2] = 2;\n        Spielfeld[6] = 2;\n        Spielfeld[8] = 2;\n        Spielfeld[4] = 0;\n        Spielfeld[1] = 1;\n        Spielfeld[3] = 1;\n        Spielfeld[5] = 1;\n        Spielfeld[7] = 1;\n\n        Counter = millis();\n        while ((millis() - 1000) &lt; Counter) {\n            AusgabeLEDs();\n\n            if (TasteGedrueckt() != 10) {\n                neuesSpiel = true;\n            }\n        }\n    } while (!neuesSpiel);\n\n    InitVariablen();\n    Spieler = naechsterSpieler;\n}\n\n// Die Setup-Funktion wird beim ersten Start aufgerufen\nvoid setup()\n{\n    Init();\n    AllesAus();\n    InitVariablen();\n\n    //Serial.begin(9600);\n}\n\n// Die Loop Funktion wird endlos durchlaufen\nvoid loop()\n{\n\n    // ermittle, ob eine Tastee geddrückt wurde\n    int Taste = TasteGedrueckt();\n\n    // Falls eine Taste gedrückt wurde und dieses Feld noch unbelegt ist, markiere es mit dem aktuellen Spieler\n    if ((Taste != 10) &amp;&amp; (Spielfeld[Taste] == 0)) {\n        Spielfeld[Taste] = Spieler;\n        Spieler++;\n    }\n\n    // Nach jedem Spielzug ist der neue Spieler an der Reihe. Dafür wird der Spieler zuerst inkrementiert und danach ein Übrelauf geprüft\n    if (Spieler &gt; 2) {\n        Spieler = 1;\n    }\n\n    // An der Status-LED wird gezeigt, welcher Spieler gerade an der Reihe ist\n    AusgabeStatusLED();\n\n    // Der aktuelle Spielstand wird auf der LED Matrix ausgegeben\n    AusgabeLEDs();\n\n    // Es wird geprüft, ob es schon einen Gewinner gibt\n    PruefeGewinner();\n\n    //Serial.println(Gewinner);\n\n    // Falle es einen Gewinner gibt, wird die dazugehörige Animation aktiviert\n    if (Gewinner &gt; 0) {\n        SpielGewonnen();\n    }\n    // Falls das Spiel unentscheiden steht, wird die dazugrhörige Animation aktiviert\n    if (Gewinner == -1) {\n        SpielUnentschieden();\n    }\n\n    /*\n    for(int i = 0; i &lt; 9; i++)\n    {\n        Serial.print(Spielfeld[i]);\n        Serial.print(\"; \");\n    }\n    Serial.print(\"   \");\n    Serial.print(analogRead(A7));\n    Serial.print(\"   \");\n    Serial.print(Taste);\n    Serial.print(\"   \");\n    Serial.print(Spieler);\n    Serial.println(\" \");\n    */\n}\n\n",
+        "url": "/2017/10/07/arduino-workshop.html"
+      },
+    
+      {
+        "title": "GitHub Hackathon - stop starting, start finishing",
+        "excerpt": "Jeder Softwareentwickler_in kennt das Problem mit den kleinen Nebenprojekten oder entwickelt gar in seiner Freizeit eigene kleine Anwendungen.\nDiese Projekte leiden aber unter dem Fluch des Zeitmangels und werden oft nie fertig. Und immer kommen neue Ideen und Projekte dazu.\n\n",
+        "content": "Jeder Softwareentwickler_in kennt das Problem mit den kleinen Nebenprojekten oder entwickelt gar in seiner Freizeit eigene kleine Anwendungen.\nDiese Projekte leiden aber unter dem Fluch des Zeitmangels und werden oft nie fertig. Und immer kommen neue Ideen und Projekte dazu.\n\nDeswegen laden wir zum Hackathon zum fertig machen.\n\nWas wir unternehmen werden\n\nWir wollen uns gegenseitig unsere GitHub-Repositories vorstellen und die darin enthaltenen Projekte fertig machen.\n\nWas darf ich vorstellen:\n\n  maximal 10 Repositories\n  eigene, unfertige Projekte\n  möglichst Freie Lizenzen (MIT, CC)\n  keinen Schadcode oder anderweitige Projekte, die Rechtsverletzungen darstellen oder beinhalten\n\n\nTimeline:\n\n\n  \n    \n      Freitag\n       \n    \n    \n      19:00\n      Welcome\n    \n    \n      19:30\n      Beginn der Repo-Vorstellungen\n    \n    \n      20:30\n      Pizza\n    \n    \n      21:00\n      Beginn Hacking\n    \n    \n      Samstag\n       \n    \n    \n      10:00\n      Frühstück\n    \n    \n      13:00\n      Henkersmahlzeit\n    \n    \n      14:00\n      Ergebnisse vorstellen\n    \n  \n\n",
+        "url": "/2017/10/11/github-hackathon.html"
+      },
+    
+      {
+        "title": "Slammaster Technologiestack",
+        "excerpt": "Wir haben eine Anfrage zum Poetry-Slam-Tool vom Kampf der Künste aus Hamburg bekommen. Da es nicht die einzige Anfrage in der letzten Zeit war, haben wir beschlossen, dass dass Projekt endlich einmal die lang geplanten Verbesserungen bekommen soll. Das bedeutet, dass der Slammaster komplett neu aufgebaut werden soll. Wir wollen ihn als Electron App auf alle gängigen Plattformen bringen. Desweiteren soll er eine massiv umgestaltete Bedienung bekommen. Die alte unübersichtliche Oberfläche fliegt heraus, herein kommt eine neue Intuitivere UI.\n",
+        "content": "Wir haben eine Anfrage zum Poetry-Slam-Tool vom Kampf der Künste aus Hamburg bekommen.\nDa es nicht die einzige Anfrage in der letzten Zeit war, haben wir beschlossen, \ndass dass Projekt endlich einmal die lang geplanten Verbesserungen bekommen soll.\n\nDas bedeutet, dass der Slammaster komplett neu aufgebaut werden soll. Der Slammaster soll eine massiv umgestaltete Bedienung bekommen. \nDie alte unübersichtliche Oberfläche fliegt heraus, herein kommt eine neue Intuitivere UI.\n\nTechnologiestack wurde festgelegt\n\nAls Plattform haben wir uns für Electron entschieden. Der Vorgänger war eine Chrome App und Electron ist eine vergleichbare Plattform.\nChrome Apps werden leider zum Ende des Jahres abgeschalten und sind damit ausgeschieden.\n\nDie App selbst wird eine Angular5 App. Verwendet werden die Angular Material Komponenten von material.angular.io\n",
+        "url": "/2017/11/02/slammaster-technologie.html"
+      },
+    
+      {
+        "title": "Slammaster UI Entwürfe",
+        "excerpt": "Zusammen mit Tino aus Mannheim haben wir die ersten Schritte zum neuen Slammaster genommen. Zu dritt haben wir ausdiskutiert, wie die Oberfläche des neuen Tools grob aufgebaut sein soll. Erste Zeilen Code wurden auch schon geschrieben.\n",
+        "content": "Allgemeines\n\nDie UI im Backend wir nach Material Design entworfen.\nEin Farbschema mit 3 Farben soll frei einstellbar sein. Dazu gibt es eine Grundfarbe, eine Akzentfarbe und eine Hintergrundfarbe.\n\nMasken\n\nDie Anwendung wird aus verschiedenen Masken bestehen. Davon ist ein Teil zum pflegen der “Stammdaten” und einige sind der “Player”, der auch bei einem Event eingesetzt wird.\n\nStamdaten “Veranstaltung”\n\nStammdaten “Gruppen”\n\nStammdaten “Poeten”\n\nHier können neue Poeten angelegt und bestehende bearbeitet werden. Das passiert überlicherweise in Vorbereitung auf einen Slam.\n\n\n\nAnsicht “Player”\n\nDer Player soll die Komponente sein, die während einer Veranstaltung maßgeblich genutzt wird.\nSie besteht aus einer Reihe Screens, die nacheinander abgefahren werden und live gesteuert werden können.\nDabei ist auf der linken Seite der Stream der Screens und auf der rechten Seite ein Editor mit dem Parameter des jeweiligen Screens geändert werden können.\n\nIm Beispiel ist die Folie für einen Poeten offen. Dort können im Laufe der Veranstaltung die Punkte eingetragen werden und dann animiert auf dem Projektor angezeigt werden.\n\n\n",
+        "url": "/2017/11/09/slammaster-ui-entwuerfe.html"
+      },
+    
+      {
+        "title": "34C3 Hackathon",
+        "excerpt": "Für alle, die nicht zum 34C3 fahren (können) wollen wir in Heilbronn auch etwas anbieten.\nLivestreams gucken und selber hacken steht auf dem Programm.\n\n",
+        "content": "Für alle, die nicht zum 34C3 fahren (können) wollen wir in Heilbronn auch etwas anbieten.\nLivestreams gucken und selber hacken steht auf dem Programm.\n\nDetails incoming.\n",
+        "url": "/2017/11/14/34C3-Hackathon.html"
+      },
+    
+      {
+        "title": "Zweiter Softwareclub",
+        "excerpt": "Alle zwei Wochen trifft sich neuerdings der Software-Club. Diese Treffen sollen der Vertiefung handwerklicher Fähigkeiten in der Softwareentwicklung dienen. Beim Treffen am 15.11.17 ging es um testgetriebene Entwicklung unter JavaScript mit Hilfe von tape.\n",
+        "content": "Was ist der Softwareclub?\n\nDer Softwareclub ist ein Veranstaltungsformat von Code For Heilbronn, bei dem es vor allem um handwerkliche Fähigkeiten in der Softwareentwicklung gehen soll.\n\nZu Beginn eines Treffens gibt es einen Impulsvortrag zu einem bestimmten Thema, einem Best Practice, einem Framework oder ähnlichem. \nDanach gibt es z.B. Mobprogramming, Diskussionen oder freies Entwickeln.\n\nDer Softwareclub findet alle zwei Wochen, immer in den geraden Kalenderwochen statt.\n\nRecap\n\nBeim zweiten Softwareclub wurde mit Hilfe des tape-Testingframeworks ein Anstoß für testgetriebene Entwicklung gesetzt.\n\nAdrian hielt dabei den Impulsvortrag zu beginn und zeigte einige Slides über die Grundsätze der testgetriebenen Entwicklung. Danach kamen direkt Codebeispiele und Mobprogramming.\n\nCode\n\nconst test = require(\"tape\");\n\nfunction calculateSeconds(input) {\n    const values = input.split(\":\");\n    if (values.length === 1) {\n        return Number(values[0]);\n    } else {\n        if (values.length === 2) {\n            return Number(values[0]) * 3600 + Number(values[1]) * 60;\n        } else {\n            return Number(values[0]) * 3600 + Number(values[1]) * 60 + Number(values[2]);\n        }\n    }\n}\n\ntest(\"first test\", function (t) {\n    t.plan(1);\n    const result = calculateSeconds(\"32\");\n    t.equals(result, 32);\n});\n\ntest(\"parse time minutes and seconds\", function (t) {\n    const input = \"00:56:32\";\n    t.equals(calculateSeconds(input), 3392);\n    t.end();\n});\n\n\ntest(\"parse time hours, minutes and seconds\", function (t) {\n    const input = \"12:56:32\";\n    t.equals(calculateSeconds(input), 46592);\n    t.end();\n});\n\ntest(\"parse time hours und minutes\", function (t) {\n    const input = \"12:56\";\n    t.equals(calculateSeconds(input), 46560);\n    t.end();\n});\n\n",
+        "url": "/2017/11/15/zweiter-softwareclub.html"
+      },
+    
+      {
+        "title": "CodingAbend 2017.47",
+        "excerpt": "CodingAbend dieses Mal mit überschaubarer Beteiligung aber guten Ergebnissen. PoetrySlam geht vorwärts, SICK-Laserscanner angetestet.\n",
+        "content": "Da die meisten üblichen Teilnehmer gerade in der Prüfungszeit stecken, war der CodingAbend dieses Mal sehr klein. Insgesamt waren ca 10 Personen anwesend.\n\nGearbeitet wurde vor allem an verschiedenen Softwareprojekten wie dem Slammaster.\n\nWas ist der CodingAbend?\n\nDie CodingAbende werden von Code For Heilbronn seit einigen Jahren jeden Donnerstag veranstaltet. Es ist ein Treffen von aktiven Entwicklern, Makern und\nTechnikinteressierten. Die Schwerpunkte der Treffen liegen auf Open Data, Making und Nerdigem.\n\nGearbeitet wird an unterschiedlichen Projekten. Neue Personen sind absolut willkommen. Das Alter ist hier sehr gemischt. Von 12 bis 40 Jahren ist meist alles vertreten. Die CodingAbende sind perfekt geeignet für alle, die anfangen zu programmieren, sich ausprobieren möchten oder einfach mal einen nerdigen Abend verbringen möchten.\n\nDer CodingAbend findet jeden Donnerstag statt. Essen und Getränke sind vorhanden.\n",
+        "url": "/2017/11/23/coding-abend.html"
+      },
+    
+      {
+        "title": "Coding Abend 2017.48",
+        "excerpt": "Der erste Community-Standup. Wir wollen ab sofort jeden letzten Donnerstag einen kleinen Status für die Projekte abfragen.\n",
+        "content": "Diesen Donnerstag hatten wir viele neue Gesichter zu begrüßen. Die Community rund um CodeForHeibronn wächst immer weiter. Das Interesse an Technik scheint in der Region groß zu sein. Darüber freuen wir uns immer sehr.\n\nAußerdem fand das erste Community-Standup statt. Das bedeutet, dass wir uns kurz treffen und die Projekte kurz einen Status abgeben. Außerdem commited sich jeder auf seine Projekte. Diese können dann auf der Website erfasst werden und mit den jeweiligen Contributors versehen werden. Das erste Mal war noch einiges an Verwirrung, was ein Standup überhaupt ist. Vor allem bei den Jüngeren, die dieses Format noch nicht kannten.\n\n1. #CommunityStandup  bei @codeforhn - viele Menschen und viele Projekte am Start. Außerdem wurden die ersten #CfhnBadges verteilt. pic.twitter.com/C3RI1CyLCk&mdash; root@hmnd:~# (@harmoniemand) 2. Dezember 2017\n\n\nGearbeitet wurde vor allem an einem Nachbau der TranspOtters von @FauthNiklas, aber wie immer wurde auch am Slammaster und anderen Projekten weiter gehackt. Unser Besuch aus der Schweiz war auch wieder dabei. 250 km anreise für einen Abend ist schon beachtlich.\n\nAlles zusammen ein schöner produktiver Abend. Ich war gegen 2:30 Uhr zuhause.\n\nWas ist der CodingAbend?\n\nDie CodingAbende werden von Code For Heilbronn seit einigen Jahren jeden Donnerstag veranstaltet. Es ist ein Treffen von aktiven Entwicklern, Makern und\nTechnikinteressierten. Die Schwerpunkte der Treffen liegen auf Open Data, Making und Nerdigem.\n\nGearbeitet wird an unterschiedlichen Projekten. Neue Personen sind absolut willkommen. Das Alter ist hier sehr gemischt. Von 12 bis 40 Jahren ist meist alles vertreten. Die CodingAbende sind perfekt geeignet für alle, die anfangen zu programmieren, sich ausprobieren möchten oder einfach mal einen nerdigen Abend verbringen möchten.\n\nDer CodingAbend findet jeden Donnerstag statt. Essen und Getränke sind vorhanden.\n",
+        "url": "/2017/11/23/coding-abend.html"
+      },
+    
+      {
+        "title": "FabLab Opening",
+        "excerpt": "Heute haben wir offiziell das FabLab eingeweiht. Damit steht das\nerste FabLab in Heilbronn allen offen zur Verfügung. Das FabLab ist\neine offene Werkstatt in der an Projekten gewerkelt werden kann und \nin dem alle die vorhandenen Werkzeuge gemeinsam nutzen.\n\n",
+        "content": "Heute haben wir offiziell das FabLab eingeweiht. Damit steht das\nerste FabLab in Heilbronn allen offen zur Verfügung. Das FabLab ist\neine offene Werkstatt in der an Projekten gewerkelt werden kann und \nin dem alle die vorhandenen Werkzeuge gemeinsam nutzen.\n\nPünktlich zu diesem Event wurde auch unsere Werkzeugwand fertig,\ndie von Franz und Vale installiert wurde. Noch sind nicht alle Werkzeuge\nbefestigt, jedoch bekommt man schon einen guten Eindruck, wie das alles \naussehen wird.\n\n\n\n\nIm “Röntgen”-Nebenraum wurde auch schon die Werkbank fertiggestellt, so dass\nwir den Lasercutter und die 3D Drucker in den “Reinraum” umziehen konnten. \nIn dem Reinraum wollen wir hauptsächlich Geräte hinstellen, die keinen großen\nStaub verursachen.\n\n\n\nDagegen stehen im “Röntgen”-Raum die Standbohrmaschine und die Holzfräse.\nAuch haben wir hier einen großen Tisch, den man für verschiedene Arbeiten oder\nals Ablage flexibel nutzen kann.\n\n\n\nWir freuen uns über alle Besucher, die sich das FabLab anschauen und \nnutzen wollen.\n\n",
+        "url": "/2018/02/17/fablab-opening.html"
+      },
+    
+      {
+        "title": "Einladung zum Open Data Day 2018 Heilbronn",
+        "excerpt": "Am Samstag den 3. März laden wir euch sehr herzlich zum 5. Open Data Day \nin den Coworking Space in Heilbronn ein. Ab 9 Uhr geht es los mit einem \nkleinen Frühstück, vielen Projekten und jede Menge Zeit um sie umzusetzen.\n\n",
+        "content": "Am Samstag den 3. März laden wir euch sehr herzlich zum 5. Open Data Day \nin den Coworking Space in Heilbronn ein. Ab 9 Uhr geht es los mit einem \nkleinen Frühstück, vielen Projekten und jede Menge Zeit um sie umzusetzen.\n\nWenn du eine Idee hast, wie man offene Daten nutzen könnte, wenn du bei \neinem interessanten Projekt mitmachen möchtest oder einfach lernen \nmöchtest, wie man offene Daten analysiert und visualisiert - \ndann komm auf jeden Fall vorbei!\n\nEntwickler\nWir brauchen Hacker und Häcksen wie dich um Daten in etwas \nNützliches umzuwandeln. Dazu gehört die Visualisierung, Benachrichtigung \noder Integration mit anderen Daten. Einfach etwas Verrücktes und Fantastisches tun.\n\nDesigner\nWir brauchen Menschen wie dich, die alles wunderschön aussehen \nlassen, es intuitiv bedienbar machen und für eine tolle User-Experience \nsorgen. Die beste App ist wertlos, wenn sie niemand bedienen kann. \nDu weißt, um was es geht.\n\nBürger\nWir brauchen euch am meisten. Ohne euch würden wir das nicht machen. \nWir brauchen eure Ideen und Anregungen.\n\nAblauf\n\n\n  \n    \n      09:00 - 10:00\n      Ankommen, Networking, Getränke &amp; Snacks\n    \n    \n      10:00 - 10:30\n      Eröffnung: Rückblick &amp; Ausblick, Aktueller Stand in Heilbronn\n    \n    \n      10:30 - 11:00\n      Kurzvorstellung der Projektideen\n    \n    \n      11:00 - 19:00\n      Hacken, analysieren, visualisieren, umsetzen\n    \n    \n      19:00 - 20:00\n      Vorstellung der Projekte und Feedback\n    \n    \n      ab 20:00\n      Networking bei Snacks und Drinks\n    \n  \n\n\nDie Teilnahme ist für alle kostenlos. Für WiFi, Getränke und Snacks ist gesorgt. \nBitte bring dein Notebook oder andere spannende Hardware mit.\n\n",
+        "url": "/2018/02/23/open-data-day-heilbronn.html"
+      },
+    
+      {
+        "title": "Einladung zum Smart City Hackathon",
+        "excerpt": "Fraunhofer IAO und Code for Heilbronn laden am 17. März 2018 gemeinsam \nzu einem Hackathon mit dem Thema Smart City / Campus ein. Das Fraunhofer \nIAO möchte dieses Thema mit den lokalen Communities und mit den Studierenden angehen.\nBesonders unkritische, nicht-personenbezogene Daten sind ein Kernaspekt \ndes Hackathons und sollen zusammen mit Code for Heilbronn erhoben und \nverarbeitet werden. Die Erfassung der Daten soll mittels eigener Sensorik \ngeschehen, sodass zum Beispiel Schall, Temperatur, Beleuchtung, die Qualität \nvon WLAN oder Umweltdaten bald schon der Öffentlichkeit zugänglich gemacht werden.\n\n",
+        "content": "Fraunhofer IAO und Code for Heilbronn laden am 17. März 2018 gemeinsam \nzu einem Hackathon mit dem Thema Smart City / Campus ein. Das Fraunhofer \nIAO möchte dieses Thema mit den lokalen Communities und mit den Studierenden angehen.\nBesonders unkritische, nicht-personenbezogene Daten sind ein Kernaspekt \ndes Hackathons und sollen zusammen mit Code for Heilbronn erhoben und \nverarbeitet werden. Die Erfassung der Daten soll mittels eigener Sensorik \ngeschehen, sodass zum Beispiel Schall, Temperatur, Beleuchtung, die Qualität \nvon WLAN oder Umweltdaten bald schon der Öffentlichkeit zugänglich gemacht werden.\n\nDer Hackathon verbindet somit die Möglichkeit, mit Hardware zu arbeiten, \nals auch Software zu entwickeln. Passende Sensorik ist zum Ausprobieren \nvorhanden und ein paar Themenfelder wurden schon im Vorhinein definiert: \nSo zum Beispiel das Übertragen von Daten mit LoRa, das Erfassen von \nUmweltdaten mit Mikrocontrollern und der Nutzung der entstandenen Daten.\n\nVia Pressemitteilung IAO\n\nDie Teilnahme ist für alle kostenlos. Für WiFi, Getränke und Snacks ist gesorgt. \nBitte bring dein Notebook oder andere spannende Hardware mit.\n\n",
+        "url": "/2018/03/07/smart-city-heilbronn-hackathon.html"
+      },
+    
+      {
+        "title": "Copter Repair Day",
+        "excerpt": "Unter den Mitgliedern von Code For Heilbronn gibt es viele, wenn nicht gar ausschließlich, technikbegeistere jeden Alters. Die meisten von ihnen haben neben der Community aber noch andere Hobbies. Da gibt es einige, die ein großes Interesse an gackerndem Federvieh haben. Es gibt solche, welche leidenschaftlich gern die Welt um sich herum ablichten. Und es gibt eine Gruppe aus bastelwütigem Volk, das sich mit der Copteritis angesteckt hat.\n\n  \n    Multicopter, der \n    UAV aus der Gattung der Senkrechtstarter, meistens mit vier oder mehr Rotoren, sind ferngesteuerte Flugmodelle mit vielseiten Einsatzgebieten. \n    Neben dem klassischen Einsatz als Kameradrohne, z.B. um Luft- und Landschaftsaufnahmen oder dreidimensionale Scans von Gebäuden anzufertigen, gibt es Spielzeugdrohnen, Agrardrohnen, Drohnen mit Rettungsauftrag und natürlich die Racing-Copter. \n    \n\n\n",
+        "content": "Unter den Mitgliedern von Code For Heilbronn gibt es viele, wenn nicht gar ausschließlich, technikbegeistere jeden Alters. Die meisten von ihnen haben neben der Community aber noch andere Hobbies. Da gibt es einige, die ein großes Interesse an gackerndem Federvieh haben. Es gibt solche, welche leidenschaftlich gern die Welt um sich herum ablichten. Und es gibt eine Gruppe aus bastelwütigem Volk, das sich mit der Copteritis angesteckt hat.\n\n  \n    Multicopter, der \n    UAV aus der Gattung der Senkrechtstarter, meistens mit vier oder mehr Rotoren, sind ferngesteuerte Flugmodelle mit vielseiten Einsatzgebieten. \n    Neben dem klassischen Einsatz als Kameradrohne, z.B. um Luft- und Landschaftsaufnahmen oder dreidimensionale Scans von Gebäuden anzufertigen, gibt es Spielzeugdrohnen, Agrardrohnen, Drohnen mit Rettungsauftrag und natürlich die Racing-Copter. \n    \n\n\nBereits seit einiger Zeit begeistert das Thema der Flugmodelle, egal ob autonom, teilautonom oder komplett handgesteuert, die Mitglieder von Code For Heilbronn.\nDaher ist es auch wenig verwunderlich, dass bei den steigenden Temperaturen nun die Vorbereitungen und Reparaturen an den Modellen vorgenommen werden und alles für den kommenden Frühling und Sommer gerüstet wird.\n\nAm Karfreitag war der CoWorkingspace demnach ein Meer aus Kleinteilen, umwabert von Lötdampf und dem gelegentlichen Piepsen eines vorfreudigen Fluggerätes. Insgesamt acht Copter wurden an diesem Tag zerlegt, gereinigt, neu verlötet und schlussendlich zumindest teilweise wieder flugbereit gemacht.\n\nMit einer Ausnahme handelte es sich bei allen Coptern um sogenannte “Racingcopter”. Die besonderheit hier ist, dass das Fluggerät sehr schnell und wendig ist. Es gehört zu einem wachsenden Sport, dem Multicopter-Rennen oder FPV-Race. FPV steht dabei für “First Person View”. Man nennt es so, weil in der Spitze der Sportgeräte eine kleine Kamera installiert ist. Die Piloten sehen so alles aus der “Fahrerkabine” ihrer Fluggeräte. Ziel des Sports ist es, einen Parcours aus kleinen Toren in möglichst kurzer Zeit zu passieren. Dabei wird in Bodennähe aber mit hoher Geschwindigkeit manövriert. Wichtig sind Reaktion, Feingefühl und ein gutes Gespür für die Eigenheiten des selbsgebauten Copters.\n\nAllerdings wurden neben Coptern auch andere Projekte verfolgt. Mit viel Liebe wurde am Farmbot weitergebaut und die 3D-Drucker und der Lasercutter wurden auch wieder erfolgtreich eingesetzt. Zum Beispiel für eine selbstgebaute Bluetoothbox aus MDF.\n",
+        "url": "/2018/03/30/copter-repair-day.html"
+      },
+    
+      {
+        "title": "Community StandUp",
+        "excerpt": "Die Community von Code for Heilbronn hat sich in den letzten Monaten stark verändert. Wir sind einen Verein, wir haben viele neue Mitglieder, wir haben viel neue Ausrüstung. Das alles sind Dinge, die unsere Arbeitsweise und die Gruppe sehr verändern.\n\n",
+        "content": "Die Community von Code for Heilbronn hat sich in den letzten Monaten stark verändert. Wir sind einen Verein, wir haben viele neue Mitglieder, wir haben viel neue Ausrüstung. Das alles sind Dinge, die unsere Arbeitsweise und die Gruppe sehr verändern.\n\nViele neue Projekte sind im Kommen oder werden bereits von den Mitgliedern bearbeitet. Code for Heilbronn will aber nicht nur eine offene Werkstatt sein, wo jeder seine Projekte als Einzelkämpfer verfolgt, sondern eine Community, in der sich die Mitglieder gegenseitig helfen, Wissen ausgetauscht wird und viel neues entstehen kann.\n\nDazu ist es wichtig, dass wir möglichst transparent arbeiten und jeder sehen kann, woran aktuell gearbeitet wird. Nur so kann sich jeder einbringen und sein Wissen erweitern oder weitergeben. Um die Treffen transparenter zu gestalten, haben wir jetzt die Community StandUps eingeführt.\n\nZu Beginn der Coding Abende, die jeden Donnerstag stattfinden, treffen wir uns um 18:30 Uhr im Kreis. Dabei stellt jeder sein Projekt kurz vor, bzw sagt, an welchem Projekt er mitarbeitet. Das alles wird auf vorbereitete Kärtchen geschrieben, die dann an einer Pinnwand angebracht werden. So kann jeder zu jedem Zeitpunkt des Abends sehen, was los ist. Außerdem können wir diese Pinnwand abfotografieren und auf Twitter stellen, um auch andere Menschen über unsere Aktivitäten zu informieren.\n\nWir hoffen, dass dadurch etwas mehr Kontinuität und Transparenz in die Projekte von Code for Heilbronn kommt und auch Außenstehende leichter sehen können, woran gearbeitet wird.\n",
+        "url": "/2018/04/02/CFHN-Community-StandUp.html"
+      },
+    
+  
+    
+    
+      {
+        "title": "Farmbot",
+        "excerpt": "Abstract\n\n",
+        "content": "Abstract\n\nDer Mensch ist seit seiner Existenz ein Selbstversorger. Durch den rasanten Fortschritt im Bereich der Software und Hardware erreichen wir einen Punkt, wo Maschinen Selbstversorger beim Anbau von Obst und Gemüse stark unterstützen können. Viele begeisterte Menschen entwickeln bereits weltweit Lösungen, die das möglich machen sollen. Der “farmbot genesis” wird für die Bundesgartenschau 2019 in Heilbronn mit Kindern und Jugendlichen nachgebaut und wird den Besuchern eine Vision liefern.\n\nProjektbeschreibung\n\nDer FarmBot ist ein Open Source Projekt, dass mit Hilfe von CNC-Technologie Pflanzen anbaut. Dabei sind KnowHow aus vielen unterschiedlichen Bereichen gefragt. An Bord sind leidenschaftliche Programmierer*innen genau so wie Elektrotechniker und Personen aus der Makerszene in Heilbronn.\n\nDer FarmBot ist ein Roboter, der über verschiedene Werkzeuge zur Pflege eines Beetes verfügt. Er überwacht und pflegt ein Hochbeet von ca 3x6 Metern. \nMit seinen Werkzeugen kann er Pflanzen sähen, wässern, düngen, dokumentieren und Unkraut entfernen.\n\nGesteuert wird alles über eine eigene Software. Dort kann ein Beet geplant und überwacht werden.\n",
+        "url": "/projects/2016-01-01-farmbot"
+      },
+    
+      {
+        "title": "Slammaster",
+        "excerpt": "Projektbeschreibung\n\n",
+        "content": "Projektbeschreibung\n\nDer SlamMaster ist die nächste Version des Poetry-Slam-Tools. Nachdem der Vorgänger relativ beliebt wurde aber diverse Mängel aufweist, wird hier nun eine flexiblere Lösung entwickelt.\nDas Tool dient zum visualisieren der Punkte wärend des Slams über einen Projektor.\n\nDie neue Version soll als Electron App umgesetzt, auf möglichst vielen Plattformen laufen.\n\nKontakt zum Projekt\n\nDa es vermehrt Anfragen zum Projekt gibt, haben wir eine offizielle Projekt-Mailadresse für Anfragen zum Projekt. Auf dieses Postfach haben alle Projektmitglieder\nZugriff und können dann darauf reagieren.\n\nslammaster(at)cfhn.it\n\nBitte verwendet diese Mail-Adresse für alle allgemeinen Anfragen zum Slammaster.\n\n",
+        "url": "/projects/2016-12-01-slammaster"
+      },
+    
+      {
+        "title": "Matelight",
+        "excerpt": "Projektbeschreibung\n\n",
+        "content": "Projektbeschreibung\n\nProjektziel\n\nDas MateLight ist eine Lichtinstallation mit künstlerischem und technischem Fokus. Ziel ist es, eine Wand aus Kästen zu bauen, auf der Animationen abgespielt werden können.\nIm Rahmen des Projektes soll ein besseres Verständnis für die Arbeit mit Arduinos und zeitkritischen Kommunikationsabläufen entstehen.\n",
+        "url": "/projects/2016-12-15-matelight"
+      },
+    
+      {
+        "title": "Tictactoe Platine",
+        "excerpt": "Projektbeschreibung\n\n",
+        "content": "Projektbeschreibung\n\nKomplettes Script zum Download\n",
+        "url": "/projects/2017-10-07-tictactoe-platine"
+      },
+    
+      {
+        "title": "Lorawan",
+        "excerpt": "Abstract\n\n",
+        "content": "Abstract\n\nDas Internet der Dinge setzt neue Anforderungen an die Datenübertragungen in Städten und auf dem Land. Neue Funktechniken setzten auf immer schnellere Übetragungsraten zulasten der Reichweite. Deswegen findet eine zweite Entwicklung eines Netzes statt, die auf hohe Reichweite und geringe Datenraten setzt. Mit diesem können kleine Sensoren oder Geräte Daten sehr energiesparend an verschiedene Basis-Stationen senden.\n\nProjektbeschreibung\n\nCode for Heilbronn baut deshalb zu Versuchszwecken ein Netz auf Basis der LoRaWAN-Spezifikationen auf. Dazu werden zwei Gateways gebaut und am Wollhaus in Heilbronn aufgehängt um so ein LoRa-Netz aufzuspannen. Aufgesetzt wird dazu auf den Arbeiten von The Things Network (TTN), die bereits weltweit über lokale Communities ein LoRa-Netz betreiben.\nIn Zusammenarbeit mit dem Fraunhofer IAO wird dieses dann erprobt und die lokale Netzabdeckung gemessen. Anschließend können Interessierte über eine Registrierung bei TTN ihre eigene Hardware mit standardisierten Funkmodule bauen und die von Code for Heilbronn gebauten Gateways nutzen.\n",
+        "url": "/projects/2018-02-08-LoraWan"
+      },
+    
+      {
+        "title": "Steckdosenleisten",
+        "excerpt": "Steckdosenleisten: Entweder sie liegen auf dem Tisch herum, sind nie an ihrem Platz und sehen einfach unästhetisch aus, oder sie sind nicht da, wo man sie braucht. Die Lösung für das Problem sind solche, die sich am Tisch befestigen lassen, doch bringen die ein neues Problem mit sich: ihr Preis.\nSo entstand der Plan für dieses Projekt: Steckerleisten, die sich mit 3D-gedruckten Teilen am Tisch sicher und fest anbringen lassen.\n\n",
+        "content": "Steckdosenleisten: Entweder sie liegen auf dem Tisch herum, sind nie an ihrem Platz und sehen einfach unästhetisch aus, oder sie sind nicht da, wo man sie braucht. Die Lösung für das Problem sind solche, die sich am Tisch befestigen lassen, doch bringen die ein neues Problem mit sich: ihr Preis.\nSo entstand der Plan für dieses Projekt: Steckerleisten, die sich mit 3D-gedruckten Teilen am Tisch sicher und fest anbringen lassen.\n\nAuf der Suche nach einer guten Basis für die Umsetzung des Projekts, haben sich sich die Brennenstuhl-Leisten als die beste Wahl hierfür erwiesen, da sich die Endstücke aus Kunststoff leicht entfernen lassen und somit problemlos durch eigene Teile ersetzt werden können.\n\n{% include figure.html image=”/uploads/prj_media/steckdosenleiste/plastic_removal.png” caption=”Entfernen der vorhandenen Kunststoffteile von der Aluextrusion.” %}\n\nUm die Maße zu bekommen, die für das Designen der späteren Halterung wichtig war, wurde die Aluextrusion der Steckerleisten zunächst von den bereits vorhandenen Kunststoffteilen entfernt und dann auf einem Scanner eingescannt. Diese Scans konnten dann mithilfe eines Vektorgrafikprogramms digitalisiert werden. Um zu testen, wie gut das virtuelle Abbild auf die Aluschienen der Steckerleisten passte, wurden mit dem Lasercutter mehrere Teststücke angefertigt, die jeweils Raum zum Korrigieren der Passgenauigkeit boten.\n\n{% include figure.html image=”/uploads/prj_media/steckdosenleiste/lasered_test_pieces.png” caption=”Verschiedene Teststücke aus dem Lasercutter.” %}\n\nNach der erfolgreichen Einpassung wurde dann ein 3D-gedrucktes Modell angefertigt, das auf eine Tischkante geklemmt werden sollte. Die Verbindung war allerdings sehr instabil, sodass zum Einstecken eines Steckers eine zweite Hand erforderlich war, die die Steckerleisten in Position hielten. Um dem entgegenzuwirken, wurde die CAD-Datei so modifiziert, dass die Möglichkeit der Befestigung mittels kleinen Schraubzwingen bestand.\nDie Befestigung mit den Schraubzwingen ist außerordentlich stabil und für den Dauereinsatz geeignet, weshalb von diesem Prinzip einige Exemplare angefertigt wurden.\n\nDie 3D-Druckteile können hier heruntergeladen werden.\n\n{% include figure.html image=”/uploads/prj_media/steckdosenleiste/3D_printing.jpg” caption=”Der 3D-Drucker bei der Arbeit.” %}\n\n{% include figure.html image=”/uploads/prj_media/steckdosenleiste/desk_test.png” caption=”3D-gedruckte Teile mit Befestigung durch eine Schraubzwinge.” %}\n\n{% include figure.html image=”/uploads/prj_media/steckdosenleiste/attach_parts.png” caption=”Anbringen der neu gedruckten Teile.” %}\n",
+        "url": "/projects/2018-03-23-Steckdosenleisten"
+      },
+    
+  
+    
+    
+  
+  
+  
+  {
+    "title": "CFH-Badges",
+    "excerpt": "\n",
+    "content": "Badges sind hexagonale Sticker. Sie eignen sich hervorragend um damit die Rückseite eines Laptops zu verschönern.\nAußerdem dienen Sie dazu, dass jeder selbstständig Ansprechpartner für einen bestimmten Skill finden kann.\nSo kann z.B. ein neues Mitglied schnell jemanden mit Arduino Badge um fachliche Hilfe fragen oder jemanden\nmit einem Farmbot-Badge zu dem Projekt löchern.\n\nNicht zuletzt sind Badges aber auch eine Form der Anerkennung. Sie sollen dazu motivieren, Projekte fertig zu stellen und zu dokumentieren.\n\n\n    {% for badge in site.badges %}\n        \n            \n        \n    {% endfor %}\n\n\nUmgang mit den Badges\n\nDie Badges werden an alle Mitglieder von code for heilbronn ausgegeben.\nAn einen Badge sind immer einige Anforderungen gekoppelt, die auf der Seite des Badges eingesehen werden können.\nAußerdem sind auf der Seite des Badges alle Personen aufgelistet, die den Badge bereits erworben haben.\n\nEs gibt verschiedene Arten von Badge.\n\n\n  Projektbadges - für die größeren Projekte wie Farmbot und MateLight.\n  Skillbadges - für Fähigkeiten die man erworben oder unter Beweis gestellt hat\n  Aufgabenbadges - für übernommene Aufgaben und Verantwortung\n  Metabadges - für Softskills und allgemeine Dinge\n\n\n\n\n",
+    "url": "/badges"
+  },
+  
+  {
+    "title": "Kategorien",
+    "excerpt": "Übersicht der Kategorien\n",
+    "content": "\n",
+    "url": "/categories/"
+  },
+  
+  {
+    "title": "Termine",
+    "excerpt": "\n",
+    "content": "Der CodingAbend, als allgemeines Treffen aller Aktiven findet jeden Donnerstag ab 18 Uhr statt.\nDort wird zusammen an diversen Projekten gearbeitet. Die Termine und genauere Beschreibungen können auf\nMeetup nachgesehen werden.\n\nNicht ganz regelmäßig, aber meist in den geraden Kalenderwochen\nfindet außerdem der Software Club statt. Auch hier sind die Details\nauf Meetup zu finden.\nBeim Software Club geht es ausschließlich um Software und Softwareentwicklung.\nHier werden zu beginn Lightningtalks zu einem\nbestimmten Thema angeboten. Danach wird gemeinsam geübt, verbessert und entwickelt.\n\nHier geht es zu unserer Meetup-Page.\n\nEinladungen zu kommenden und vergangenen Events\n\n\n{% assign events = site.posts | where: 'category', 'Einladung' | sort: 'date' | reverse %}\n\n{% for event in events limit: 3 %}\n      {% include cfh-event-card.html event=event %}\n{% endfor %}\n\n\n",
+    "url": "/events"
+  },
+  
+  {
+    "title": "Projekte",
+    "excerpt": "\n",
+    "content": "\n    {% for project in site.projects %}\n        {% include cfh-project-card.html project=project %}\n    {% endfor %}\n\n",
+    "url": "/projects"
+  },
+  
+  {
+    "title": "Satzung",
+    "excerpt": "\n",
+    "content": "Satzung von “Code for Heilbronn”\nin der von der Gründungsversammlung vom 24.07.2017 in Heilbronn beschlossenen Fassung.\n\n§ 1 Name, Sitz und Geschäftsjahr\n\n  Der Verein führt den Namen “Code for Heilbronn”.\n  Der Verein hat seinen Sitz in Heilbronn.\n  Er wird im Vereinsregister des Amtsgerichts Stuttgart eingetragen. Nach der Eintragung wird dem Namen der Zusatz eingetragener Verein (e.V.) angefügt und heißt dann: Code for Heilbronn e.V.\n  Geschäftsjahr ist das Kalenderjahr.\n\n\n§ 2 Zweck des Vereins\n\n\n  Der Zweck des Vereins ist die Förderung der Jugend- und Erwachsenenbildung.\n  Der Zweck wird insbesondere verwirklicht durch\n    \n      die Bereitstellung einer Experimentier-, Lehr- und Lernumgebung zur Förderung des kreativen Potentials im Bereich von Mathematik, Informatik, Naturwissenschaft und Technik (MINT), um den Nachwuchs im MINT-Bereich zu fördern.\n      das Abhalten und Organisieren von Bildungsveranstaltungen\n      die Vernetzung von interessierten Bürgern\n      das Umsetzen von gemeinsamen Forschungs- und Lernprojekten im Bereich Software und Hardware.\n      die Förderung der Veröffentlichung und dem Einsatz von offenen Daten mit dem Schwerpunkt für alle Bürgerinnen und Bürger nützliche Anwendungen zu ermöglichen und hohe Transparenz bei Behörden und Verwaltungen zu schaffen.\n    \n  \n\n\n§ 3 Gemeinnützigkeit\n\n\n  Der Verein ist selbstlos tätig. Er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige im Sinne des Abschnitts “Steuerbegünstigte Zwecke” der Abgabenordnung (§§ 51 ff. AO) in der jeweils gültigen Fassung.\n  Die Vereinsmittel werden ausschließlich zu satzungsgemäßen Zwecken verwendet. Es erfolgt keine Gewinnausschüttung an Vereinsmitglieder oder Dritte.\n  Es erfolgt keine Begünstigung durch unverhältnismäßig hohe Vergütung oder durch Ausgaben, die dem Vereinszweck nicht entsprechen.\n\n\n§ 4 Erwerb der Mitgliedschaft, Beiträge\n\n  Ordentliche Mitglieder des Vereins können alle natürlichen Personen werden, die bereit sind, die in §2 genannten Zwecke und Ziele des Vereins ideell oder materiell zu unterstützen.\n  Förderndes Mitglied kann jede natürliche oder juristische Person werden, die über die Anerkennung und Förderung der in §2 genannten Zwecke und Ziele des Vereins hinaus finanzielle bzw. materielle Mittel für die Tätigkeit des Vereins zur Verfügung stellen oder den Verein in anderer Weise fördern will. Die Fördermitglieder haben das Recht, über die Tätigkeiten des Vereins informiert zu werden und an den Mitgliederversammlungen teilzunehmen.\n  Jedes ordentliche Mitglied mit einem Mindestalter von 14 Jahren hat in der Mitgliederversammlung eine Stimme. Fördernde Mitglieder haben kein Stimmrecht.\n  Für die Mitgliedschaft ist ein schriftlicher Aufnahmeantrag zu stellen. Über den schriftlichen Aufnahmeantrag entscheidet der Vorstand innerhalb eines Monats abschließend und endgültig.\n  Von den Mitgliedern werden Beiträge erhoben. Die Höhe der Beiträge und deren Fälligkeit werden in einer Beitragsordnung geregelt, die von der Mitgliederversammlung bestimmt wird.\n  Der Vorstand kann Beiträge ganz oder teilweise erlassen bzw. stunden.\n\n\n§ 5 Beendigung der Mitgliedschaft\n\n\n  Die Mitgliedschaft endet durch Austritt, Ausschluss oder Tod, bei juristischen Personen auch durch Verlust der Rechtspersönlichkeit. Der Austritt eines Mitgliedes ist jederzeit möglich. Er erfolgt durch schriftliche Erklärung gegenüber einem vertretungsberechtigten Vorstandsmitglied unter Einhaltung einer Frist von einem Monat zum Ende des Geschäftsjahres und muss gegenüber dem Vorstand erklärt werden.\n  Ein Ausschluss kann nur aus wichtigem Grund erfolgen. Wichtige Gründe sind insbesondere ein die Vereinsziele schädigendes Verhalten, die Verletzung satzungsmäßiger Pflichten oder Beitragsrückstände von mindestens einem Jahr. Über den Ausschluss entscheidet der Vorstand.\n\n\n§ 6 Organe des Vereins\n\n\n  Die Organe des Vereins sind:\n    \n      die Mitgliederversammlung\n      der Vorstand\n    \n  \n\n\n§ 7 Mitgliederversammlung\n\n\n  Der Mitgliederversammlung gehören alle stimmberechtigten Vereinsmitglieder mit je einer Stimme an.\n  In jedem Geschäftsjahr findet eine ordentliche Mitgliederversammlung statt. Sie wird vom Vorstand schriftlich oder in elektronischer Form als E-Mail unter Angabe der Tagesordnung einberufen. Wahlen bzw. Abwahlen von Vorstandsmitgliedern und Änderungen dieser Satzung bedürfen der ausdrücklichen Nennung in der Tagesordnung, mit der eingeladen wird. Die Einladungsfrist beträgt zwei Wochen. Die Frist beginnt mit dem auf die Absendung des Einladungsschreibens folgenden Tag. Das Einladungsschreiben gilt dem Mitglied als zugegangen, wenn es an die letzte vom Mitglied des Vereins schriftlich bekannt gegebene Adresse / E-Mail Adresse gerichtet ist.\n  In bestimmten Situationen und wenn es die Verfolgung der Vereinszwecke erfordert, kann eine außerordentliche Mitgliederversammlung einberufen werden. Auf schriftliches Verlangen von mindestens einem Drittel aller Vereinsmitglieder hat der Vorstand binnen zwei Wochen eine außerordentliche Mitgliederversammlung einzuberufen. Dem Antrag der Mitglieder muss der gewünschte Tagesordnungspunkt zu entnehmen sein.\n  Die Mitgliederversammlung ist bei ordnungsgemäßer Einladung beschlussfähig ohne Rücksicht auf die Anzahl der Erschienenen. Sie wählt aus ihrer Mitte einen Versammlungsleiter. Bei Stimmengleichheit gilt ein Antrag als abgelehnt.\n  Zu Satzungsänderungen und zu Beschlüssen über die Auflösung des Vereins ist abweichend von Abs. 4 drei Viertel der in der Mitgliederversammlung abgegebenen Stimmen erforderlich.\n  Über die Beschlüsse der Mitgliederversammlung ist ein Protokoll anzufertigen, das vom Versammlungsleiter und dem Schriftführer zu unterzeichnen ist. Die Protokolle stehen den Mitgliedern zur Einsicht zur Verfügung.\n\n\n§ 8 Aufgaben der Mitgliederversammlung\n\n\n  Der Mitgliederversammlung als Beschluss fassendes Vereinsorgan obliegen alle Aufgaben, es sei denn, diese sind ausdrücklich laut Satzung einem anderen Vereinsorgan übertragen worden.\n  Die Mitgliederversammlung wählt aus der Reihe der ordentlichen Mitglieder den Vorstand. Gewählt sind die Personen, die die meisten Stimmen auf sich vereinigen.\n  Die Mitgliederversammlung kann Mitglieder des Vorstandes abwählen. Hierzu benötigt sie die einfache Mehrheit der Stimmen der Anwesenden.\n  Die Mitgliederversammlung entlastet den Vorstand nach Entgegennahme des jährlich schriftlich vorzulegenden Geschäftsberichts / Jahresberichts des Vorstandes und des Prüfungsberichts des Kassenprüfers.\n  Die Mitgliederversammlung entscheidet über den vom Vorstand jährlich vorzulegenden Haushaltsplan.\n  Die Mitgliederversammlung hat Satzungsänderungen und Vereinsauflösungen zu beschließen.\n  Außerdem entscheidet die Mitgliederversammlung über folgende Punkte:\n    \n      zusätzliche Aufgaben des Vereins\n      Höhe der Mitgliedsbeiträge\n      An- und Verkauf von Vereinsvermögen über 1.500 EUR für Posten, die nicht im Haushaltsplan vorgesehen sind.\n      Belastung von Vereinsvermögen und Grundbesitz\n      Beteiligung an Gesellschaften\n      Aufnahme von Darlehen ab 500,- EUR\n      Genehmigung aller Geschäftsordnungen\n      Auflösung des Vereins\n      weitere Angelegenheiten nach Vorlage durch Vorstand\n    \n  \n\n\n§ 9 Vorstand\n\n\n  Der Vorstand setzt sich aus dem Vorsitzenden, dem stellvertretenden Vorsitzenden, dem Kassenwart und dem Pressewart zusammen sowie bis zu fünf weiteren BeisitzerInnen. Die Amtszeit beträgt zwei Jahre. Die Wiederwahl ist zulässig. Die jeweils amtierenden Vorstandsmitglieder bleiben nach Ablauf ihrer Amtszeit im Amt, bis Nachfolger gewählt sind. Der Vorstand arbeitet ehrenamtlich.\n  Der Vorstand wird von der Mitgliederversammlung gewählt.\n  Der Vorstand beschließt über alle Vereinsangelegenheiten, soweit sie nicht eines Beschlusses der Mitgliederversammlung bedürfen. Er führt die Beschlüsse der Mitgliederversammlung aus.\n  Der Vorstand tritt auf folgende Weise zusammen: Auf Verlangen eines Vorstandsmitgliedes nach Absprache mit den anderen Vorstandsmitgliedern\n  Der Vorstand ist bei Anwesenheit der Hälfte des Vorstands beschlussfähig. Er fasst Beschlüsse mit Stimmenmehrheit. Bei Stimmengleichheit gilt ein Antrag als abgelehnt.\n  Beschlüsse des Vorstands können auch schriftlich oder fernmündlich gefasst werden. Schriftlich oder fernmündlich gefasste Vorstandsbeschlüsse sind schriftlich niederzulegen und vom Vorstand zu unterzeichnen.\n  Der Verein wird gerichtlich und außergerichtlich von zwei Vorstandsmitgliedern gemeinsam vertreten.\n  Satzungsänderungen, die von Aufsichts-, Gerichts- oder Finanzbehörden aus formalen Gründen verlangt werden, kann der Vorstand von sich aus vornehmen. Diese Satzungsänderungen müssen der nächsten Mitgliederversammlung mitgeteilt werden.\n\n\n§ 10 Kassenprüfung\n\n\n  Die Mitgliederversammlung wählt für die Dauer von zwei Jahren bis zu zwei Kassenprüfer. Diese dürfen kein Mitglied des Vorstands sein. Die Wiederwahl ist zulässig.\n\n\n§ 11 Vereinsfinanzierung, Auflösung des Vereins\n\n\n  Bei Auflösung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an eine juristische Person des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft zwecks Verwendung für Förderung von Wissenschaft und Forschung und / oder der Volksbildung.\n\n\n§ 12 Inkraftsetzung\n\n\n  Diese Satzung tritt mit der Eintragung in das Vereinsregister in Kraft.\n\n\nDie Gründungsmitglieder\n\n",
+    "url": "/satzung"
+  },
+  
+  {
+    "title": "Verein",
+    "excerpt": "\n",
+    "content": "Wie es begann\n\nDer Code for Heilbronn e.V. wurde am 24.07.2017 in Heilbronn gegründet. Code\nfor Heilbronn war zuvor eine offene Initiative, die von Felix Ebert\nund Adrian Stabiszewski im Jahre 2014 gegründet wurde. Die Intiative wurde\nauf Einladung der Open Knowledge Foundation Deutschland\ngeründet, die das Vorbild der “Code for” Organisationen von Code for Amarica\nübernahm.\n\nCode for Heilbronn e.V.\nHeute ist der Code for Heilbronn e.V. ein gemeinnütziger Verein\nund betreibt ein offenes FabLab in den Räumlichkeiten\nvom Coworking Space, organisiert Software- und Hardware Workshops und setzt sich\nfür die Veröffentlichung und Einsatz offener Daten.\n\nWas vor einigen Jahren als kleine Gruppe von OpenData-begeisterten Softwareentwicklern begann,\nhat sich inzwischen zu etwas viel größerem entwickelt: Eine wöchentliche Veranstaltung in einem MakerSpace,\nin dem sowohl Hardware-, als auch Softwareprojekte umgesetzt werden können.\n\nFür die große Community, die inzwischen die nationalen Grenzen überschritten hat,\nist der Kerngedanke der gegenseitigen Hilfe stets im Vordergrund, wodurch jeder die Möglichkeit hat,\nseine Fähigkeiten zu erweitern und Neues zu lernen.\n\nDas FabLab umfasst inzwischen eine große Grundausstattung  an Werkzeugen,\nsowie einen Lasercutter, zwei 3D-Drucker, eine Platinenfräse, Lötstationen, Labornetzteile und viele weitere\nnützliche Utensilien.\n\nWer Lust und Interesse hat, mit Gleichgesinnten Projekte umzusetzen und sich neue Fähigkeiten anzueignen,\nist herzlich dazu eingeladen, uns beim Coding Abend oder bei einem anderen Event im Coworking Space Heilbronn zu besuchen –\nund keine Angst, Vorkenntnisse sind nicht notwendig.\n\nNews und aktuelle Informationen zur Terminen findet ihr auf unserem Twitter Account\n@codeforhn und auf Meetup.\n\nTreffen und Öffnungszeiten\n\nDer feste Vereinstreff ist der Coding Abend ©, der jeden Donnerstag ab\n18 Uhr im Wollhaus, 5. Stock stattfindet.\nDas FabLab ist auch jeden zweiten Samstag ab 13 Uhr offen. Bitte schaut\nnach den genauen Öffnungszeiten auf Meetup.\n\nSatzung\n\nDie Satzung vom Code for Heilbronn findet ihr hier.\n\nMitgliedsanträge\n\nDie Mitgliedsanträge findet ihr im FabLab und online.\n\nBadges\n\nDer Verein vergibt an aktive Mitglieder Badges. Badges sind kleine Sticker und\neine Form der Anerkennung. Sie sollen dazu motivieren, Projekte fertig zu stellen und zu dokumentieren.\n\nEine Liste aller Badges findet ihr hier.\n\nVorstand\n\n\n  Vorstandsvorsitzender\n  Adrian Stabiszewski, @nitegate\n  Stellvertretender Vorstand\n  Jonathan Günz, @harmoniemand\n  Kassenwart\n  Leandro Späth, @_LeoDJ\n  Pressewart\n  Franz Imschweiler, @FranzImsch\n  Beisitzer:\n  Steffen Jung, @gravima\n  Felix Ebert, @femeb\n  Valentin Fischer, @TheVale98\n  Simon Rätzer, @LabVonUndZuMeow\n\n",
+    "url": "/verein"
+  }
+  
+]
+

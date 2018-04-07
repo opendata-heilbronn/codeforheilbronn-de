@@ -1,0 +1,27 @@
+
+
+.cfh-contributor {
+
+    width: 60px;
+    height: 60px;
+    background-size: cover;
+    border-radius: 30px;
+    position: relative;
+
+    .cfh-card {
+        display: none;
+        position: absolute;
+        top: 60px;
+        right: 0;
+        z-index: 100;
+        background: #fff;
+
+        border: solid 1px #007bff;
+    }
+
+    &:hover {
+        .cfh-card {
+            display: block;
+        }
+    }
+}
