@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: page
 ---
 
 
@@ -12,17 +12,17 @@ layout: blog
     </div>
 
     <div style="min-width: 180px;">
-        <div class="mb-5 d-flex flex-column align-items-center">
+        <div class="mb-3 d-flex flex-column align-items-center">
             {% if page.badge %}
             <div class="cfh-badge" style="height: 140px; width: 140px; background-image: url({{ page.badge }})"></div>
             {% endif %}
         </div>
 
-        <div class="mb-5">
+        <div class="mb-3">
             {% if page.github %}
             <a href="{{page.github}}">
-                <div class="cfh-project-header-item">
-                    <img class="cfh-project-header-item-image" src="/uploads/site_internal/logo-github.svg" />
+                <div class="cfh-project-header-item d-flex flex-column align-items-center">
+                    <img class="cfh-project-header-item-image" style="width: 60px; height: 60px;" src="/uploads/site_internal/logo-github.svg" />
                     <div class="cfh-project-header-item-label">GitHub Repository</div>
                 </div>
             </a>
@@ -52,7 +52,10 @@ layout: blog
 <div>
     <h2>Blog</h2>
     <div class="cfh-cards">
-        {% for post in site.posts %} {% if post.tags contains page.tag %} {% include cfh-blog-card.html post=post %} {% endif %}
+        {% for post in site.posts %} 
+            {% if post.tags contains page.tag %} 
+                {% include cfh-blog-card.html post=post %} 
+            {% endif %}
         {% endfor %}
     </div>
 </div>
