@@ -6,28 +6,28 @@ title: Verein
 
 ## Wie es begann
 
-Der Code for Heilbronn e.V. wurde am 24.07.2017 in Heilbronn gegründet. Code
+Der Code for Heilbronn e. V. wurde am 24.07.2017 in Heilbronn gegründet. Code
 for Heilbronn war zuvor eine offene Initiative, die von Felix Ebert
 und Adrian Stabiszewski im Jahre 2014 gegründet wurde. Die Intiative wurde
 auf Einladung der [Open Knowledge Foundation Deutschland](https://oknf.de)
-geründet, die das Vorbild der "Code for" Organisationen von Code for Amarica
+gegründet, die das Vorbild der "Code for" Organisationen von Code for America
 übernahm.
 
 ## Code for Heilbronn e.V.
-Heute ist der Code for Heilbronn e.V. ein gemeinnütziger Verein
+Heute ist der Code for Heilbronn e. V. ein gemeinnütziger Verein
 und betreibt ein offenes FabLab in den Räumlichkeiten
-vom Coworking Space, organisiert Software- und Hardware Workshops und setzt sich
-für die Veröffentlichung und Einsatz offener Daten.
+vom Coworking Space, organisiert Software- und Hardware-Workshops und setzt sich
+für die Veröffentlichung und den Einsatz offener Daten ein.
 
 Was vor einigen Jahren als kleine Gruppe von OpenData-begeisterten Softwareentwicklern begann,
-hat sich inzwischen zu etwas viel größerem entwickelt: Eine wöchentliche Veranstaltung in einem MakerSpace,
+hat sich zu etwas viel größerem entwickelt: Eine wöchentliche Veranstaltung in einem MakerSpace,
 in dem sowohl Hardware-, als auch Softwareprojekte umgesetzt werden können.
 
 Für die große Community, die inzwischen die nationalen Grenzen überschritten hat,
 ist der Kerngedanke der gegenseitigen Hilfe stets im Vordergrund, wodurch jeder die Möglichkeit hat,
 seine Fähigkeiten zu erweitern und Neues zu lernen.
 
-Das FabLab umfasst inzwischen eine große Grundausstattung  an Werkzeugen,
+Das FabLab umfasst inzwischen eine große Grundausstattung an Werkzeugen,
 sowie einen Lasercutter, zwei 3D-Drucker, eine Platinenfräse, Lötstationen, Labornetzteile und viele weitere
 nützliche Utensilien.
 
@@ -35,7 +35,7 @@ Wer Lust und Interesse hat, mit Gleichgesinnten Projekte umzusetzen und sich neu
 ist herzlich dazu eingeladen, uns beim Coding Abend oder bei einem anderen Event im Coworking Space Heilbronn zu besuchen –
 und keine Angst, Vorkenntnisse sind nicht notwendig.
 
-News und aktuelle Informationen zur Terminen findet ihr auf unserem Twitter Account
+News und aktuelle Informationen zu Terminen findet ihr auf unserem Twitter Account
 [@codeforhn](https://twitter.com/codeforhn) und auf [Meetup](https://meetup.com/codeforhn/).
 
 ## Treffen und Öffnungszeiten

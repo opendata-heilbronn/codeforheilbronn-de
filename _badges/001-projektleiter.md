@@ -13,7 +13,7 @@ published: true
 
 Dieser Badge wird für den erfolgreichen Abschluss eines Projektes verliehen.
 
-* Ein abgeschlossenes Projekt
-* Das Projekt muss dokumentiert sein
-* Am Projekt müssen mindestens 2 weitere Personen mitgearbeitet haben
+* Ein abgeschlossenes Projekt.
+* Das Projekt muss dokumentiert sein.
+* Am Projekt müssen mindestens zwei weitere Personen mitgearbeitet haben.
 
