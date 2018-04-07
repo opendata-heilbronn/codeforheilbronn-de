@@ -16,5 +16,5 @@ Dieser Badge wird für ein abgeschlossenes und dokumentiertes Software-Projekt v
 * Das Projekt muss einen überwiegenden Softwareanteil haben.
 * Das Projekt muss abgeschlossen (Projektziel erfüllt) sein.
 * Das Projekt muss auf codeforheilbronn.de dokumentiert sein.
-* Der Quellcode muss auf Github veröffentlicht werden.
+* Der Quellcode muss auf GitHub veröffentlicht werden.
 

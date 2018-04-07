@@ -16,5 +16,5 @@ Dieser Badge wird für ein abgeschlossenes und dokumentiertes Projekt mit Docker
 * Das Projekt muss an einer Stelle mit Docker arbeiten oder Docker selbst erweitern oder verbessern.
 * Das Projekt muss abgeschlossen (Projektziel erfüllt) sein.
 * Das Projekt muss auf codeforheilbronn.de dokumentiert sein.
-* Der Quellcode muss auf Github veröffentlicht werden.
+* Der Quellcode muss auf GitHub veröffentlicht werden.
 

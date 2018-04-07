@@ -4,7 +4,7 @@ name: Slammaster
 feature_image: /uploads/prj_media/slammaster_header.png
 badge: /uploads/CodeForHeilbronn.svg
 github: https://github.com/opendata-heilbronn/slammaster
-teaser: Der SlamMaster ist ein Tool um Wertungen bei einem PoetrySlam zu visualisieren. Initial mit dem Popbüro Heilbronn für den BW-Slam 2016 entwickelt, ist er schnell relativ bekannt geworden.
+teaser: Der SlamMaster ist ein Tool, um Wertungen bei einem PoetrySlam zu visualisieren. Initial mit dem Popbüro Heilbronn für den BW-Slam 2016 entwickelt, ist er schnell relativ bekannt geworden.
 tag: slammaster
 state: running
 contributors:
@@ -18,10 +18,10 @@ contributors:
 
 ## Projektbeschreibung
 
-Der SlamMaster ist die nächste Version des Poetry-Slam-Tools. Nachdem der Vorgänger relativ beliebt wurde aber diverse Mängel aufweist, wird hier nun eine flexiblere Lösung entwickelt.
-Das Tool dient zum visualisieren der Punkte wärend des Slams über einen Projektor.
+Der SlamMaster ist die nächste Version des Poetry-Slam-Tools. Nachdem der Vorgänger relativ beliebt wurde, aber diverse Mängel aufweist, wird hier nun eine flexiblere Lösung entwickelt.
+Das Tool dient zum Visualisieren der Punkte während des Slams über einen Projektor.
 
-Die neue Version soll als Electron App umgesetzt, auf möglichst vielen Plattformen laufen.
+Die neue Version soll als Electron App umgesetzt auf möglichst vielen Plattformen laufen.
 
 ## Kontakt zum Projekt
 

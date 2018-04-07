@@ -16,5 +16,5 @@ Dieser Badge wird für ein abgeschlossenes und dokumentiertes OpenData-Projekt v
 * Das Projekt muss entweder offene Daten generieren, bereitstellen oder nutzen.
 * Das Projekt muss abgeschlossen (Projektziel erfüllt) sein.
 * Das Projekt muss auf codeforheilbronn.de dokumentiert sein.
-* Der Quellcode muss auf Github veröffentlicht werden.
+* Der Quellcode muss auf GitHub veröffentlicht werden.
 
