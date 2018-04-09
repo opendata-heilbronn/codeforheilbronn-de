@@ -17,14 +17,22 @@
   <time datetime="{{ page.date | date_to_xmlschema }}" class="time">{{ page.date | date_to_string }}</time>
   {% if page.author %}
     <!-- Look the author details up from the site config. -->
-    {% assign author = site.data.contributors | where: "nick", page.author | first %}
     &nbsp;&middot;&nbsp;
-    <span>{{ author.name }}</span>
+    {% for contr in site.contributors %}
+        {% if page.author == contr.nick %}
+            {{ contr.name }}
+        {% endif %}
+    {% endfor %}
   {% elsif page.authors %}
     &nbsp;&middot;&nbsp;
     {% assign authors = "" %}
     {% for author in page.authors %}
-      {{ site.data.contributors | where: "nick", author | first | map: "name" }}{% if forloop.last == false %},{% endif %}
+      {% for contr in site.contributors %}
+        {% if author == contr.nick %}
+            {{ contr.name }}
+        {% endif %}
+      {% endfor %}
+      {% if forloop.last == false %}/{% endif %}
     {% endfor %}
   {% endif %}
 </small>
