@@ -10,7 +10,6 @@ source "https://rubygems.org"
 # Happy Jekylling!
 gem "jekyll"
 
-gem "jekyll-remote-theme"
 gem "jekyll-seo-tag"
 gem 'jekyll-sitemap'
 gem 'jekyll-redirect-from'
