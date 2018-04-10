@@ -2,61 +2,56 @@
 layout: page
 ---
 
+<div class="content-container">
+    {% if page.badge %}
+    <div class="cfh-badge" style="background-image: url({{ page.badge }})"></div>
+    {% endif %}
 
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <div class="cfh-project-header">
+        {% if page.github %}
+        <a href="{{page.github}}">
+            <div class="cfh-project-header-item">
+                <img class="cfh-project-header-item-image" src="/uploads/site_internal/logo-github.svg" />
+                <div class="cfh-project-header-item-label">GitHub Repository</div>
+            </div>
+        </a>
+        {% endif %}
 
-
-<div class="d-md-flex flex-xs-row">
-    <div>
-        {{ content }}
-    </div>
-
-    <div style="min-width: 180px;">
-        <div class="mb-3 d-flex flex-column align-items-center">
-            {% if page.badge %}
-            <div class="cfh-badge" style="height: 140px; width: 140px; background-image: url({{ page.badge }})"></div>
-            {% endif %}
-        </div>
-
-        <div class="mb-3">
-            {% if page.github %}
-            <a href="{{page.github}}">
-                <div class="cfh-project-header-item d-flex flex-column align-items-center">
-                    <img class="cfh-project-header-item-image" style="width: 60px; height: 60px;" src="/uploads/site_internal/logo-github.svg" />
-                    <div class="cfh-project-header-item-label">GitHub Repository</div>
+        {% for state in site.data.projectstates %}
+            {% if page.state == state.name %}
+                <div class="cfh-project-header-item" title="{{ state.description }}">
+                    <img class="cfh-project-header-item-image" src="{{state.image}}" />
+                    <div class="cfh-project-header-item-label">Projektstatus: {{ state.name }}</div>
                 </div>
-            </a>
-            {% endif %}
-        </div>
-
-        <div class="mb-5">
-            {% for state in site.data.projectstates %}
-                {% if page.state == state.name %}
-                <div class="cfh-project-header-item d-flex flex-column align-items-center" title="{{ state.description }}">
-                    <img class="cfh-project-header-item-image" style="width: 60px; height: 60px;" src="{{state.image}}" />
-                    <div class="cfh-project-header-item-label ml-2" title="Projektstatus">{{ state.name }}</div>
-                </div>
-                {% endif %}
-            {% endfor %}
-        </div>
-
-        <div class="d-flex flex-wrap">
-            {% for contributor in page.contributors %} {% include cfh-contributor.html contributor=contributor %} {% endfor %}
-        </div>
-    </div>
-
-</div>
-
-
-{% if page.tag %}
-<div>
-    <h2>Blog</h2>
-    <div class="cfh-cards">
-        {% for post in site.posts %} 
-            {% if post.tags contains page.tag %} 
-                {% include cfh-blog-card.html post=post %} 
             {% endif %}
         {% endfor %}
     </div>
+
+    <div class="cfh-project-content">
+        <div class="content">{{ content }}</div>
+        
+        <div class="cfh-contributors">
+            <h3>Contributors</h3>
+
+            <div class="cfh-cards">
+                {% for contributor in page.contributors  %}
+                    {% include cfh-contributor.html contributor=contributor %}
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+
+
+    {% if page.tag %}
+    <div class="cfh-project-blog">
+        <h2>Blog</h2>
+        <div class="cfh-cards">
+            {% for post in site.posts  %}
+                {% if post.tags contains page.tag %}
+                    {% include cfh-blog-card.html post=post %}
+                {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+    {% endif %}
 </div>
-{% endif %}

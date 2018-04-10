@@ -17,7 +17,13 @@
       <h3>Index</h3>
       {% include nav-categories.html %}
     </section>
-
+  
+  {% elsif page.layout == "project" %}
+    <section class="section  section--project-info">
+      <h3>
+        Project
+      </h3>
+    </section>
   {% endif %}
 
 </aside>
