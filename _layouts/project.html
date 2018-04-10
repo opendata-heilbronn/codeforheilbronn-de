@@ -1,44 +1,11 @@
 ---
 layout: page
+foo: bar
 ---
 
 <div class="content-container">
-    {% if page.badge %}
-    <div class="cfh-badge" style="background-image: url({{ page.badge }})"></div>
-    {% endif %}
-
-    <div class="cfh-project-header">
-        {% if page.github %}
-        <a href="{{page.github}}">
-            <div class="cfh-project-header-item">
-                <img class="cfh-project-header-item-image" src="/uploads/site_internal/logo-github.svg" />
-                <div class="cfh-project-header-item-label">GitHub Repository</div>
-            </div>
-        </a>
-        {% endif %}
-
-        {% for state in site.data.projectstates %}
-            {% if page.state == state.name %}
-                <div class="cfh-project-header-item" title="{{ state.description }}">
-                    <img class="cfh-project-header-item-image" src="{{state.image}}" />
-                    <div class="cfh-project-header-item-label">Projektstatus: {{ state.name }}</div>
-                </div>
-            {% endif %}
-        {% endfor %}
-    </div>
-
     <div class="cfh-project-content">
         <div class="content">{{ content }}</div>
-        
-        <div class="cfh-contributors">
-            <h3>Contributors</h3>
-
-            <div class="cfh-cards">
-                {% for contributor in page.contributors  %}
-                    {% include cfh-contributor.html contributor=contributor %}
-                {% endfor %}
-            </div>
-        </div>
     </div>
 
 

@@ -1,5 +1,6 @@
 ---
 layout: project
+aside: true
 name: Matelight
 feature_image: /uploads/prj_media/matelight_header.jpg
 badge: /uploads/badges/badge-501-matelight.svg

@@ -1,5 +1,6 @@
 ---
 layout: project
+aside: true
 name: "Tic-Tac-Toe-Platine"
 tag: tic-tac-toe-platine
 teaser: Eine Platine, mit der man gegeneinander Tic-Tac-Toe spielen kann

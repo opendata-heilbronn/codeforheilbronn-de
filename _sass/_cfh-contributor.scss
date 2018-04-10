@@ -2,21 +2,41 @@
 
 .cfh-contributor {
 
-    width: 60px;
+    width: 100%;
     height: 60px;
     background-size: cover;
-    border-radius: 30px;
     position: relative;
+    margin-bottom: 6px;
+
+    .cfh-contributor-avatar {
+        width: 60px;
+        height: 60px;
+        display: inline;
+        border-radius: 30px;
+    }
+
+    .cfh-contributor-name {
+        line-height: normal;
+        text-decoration: none;
+        margin-left: 23px;
+        margin-bottom: auto;
+        margin-top: auto;
+    }
 
     .cfh-card {
         display: none;
         position: absolute;
-        top: 60px;
+        top: 10px;
         right: 0;
         z-index: 100;
         background: #fff;
 
         border: solid 1px #007bff;
+        width: calc(100% - 65px);
+
+        .font-weight-bold {
+            font-weight: bold;
+        }
     }
 
     &:hover {
