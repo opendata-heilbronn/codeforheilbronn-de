@@ -8,8 +8,12 @@ foo: bar
         <div class="content">{{ content }}</div>
     </div>
 
-
-    {% if page.tag %}
+    {% for post in site.posts  %}
+        {% if post.tags contains page.tag %}
+            {% assign hasBlogPosts = true %}
+        {% endif %}
+    {% endfor %}
+    {% if page.tag and hasBlogPosts %}
     <div class="cfh-project-blog">
         <h2>Blog</h2>
         <div class="cfh-cards">
