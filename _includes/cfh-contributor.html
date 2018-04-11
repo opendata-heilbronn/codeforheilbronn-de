@@ -26,7 +26,7 @@
             {% if i_contributor.twitter %}
             <div class="row">
                 <div class="col">
-                    <a href="https://twitter.com/{{i_contributor.twitter}}">
+                    <a href="https://twitter.com/{{i_contributor.twitter | remove_first: '@'}}">
                         <img style="max-width: 24px; vertical-align: middle;" src="/uploads/site_internal/logo-twitter.svg" />
                         <span>{{i_contributor.twitter}}</span>
                     </a>
