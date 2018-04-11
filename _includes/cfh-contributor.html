@@ -18,12 +18,12 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col" style="line-height: normal;">
+                <div class="col" style="line-height: normal; margin-bottom: 5px;">
                     {{ i_contributor.intro }}
                 </div>
             </div>
 
-            {% if i_contributor.twitter %}
+            {% if (_contributor.twitter.size > 0 %}
             <div class="row">
                 <div class="col">
                     <a href="https://twitter.com/{{i_contributor.twitter | remove_first: '@'}}">
@@ -33,11 +33,17 @@
                 </div>
             </div>
             {% endif %}
-
+            
+            {% for id in i_contributor.badges %} {% for badge in site.badges %} {% if badge.bid == id.id %} {% assign hasBadges = true %} {% endif %} {% endfor %} {% endfor %}
             <div class="row mt-2">
+                {% if hasBadges %}
+                {% assign hasBadges = false %}
                 <div class="col-12 font-weight-bold">
                     Erworbene Badges:
                 </div>
+                {% else %}
+                  <span> </span>
+                {% endif %}
                 <div class="col-12">
                     {% for id in i_contributor.badges %} {% for badge in site.badges %} {% if badge.bid == id.id %}
                     <a href="{{ badge.url }}" style="text-decoration: none;">
