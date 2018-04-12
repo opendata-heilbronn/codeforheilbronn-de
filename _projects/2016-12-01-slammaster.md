@@ -1,5 +1,6 @@
 ---
 layout: project
+aside: true
 name: Slammaster
 feature_image: /uploads/prj_media/slammaster_header.png
 badge: /uploads/CodeForHeilbronn.svg

@@ -9,8 +9,6 @@ timezone: Europe/Berlin
 permalink: /:year/:month/:day/:title.html
 avatarurl: /favicon.png
 
-remote_theme: daviddarnes/alembic
-
 markdown: kramdown
 
 collections:
@@ -49,7 +47,6 @@ navigation_footer:
 
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-redirect-from

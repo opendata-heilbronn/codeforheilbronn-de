@@ -1,38 +1,49 @@
 {% for contr in site.contributors %} {% if contr.nick == include.contributor %} {% assign i_contributor = contr %} {% endif
 %} {% endfor %}
 
-<div class="cfh-contributor cfh-contributor-image" style="background-image: url({{ i_contributor.avatar }});">
+<!-- <div class="cfh-contributor cfh-contributor-image" style="background-image: url({{ i_contributor.avatar }});"> -->
+<div class="cfh-contributor cfh-contributor-image">
+    <div style="display:inline-flex">
+        <img class="cfh-contributor-avatar" src="{{ i_contributor.avatar }}">
+        <span class="cfh-contributor-name">{{ i_contributor.name }}</span>
+    </div>
 
     <div class="cfh-card" style="min-width: 180px;">
         <div class="cfh-card-image" style="background-image: url({{ i_contributor.avatar }});"></div>
 
         <div class="container p-2">
             <div class="row">
-                <div class="col text-uppercase font-weight-bold">
+                <div class="col font-weight-bold">
                     {{ i_contributor.name }}
                 </div>
             </div>
             <div class="row">
-                <div class="col">
+                <div class="col" style="line-height: normal; margin-bottom: 5px;">
                     {{ i_contributor.intro }}
                 </div>
             </div>
 
-            {% if i_contributor.twitter %}
+            {% if (_contributor.twitter.size > 0 %}
             <div class="row">
                 <div class="col">
-                    <a href="https://twitter.com/{{i_contributor.twitter}}">
-                        <img class="" style="max-width: 24px;" src="/uploads/site_internal/logo-twitter.svg" />
-                        <span class="">{{i_contributor.twitter}}</span>
+                    <a href="https://twitter.com/{{i_contributor.twitter | remove_first: '@'}}">
+                        <img style="max-width: 24px; vertical-align: middle;" src="/uploads/site_internal/logo-twitter.svg" />
+                        <span>{{i_contributor.twitter}}</span>
                     </a>
                 </div>
             </div>
             {% endif %}
-
+            
+            {% for id in i_contributor.badges %} {% for badge in site.badges %} {% if badge.bid == id.id %} {% assign hasBadges = true %} {% endif %} {% endfor %} {% endfor %}
             <div class="row mt-2">
+                {% if hasBadges %}
+                {% assign hasBadges = false %}
                 <div class="col-12 font-weight-bold">
                     Erworbene Badges:
                 </div>
+                {% else %}
+                  <span> </span>
+                {% endif %}
                 <div class="col-12">
                     {% for id in i_contributor.badges %} {% for badge in site.badges %} {% if badge.bid == id.id %}
                     <a href="{{ badge.url }}" style="text-decoration: none;">
