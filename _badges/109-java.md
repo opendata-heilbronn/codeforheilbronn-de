@@ -7,6 +7,7 @@ image: /uploads/badges/badge-109-java.svg
 permalink: /bd109
 color: rgb(0, 0, 0);
 published: true
+categorie: technologie
 ---
 
 ## Voraussetzungen

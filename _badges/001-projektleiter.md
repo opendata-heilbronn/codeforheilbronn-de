@@ -2,6 +2,7 @@
 layout: badge
 name: Projektleiter
 bid: "001"
+categorie: tasks
 tags: [aufgaben]
 image: /uploads/badges/badge-001-projektleiter.svg
 permalink: /bd001

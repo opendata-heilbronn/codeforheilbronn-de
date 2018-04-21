@@ -12,14 +12,48 @@ mit einem Farmbot-Badge mit Fragen zu dem Projekt löchern.
 Nicht zuletzt sind Badges aber auch eine Form der Anerkennung. Sie sollen dazu motivieren, Projekte fertig zu stellen und zu dokumentieren.
 
 
+### Badges für übernommene Aufgaben - 0xx
+
+Nummernkreis 0 enthält Badges, die vor allem für übernommene Aufgaben vergeben werden. 
+
 <div id="cfh-badge-list" class="cfh-badge-list" style="margin-top: 20px;">
     {% for badge in site.badges %}
-        <a href="{{ badge.url }}">
-            <img class="cfh-badge-img" src="{{badge.image}}" />
-        </a>
+        {% if badge.categorie == 'tasks' %}
+            <a href="{{ badge.url }}">
+                <img class="cfh-badge-img" src="{{badge.image}}" />
+            </a>
+        {% endif %}
     {% endfor %}
 </div>
 
+
+### Badges für verwendete Technologien - 1xx
+
+Technologie-Badges werden für fertige und dokumentierte Projekte vergeben.
+
+<div id="cfh-badge-list" class="cfh-badge-list" style="margin-top: 20px;">
+    {% for badge in site.badges %}
+        {% if badge.categorie == 'technologie' %}
+            <a href="{{ badge.url }}">
+                <img class="cfh-badge-img" src="{{badge.image}}" />
+            </a>
+        {% endif %}
+    {% endfor %}
+</div>
+
+<!-- 
+### Badges für Softskills - 2xx
+
+<div id="cfh-badge-list" class="cfh-badge-list" style="margin-top: 20px;">
+    {% for badge in site.badges %}
+        {% if badge.categorie == 'softskills' %}
+            <a href="{{ badge.url }}">
+                <img class="cfh-badge-img" src="{{badge.image}}" />
+            </a>
+        {% endif %}
+    {% endfor %}
+</div>
+-->
 
 ## Umgang mit den Badges
 
@@ -30,51 +64,8 @@ Außerdem sind auf der Seite des Badges alle Personen aufgelistet, die den Badge
 Es gibt verschiedene Arten von Badge.
 
 * Projektbadges - für die größeren Projekte wie Farmbot und MateLight.
-* Skillbadges - für Fähigkeiten, die man erworben oder unter Beweis gestellt hat
 * Aufgabenbadges - für übernommene Aufgaben und Verantwortung
+* Technologiebadges - für verwendete Technologien und Methoden
 * Metabadges - für Softskills und allgemeine Dinge
 
 
-<script>
-
-(function() {
-    console.info("badge-grid");
-
-    var badges = document.getElementsByClassName("cfh-badge-img");
-    var container = document.getElementsByClassName("cfh-badge-list")[0];
-
-    var width_badges = 186;
-    var height_badges = 160;
-
-    var col_badges = 0;
-    var row_badges = 0;
-
-    var container = $("#cfh-badge-list");
-    var containerOuterWidth = container.outerWidth();
-
-    $(".cfh-badge-img").each(function(index, elem) {
-        if ((col_badges * width_badges) + width_badges > containerOuterWidth || (row_badges % 2 == 1 && col_badges * width_badges > containerOuterWidth - width_badges)) {
-            row_badges++;
-            col_badges = 0;
-        }
-
-        var top_badges = row_badges * height_badges;
-        var left_badges = col_badges * width_badges;
-
-        if (row_badges % 2 == 1) {
-            left_badges += 93;
-        }
-        console.info("badge " + index + " - top:" + top_badges + " ,left:" + left_badges + " - row:" + row_badges + ", col:" + col_badges);
-
-        $(elem).css("left", left_badges + "px");
-        $(elem).css("top", top_badges + "px");
-
-        col_badges++;
-    });
-
-    console.info("container col:" + row_badges);
-    $(container).css("height", (((row_badges + 1) * height_badges) + 50) + "px"); 
-
-})();
-
-</script>

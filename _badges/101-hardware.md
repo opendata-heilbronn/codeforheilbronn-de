@@ -7,6 +7,7 @@ image: /uploads/badges/badge-101-hardware.svg
 permalink: /bd101
 color: rgb(33, 150, 243);
 published: true
+categorie: technologie
 ---
 
 ## Voraussetzungen

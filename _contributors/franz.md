@@ -10,4 +10,9 @@ badges:
         projects:
             -   projectname: "WLan Visualizer"
                 projecturl: "https://github.com/opendata-heilbronn/wlanvisual"
+    -   id: "113"
+        date: "19.04.2018"
+        projects:
+            -   projectname: "Steckdosenleisten"
+                projecturl: "http://codeforheilbronn.de/projects/2018-03-23-Steckdosenleisten"
 ---

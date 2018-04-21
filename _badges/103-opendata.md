@@ -7,6 +7,7 @@ image: /uploads/badges/badge-103-opendata.svg
 permalink: /bd103
 color: rgb(139, 195, 74);
 published: true
+categorie: technologie
 ---
 
 ## Voraussetzungen
