@@ -1,20 +1,20 @@
 ---
 layout: badge
-name: Projektleiter
-bid: "111"
+name: LoRa
+bid: "112"
+categorie: technologie
 tags: [aufgaben]
-image: /uploads/badges/badge-111-csharp.svg
-permalink: /bd111
+image: /uploads/badges/badge-112-lora.svg
+permalink: /bd112
 color: rgb(0, 150, 136);
 published: true
-categorie: technologie
 ---
 
 ## Voraussetzungen
 
-Dieser Badge wird für ein abgeschlossenes und dokumentiertes C# Projekt verliehen.
+Dieser Badge wird für ein abgeschlossenes und dokumentiertes LoRa Projekt verliehen.
 
-* Das Projekt muss einen überwiegenden C# Anteil haben.
+* Das Projekt muss LoRa verwenden.
 * Das Projekt muss abgeschlossen (Projektziel erfüllt) sein.
 * Das Projekt muss auf codeforheilbronn.de dokumentiert sein.
 * Der Quellcode muss auf GitHub veröffentlicht werden.

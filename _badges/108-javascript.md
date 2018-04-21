@@ -7,6 +7,7 @@ image: /uploads/badges/badge-108-javascript.svg
 permalink: /bd108
 color: rgb(251, 216, 60);
 published: true
+categorie: technologie
 ---
 
 ## Voraussetzungen

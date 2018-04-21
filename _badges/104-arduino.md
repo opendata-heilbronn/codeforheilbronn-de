@@ -7,6 +7,7 @@ image: /uploads/badges/badge-104-arduino.svg
 permalink: /bd104
 color: rgb(96, 125, 139);
 published: true
+categorie: technologie
 ---
 
 ## Voraussetzungen

@@ -7,6 +7,7 @@ image: /uploads/badges/badge-102-software.svg
 permalink: /bd102
 color: rgb(139, 195, 74);
 published: true
+categorie: technologie
 ---
 
 ## Voraussetzungen
