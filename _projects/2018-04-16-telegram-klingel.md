@@ -37,7 +37,9 @@ Dafür hat sich Franz dann ganz schön ins Zeug gelegt und einen Impeller design
 Vor Kurzem sind wir dann über ein Ebay-Kleinanzeigen Angebot eines 2-Klang-Türgongs für ein paar Euro gestolpert – Also abgeholt und direkt getestet. Der Gong funktionierte bis auf 4V DC herunter noch völlig zuverlässig, was ihn zum perfekten akkustischen Signalgeber macht. 
 Basierend darauf haben dann Valentin und Leandro eine Platine für die Klingel konzipiert und gelötet. 
 
-[Bilder Platine]  
+{% include figure.html image="/uploads/prj_media/2018-04-16-telegram-klingel/pcbFront.jpg" position="left sideBySide" %}
+{% include figure.html image="/uploads/prj_media/2018-04-16-telegram-klingel/pcbBack.jpg" position="right sideBySide" %}
+
 ![Schaltplan](/uploads/prj_media/2018-04-16-telegram-klingel/schematic.png "Schaltplan")
 
 Die Schaltung ist, wie man sieht, nicht allzu komplex. Sie besteht aus der Spannungsversorgung, dem ESP8266, einem MOSFET mit nötiger Beschaltung und einer Buchse zur Programmierung mit einem FTDI Modul. 
@@ -56,5 +58,8 @@ Allerdings liegt in der Zwischendecke noch so ein mehradriges Kabel, mit dem man
 Nun könnte man die Schaltersignale selbst auslesen und damit auch die telegramBell ansteuern.  
  
 Das bleibt aber vorerst eine Idee für ein weiteres Projekt. 
+
+## Fertige Klingel
  
-[Bild fertige Klingel] 
+{% include figure.html image="/uploads/prj_media/2018-04-16-telegram-klingel/inside.jpg" position="left sideBySide" %}
+{% include figure.html image="/uploads/prj_media/2018-04-16-telegram-klingel/wall.jpg" position="right sideBySide" %}
