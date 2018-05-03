@@ -26,3 +26,5 @@ In der Zwischenzeit haben wir in Heilbronn unser FabLab auf und ausgebaut. Den 1
 Erstmal die alte Alukante entfernen. Schrauben ab, und dann mit etwas Gewalt die Silikonverklebte Kante entfernen ohne die Wand zu beschädigen. Nun mussten wir feststellen, dass die alte Tapete sehr dick war und sich stellenweise löste. Also beschlossen wir, dass es wohl am besten wäre die alte Tapete komplett zu entfernen. Also Steckdose abschrauben und Tapete herunterreisen. Dann einweichen und die Reste mit einem Spachtel abkratzen.
 
 Als die Wand soweit bereinigt war und die alte Tapete sauber entfernt, konnten wir endlich die neue Tapete aufbringen. Ein bisschen gestückelt, da die Bahnen zu kurz waren. Aber zum Schluss sah es recht gut aus. Nur die Alukante war verbogen und konnte nicht wieder verwendet werden. Und da der Baumarkt am 1. Mai geschlossen hat, mussten wir uns etwas anderes enfallen lassen. Da das FabLab über einen Lasercutter verfügt, hat unser Lasermeister kurz eine Kante designed und gelasert. Angeschraubt, fertig!
+
+![der fertige, neue Eingang](/uploads/post_media/2018-05-02-neuer-eingang-fablab/b3.jpg "der fertige, neue Eingang")
