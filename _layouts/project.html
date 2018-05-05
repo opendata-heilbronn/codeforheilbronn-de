@@ -1,28 +1,40 @@
 ---
-layout: page
+layout: default
 foo: bar
 ---
 
-<div class="content-container">
-    <div class="cfh-project-content">
-        <div class="content">{{ content }}</div>
-    </div>
+{% include site-header.html %}
 
-    {% for post in site.posts  %}
-        {% if post.tags contains page.tag %}
-            {% assign hasBlogPosts = true %}
-        {% endif %}
-    {% endfor %}
-    {% if page.tag and hasBlogPosts %}
-    <div class="cfh-project-blog">
-        <h2>Blog</h2>
-        <div class="cfh-cards">
+<main class="main  container">
+    <article class="article  article--page  content  typeset">
+
+        <div class="content-container">
+            <div class="cfh-project-content">
+                <div class="content">{{ content }}</div>
+            </div>
+
             {% for post in site.posts  %}
                 {% if post.tags contains page.tag %}
-                    {% include cfh-blog-card.html post=post %}
+                    {% assign hasBlogPosts = true %}
                 {% endif %}
             {% endfor %}
+            {% if page.tag and hasBlogPosts %}
+            <div class="cfh-project-blog">
+                <h2>Blog</h2>
+                <div class="cfh-cards">
+                    {% for post in site.posts  %}
+                        {% if post.tags contains page.tag %}
+                            {% include cfh-blog-card.html post=post %}
+                        {% endif %}
+                    {% endfor %}
+                </div>
+            </div>
+            {% endif %}
         </div>
-    </div>
-    {% endif %}
-</div>
+    </article>
+
+{% if page.aside == true %}{% include site-aside.html align="left" %}{% endif %}
+
+</main>
+
+{% include site-footer.html %}
