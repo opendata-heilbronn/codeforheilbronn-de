@@ -1,6 +1,7 @@
 ---
 layout: page
 feature_image: /uploads/site_internal/banner-about.jpg
+title: About
 ---
 
 Coworking Heilbronn e.V.  
