@@ -13,20 +13,20 @@ author: vale
 
 ---
 
-Unsere bestellten Bauteile
+## Unsere bestellten Bauteile
  
 Part                             | Price                 | Order/link
 ---------------------------------|-----------------------|--------------------
-iC880A-SPI Board                 | 120 €                 | [IMST Webshop]()
-Pigtail for antenna              | 8 €                   | [IMST Webshop]()
-Raspberry Pi 3                   | EUR 32.-              | [Amazon]()
-Antenna                          | EUR 3.50 - EUR 8      | [IMST Webshop]()
-PoE Adapter                      | EUR 8                 | [Amazon]()
-MicroSD Card (4Gb or more)       | ~ EUR 8               | [Reichelt]()
-7x Dual female jumper wires      | ~ EUR 5-40            | Aus der Bastelkiste
-PoE Injektor                     |15                     | [Amazon]()
+iC880A-SPI Board                 | 120 €                 | [IMST Webshop](https://shop.imst.de/wireless-modules/lora-products/8/ic880a-spi-lorawan-concentrator-868-mhz)
+Pigtail for antenna              | 6,50 €                | [IMST Webshop](https://shop.imst.de/wireless-modules/accessories/20/u.fl-to-sma-pigtail-cable-for-ic880a-spi)
+Antenna                          | 6,50 € 	         | [IMST Webshop](https://shop.imst.de/wireless-modules/accessories/19/sma-antenna-for-ic880a-spi-wsa01-im880b-and-lite-gateway)
+Raspberry Pi 3                   | 31,99 €               | [Amazon](https://www.amazon.de/dp/B01CD5VC92/)
+MicroSD Card (4Gb or more)       | 9,99 €                | [Amazon](https://www.amazon.de/dp/B073S9SFK2/)
+7x Dual female jumper wires      | 5 €                   | Aus der Bastelkiste
+PoE Injektor                     | 21,99 €               | [Amazon](https://www.amazon.de//dp/B001PS9E5I/)
+PoE Splitter                     | 9,99 €                | [Amazon](https://www.amazon.de/dp/B01H37XQP8/)
            
-
+<br/>
 
 Nachdem alle bestellten Bauteile eingetroffen sind, konnte es losgehen mit bauen/basteln.
  
@@ -34,8 +34,9 @@ Nachdem alle bestellten Bauteile eingetroffen sind, konnte es losgehen mit bauen
  
 Wir haben damit angefangen, einfach mal provisorisch RasperryPi und iC880a mit ein paar Jumpern zu verbinden. Um aus dem Pi nun einen TTN Gateway zu machen, haben wir die Anleitung des TTN Zürich (link) Schritt für Schritt abgearbeitet.
  
-![Testaufbau](/uploads/post_media/2018-03-01-ttn-gateway/testaufbau1.jpg "Testaufbau")
-![Testaufbau](/uploads/post_media/2018-03-01-ttn-gateway/testaufbau2.jpg "Testaufbau")
+
+{% include figure.html image="/uploads/post_media/2018-03-01-ttn-gateway/testaufbau1.jpg" position="left sideBySide" %}
+{% include figure.html image="/uploads/post_media/2018-03-01-ttn-gateway/testaufbau2.jpg" position="right sideBySide" %}
 
 iC880a pin      | Description   | RPi physical pin
 ----------------|---------------|-----------------
@@ -46,8 +47,10 @@ iC880a pin      | Description   | RPi physical pin
 15              | MISO          | 21
 16              | MOSI          | 19
 17              | NSS           | 24
- 
-Nachdem die Gateways nun konfiguriert waren und bei TTN als “online” angezeigt wurden, haben wir erfolgreich unseren ersten Lora Node mit dem Gateway verbinden können. Nun ging es daran, das Ganze für guten Empfang outdoor-tauglich zu machen.
+
+<br/>
+
+Nachdem die Gateways nun konfiguriert waren und bei TTN als “online” angezeigt wurden, haben wir erfolgreich unseren ersten Lora Node mit dem Gateway verbinden können. Nun ging es daran,das Ganze für guten Empfang outdoor-tauglich zu machen.
  
 ## Gateway Goes Outdoor
  
