@@ -13,7 +13,7 @@ author: vale
 
 ---
 
-## Unsere bestellten Bauteile
+# Unsere bestellten Bauteile
  
 Part                             | Price                 | Order/link
 ---------------------------------|-----------------------|--------------------
@@ -52,12 +52,16 @@ iC880a pin      | Description   | RPi physical pin
 
 Nachdem die Gateways nun konfiguriert waren und bei TTN als “online” angezeigt wurden, haben wir erfolgreich unseren ersten Lora Node mit dem Gateway verbinden können. Nun ging es daran,das Ganze für guten Empfang outdoor-tauglich zu machen.
  
-## Gateway Goes Outdoor
+# Gateway Goes Outdoor
  
 Also fingen wir an die Gehäuse vorzubereiten. Da unsere gewählten Gehäuse schon Löcher vorbereitet haben, haben wir uns dazu entschieden, passende Adapter zu drucken um Antenne und Kabeldurchführung dicht zu befestigen.
- 
-![3D gedruckte Adapter](/uploads/post_media/2018-03-01-ttn-gateway/ "3D gedruckte Adapter")
- 
+
+<div style="display: flex">
+{% include figure.html image="/uploads/post_media/2018-03-01-ttn-gateway/3Ddruck1.png" position="left sideBySide" %}
+{% include figure.html image="/uploads/post_media/2018-03-01-ttn-gateway/3Ddruck2.png" position="right sideBySide" %}
+</div>
+
+
 Als die Adapter gedruckt waren, haben wir diese mit Silikon wasserdicht in die Gehäuse geklebt. Für den Fall, dass wir weitere Gateways bauen sollten, würde sich der Einsatz von Zweikomponentenkleber als Dichtmasse allerdings besser eignen.
  
 ![Gehäuse kleben](/uploads/post_media/2018-03-01-ttn-gateway/gehaeuse.jpg "Gehäuse kleben")
@@ -65,8 +69,10 @@ Als die Adapter gedruckt waren, haben wir diese mit Silikon wasserdicht in die G
 Während die Gehäuse trockneten, konnten wir den Pi, das iC880a Modul und den PoE Adapter auf eine Kunststoffplatte montieren. Diese haben wir mit dem Cuttermesser passend zugeschnitten und Löcher, zur Montage der Komponenten, gebohrt.
 Nachdem alles montiert und nochmals auf Funktion getestet wurde, konnten wir die zwei Platten mit den Gehäusen vereinen und das Netzwerkkabel durch die Kabeldurchführung stecken.
  
-![Montageplatte](/uploads/post_media/2018-03-01-ttn-gateway/platte-montiert.jpg "Montageplatte")
-![Gateway offen](/uploads/post_media/2018-03-01-ttn-gateway/gateway-fertig.jpg "Gateway offen")
+<div style="display: flex">
+{% include figure.html image="/uploads/post_media/2018-03-01-ttn-gateway/platte-montiert.jpg" position="left sideBySide" %}
+{% include figure.html image="/uploads/post_media/2018-03-01-ttn-gateway/gateway-fertig.jpg" position="right sideBySide" %}
+</div>
  
 Um die einsatzbereiten Gateways nun auch außen am Wollhaus befestigen zu können, fehlte noch eine Befestigungsmöglichkeit. Nach kurzem Überlegen war klar, eine Art Haken zum Einhängen am Geländer ist die beste Lösung. Also nochmal kurz in den Baumarkt und  passendes Material besorgt.
  
@@ -77,10 +83,6 @@ Um die einsatzbereiten Gateways nun auch außen am Wollhaus befestigen zu könne
 ![Haken zeichnung](/uploads/post_media/2018-03-01-ttn-gateway/zeichnung.png "Haken zeichnung")
  
 Und schon hing der erste Heilbronner TTN Outdoor Gateway in Richtung Allee.
+Da der PoE Injektor noch fehlte, dauerte es ein paar Tage bis der Zweite auch draußen hing.
  
-![Montierter Gateway1](/uploads/post_media/2018-03-01-ttn-gateway/ "Montierter Gateway1")
 
- 
-Ein paar Tage später, da der PoE Injektor noch fehlte, hing auch der 2. Gateway draußen.
- 
-![Montierter Gateway2](/uploads/post_media/2018-03-01-ttn-gateway/ "Montierter Gateway2")
