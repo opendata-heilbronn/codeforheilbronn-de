@@ -82,7 +82,7 @@ Um die einsatzbereiten Gateways nun auch außen am Wollhaus befestigen zu könne
  
 ![Haken zeichnung](/uploads/post_media/2018-05-17-ttn-gateway/zeichnung.png "Haken zeichnung")
  
-Und schon hing der erste Heilbronner TTN Outdoor Gateway in Richtung Allee (01-03-2018).
+Und schon hing der erste Heilbronner TTN Outdoor Gateway in Richtung Allee (01.03.2018).
 Da der PoE Injektor noch fehlte, dauerte es ein paar Tage bis der Zweite auch draußen hing.
  
 
