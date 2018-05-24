@@ -31,31 +31,6 @@
 </div>
 
 
-<script>
-
-  $("code").addClass("prettyprint");
-
-  function sendslack() {
-    var mail = document.getElementById("slack-email").value;
-
-
-    $.ajax({
-        type: "POST",
-        url: "https://hooks.zapier.com/hooks/catch/2269356/sh039d/",
-        crossDomain: true,
-        data: '{ "email": "' + mail + '"}',
-        success: function (data) {
-          $("#slack-form .success").removeClass("hidden");
-        },
-        error: function (err) {
-            // handle your error logic here
-        }
-    });
-
-    return false;
-  };
-</script>
-
 <script type="application/ld+json">
 {
   "@context": "http://schema.org",

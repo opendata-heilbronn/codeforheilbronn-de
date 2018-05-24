@@ -39,9 +39,10 @@ navigation_header:
   Projekte: /projects
   Termine: /events
   Wiki: https://github.com/opendata-heilbronn/Wiki/wiki
-  Über: /about
 
 navigation_footer:
+  Impressum: /verein-impressum
+  Datenschutz: /verein-datenschutz
   Kategorien: /categories
   Satzung: /satzung
   Mitgliedsantrag: /uploads/Mitgliedsantrag.pdf

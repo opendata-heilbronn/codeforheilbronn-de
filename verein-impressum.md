@@ -4,7 +4,7 @@ feature_image: /uploads/site_internal/banner-about.jpg
 title: About
 ---
 
-Coworking Heilbronn e.V.  
+Code for Heilbronn e.V.  
 Am Wollhaus 1  
 74072 Heilbronn  
 Amtsgericht Stuttgart / Vereinsregister 723257
@@ -14,6 +14,9 @@ E-Mail: info ( @ ) codeforheilbronn.de
 Vorsitzender Adrian Stabiszewski  
 stellvertretender Vorsitzender Jonathan Günz  
 Schatzmeister Leandro Späth  
+
+Hiermit widersprechen wir ausdrücklich der Nutzung und/oder Übermittlung unserer hier genannten Kontaktdaten für kommerzielle Zwecke, Werbung oder für die Markt- und Meinungsforschung (§28 Abs. 3 BDSG). JEGLICHER MISSBRAUCH DER HIER ANGEGEBENEN DATEN WIRD ZUR ANZEIGE GEBRACHT!
+Dieses Impressum ist gültig für sämtliche Dienste und Websites die unter der Domain diegeschlossene.de oder unter Subdomains dieser Domain erreichbar sind.
 
 
 Inhaltlich Verantwortlicher gemäß § 55 Abs. 2 RStV:  
