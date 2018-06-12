@@ -16,7 +16,7 @@ stellvertretender Vorsitzender Jonathan Günz
 Schatzmeister Leandro Späth  
 
 Hiermit widersprechen wir ausdrücklich der Nutzung und/oder Übermittlung unserer hier genannten Kontaktdaten für kommerzielle Zwecke, Werbung oder für die Markt- und Meinungsforschung (§28 Abs. 3 BDSG). JEGLICHER MISSBRAUCH DER HIER ANGEGEBENEN DATEN WIRD ZUR ANZEIGE GEBRACHT!
-Dieses Impressum ist gültig für sämtliche Dienste und Websites die unter der Domain diegeschlossene.de oder unter Subdomains dieser Domain erreichbar sind.
+Dieses Impressum ist gültig für sämtliche Dienste und Websites die unter der Domain codeforheilbronn.de oder unter Subdomains dieser Domain erreichbar sind.
 
 
 Inhaltlich Verantwortlicher gemäß § 55 Abs. 2 RStV:  
