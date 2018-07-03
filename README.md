@@ -35,3 +35,8 @@ To host the site locally run `bundle exec jekyll serve`
     cd codeforheilbronn-de
     bundle install
     bundle exec jekyll serve
+
+oder alternativ mit Docker
+
+    docker build -t cfhn/cfhn-dev .
+    docker run -v $PWD:/cfhn -p 4000:4000 cfhn/cfhn-dev
