@@ -15,8 +15,8 @@ Um das voranzubringen vergeben wir Projektförderungen. Diese Förderungen könn
 
 ## Welche Anforderungen gibt es an Projekte?
 
-* Es muss ein Projektleiter benannt werden. Diese Person ist für das Projekt verantwortlich.
-* Es müssen mindestens zwei Mitstreiter zum Projekt gehören, so dass das Projekt insgesamt mit mindestens drei Personen besetzt ist.
+* Es muss ein Projektleiter benannt werden. Diese Person ist für das Projekt verantwortlich und muss Mitglied bei Code For Heilbronn e.V. sein (Ausnahmen werden vom Vorstand entschieden).
+* Es müssen mindestens zwei Mitstreiter\*innen zum Projekt gehören, so dass das Projekt insgesamt mit mindestens drei Personen besetzt ist.
 * Jede Woche im StandUp soll über Fortschritte berichtet werden.
 * Einmal im Monat muss ein Blogbeitrag zum Projekt auf codeforheilbronn.de veröffentlicht werden.
 
