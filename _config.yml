@@ -39,6 +39,7 @@ navigation_header:
   Projekte: /projects
   Termine: /events
   Wiki: https://github.com/opendata-heilbronn/Wiki/wiki
+  Code of Conduct: /code-of-conduct
 
 navigation_footer:
   Impressum: /verein-impressum
