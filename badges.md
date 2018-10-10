@@ -11,6 +11,7 @@ mit einem Farmbot-Badge mit Fragen zu dem Projekt löchern.
 
 Nicht zuletzt sind Badges aber auch eine Form der Anerkennung. Sie sollen dazu motivieren, Projekte fertig zu stellen und zu dokumentieren.
 
+Um eine Badge zu erhalten, muss ein Antrag unter folgendem Link gestellt werden: [Badge-Antrag](https://goo.gl/forms/Pb89t8ayzqEUcp893)
 
 ### Badges für übernommene Aufgaben - 0xx
 
