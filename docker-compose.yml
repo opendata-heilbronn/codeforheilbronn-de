@@ -1,0 +1,9 @@
+version: '2'
+services:
+  jekyll_dev:
+    image: cfhn-jekyll-dev
+    build: .
+    volumes:
+      - ./:/cfhn
+    ports:
+      - 4000:4000
