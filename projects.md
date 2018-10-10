@@ -5,7 +5,7 @@ title: Projekte
 ---
 
  <div class="cfh-cards">
-    {% for project in site.projects %}
+    {% for project in site.projects reversed %}
         {% include cfh-project-card.html project=project %}
     {% endfor %}
 </div>
