@@ -7,11 +7,18 @@ tags:
       - lora
 feature_image: /uploads/prj_media/LoraWan_header.jpg  
 published: true
-
+category: Projekte
 date: 2018-05-17
 author: vale
 
 ---
+
+Unsere Vereinsräume befinden sich im 5. Stock des Wollhauses. Neben der tollen Aussicht, eignet sich die Lage auch für eine gute Funkabdeckung über Heilbronn und Umgebung.
+
+Also haben wir uns entschieden, zwei LoRa-Gateways aufzuhängen. Diese sollen die Erreichbarkeit des "The Things Network" in der Umgebung des Wollhauses zu ermöglichen.
+
+Durch das "Things Network" können Sensoren bis zu 15km weit vom LoRa-Gateway entfernt Werte ins Internet senden.
+
 
 # Unsere bestellten Bauteile
  
