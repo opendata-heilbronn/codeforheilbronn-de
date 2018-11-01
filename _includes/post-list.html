@@ -18,14 +18,37 @@
 {% else %}
   <section class="section  typeset">
     <ul class="list  list--posts">
-      {% for page in site.posts %}
+      {% assign entries = site.posts | concat: site.projects | sort: "date" | reverse %}
+      {% for page in entries %}
         <li class="item  item--post">
           <article class="article  article--post">
+            {% if page.layout == "project" %}
+              <h2><a href="{{ site.baseurl }}{{ page.url }}">{{ page.name }}</a></h2>
+              <small class="small  post-meta">
+                <span class="label  label--category"><a href="{{ site.baseurl }}/projects">Projekt</a></span>
+                &nbsp;&middot;&nbsp;
+                <time datetime="{{ page.date | date_to_xmlschema }}" class="time">{{ page.date | date_to_string }}</time>
+                &nbsp;&middot;&nbsp;
+                {% if page.contributors %}
+                &nbsp;&middot;&nbsp;
+                  {% assign authors = "" %}
+                  {% for author in page.contributors %}
+                    {% for contr in site.contributors %}
+                      {% if author == contr.nick %}
+                        {{ contr.name }}
+                      {% endif %}
+                    {% endfor %}
+                  {% if forloop.last == false %}/{% endif %}
+                  {% endfor %}
+                {% endif %}
+              </small>
 
+              <p>{{ page.teaser }}</p>
+            {% else %}
             <h2><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h2>
             {% include post-meta.html %}
             {{ page.excerpt | truncatewords: 60 | markdownify}}
-
+            {% endif %}
           </article>
         </li>
       {% endfor %}
