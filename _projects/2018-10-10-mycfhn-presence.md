@@ -2,6 +2,7 @@
 layout: project
 aside: true
 name: MyCFHN Presence
+date: 2018-10-10
 github: https://github.com/opendata-heilbronn/my-cfhn-presence
 teaser: "\"Wer ist gerade im Cowo\" as a Service"
 state: running

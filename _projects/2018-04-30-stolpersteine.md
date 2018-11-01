@@ -2,6 +2,7 @@
 layout: project
 aside: true
 name: Stolpersteine Heilbronn
+date: 2018-04-30
 feature_image: /uploads/prj_media/stolpersteine_header.png
 github: https://github.com/opendata-heilbronn/stolpersteine
 teaser: Website für die Stolpersteine-Aktion in Heilbronn - zusammen mit dem Stadtarchiv entstanden

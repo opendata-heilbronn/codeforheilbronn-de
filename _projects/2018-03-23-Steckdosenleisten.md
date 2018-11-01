@@ -2,6 +2,7 @@
 layout: project
 aside: true
 name: Tisch-Steckdosenleisten
+date: 2018-03-23
 feature_image: /uploads/prj_media/steckdosenleiste/teaser.jpg
 teaser: "Um dem Problem von herumliegenden Steckerleisten entgegenzuwirken, wurden Montagemöglichkeiten für diese 3D-gedruckt."
 state: finished

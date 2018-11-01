@@ -2,6 +2,7 @@
 layout: project
 aside: true
 name: Slammaster
+date: 2016-12-01
 feature_image: /uploads/prj_media/slammaster_header.png
 badge: /uploads/CodeForHeilbronn.svg
 github: https://github.com/opendata-heilbronn/slammaster
