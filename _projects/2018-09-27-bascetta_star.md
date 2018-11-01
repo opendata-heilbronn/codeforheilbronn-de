@@ -2,6 +2,7 @@
 layout: project
 aside: true
 name: Bascetta Star
+date: 2018-09-27
 feature_image: /uploads/prj_media/2018-09-27-Bascetta_Star/bascetta_star_feature_image.jpg
 badge: /uploads/prj_media/2018-09-27-Bascetta_Star/bascetta_star_logo.png
 github: https://github.com/janitz/Bascetta_Star
