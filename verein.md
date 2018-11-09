@@ -78,4 +78,5 @@ Beisitzer:
 : Steffen Jung, [@gravima](https://twitter.com/gravima)
 : Felix Ebert, [@femeb](https://twitter.com/femeb)
 : Valentin Fischer, [@TheVale98](https://twitter.com/TheVale98)
-: Simon Rätzer, [@LabVonUndZuMeow](https://twitter.com/LabVonUndZuMeow)
+: Joas Schilling, [@nickvergessen](https://twitter.com/nickvergessen)
+: Patrick Hahn, [@patrick246](https://patrick246.de)
