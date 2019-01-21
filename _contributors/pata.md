@@ -2,7 +2,7 @@
 nick:       "pata"
 name:       "patagona"
 twitter:    "@patagona"
-avatar:     "/uploads/avatars/avatar-pata.png"
+avatar:     "/uploads/avatars/avatar-pata.jpg"
 intro:      "Some guy who likes programming and electronics. C# Developer for a living. he. pansexual. free hugs."
 badges:   
     -   id: "102"
