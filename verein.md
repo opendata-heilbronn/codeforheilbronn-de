@@ -51,7 +51,9 @@ Die Satzung vom Code for Heilbronn findet ihr [hier](satzung.html).
 
 ## Mitgliedsanträge
 
-Die Mitgliedsanträge findet ihr im FabLab und [online](/uploads/Mitgliedsantrag.pdf).
+Die Mitgliedsanträge findet ihr im FabLab und [online](/uploads/Mitgliedsantrag.pdf). Minderjährige benötigen außerdem das [Einverständnis eines Erziehungsberechtigten](/uploads/Einverständniserklärung.pdf).
+
+Das Formular für das SEPA-Lastschriftverfahren gibt es ebenfalls [hier zum herunterladen](/uploads/CfH_SEPA_Lastschriftsmandat.pdf).
 
 ## Badges
 
