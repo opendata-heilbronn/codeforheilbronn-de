@@ -57,10 +57,10 @@ Das Formular für das SEPA-Lastschriftverfahren gibt es ebenfalls [hier zum heru
 ## Vorstand
 
 Vorstandsvorsitzender
-: Adrian Stabiszewski, [@nitegate](https://twitter.com/nitegate)
+: Jonathan Günz, [@harmoniemand](https://twitter.com/harmoniemand)
 
 Stellvertretender Vorstand
-: Jonathan Günz, [@harmoniemand](https://twitter.com/harmoniemand)
+: Patrick Hahn, [@patrick246](https://twitter.com/patrick24651)
 
 Kassenwart
 : Leandro Späth, [@_LeoDJ](https://twitter.com/_LeoDJ)
@@ -69,8 +69,8 @@ Pressewart
 : Franz Imschweiler, [@FranzImsch](https://twitter.com/FranzImsch)
 
 Beisitzer:
-: Steffen Jung, [@gravima](https://twitter.com/gravima)
-: Felix Ebert, [@femeb](https://twitter.com/femeb)
 : Valentin Fischer, [@TheVale98](https://twitter.com/TheVale98)
 : Joas Schilling, [@nickvergessen](https://twitter.com/nickvergessen)
-: Patrick Hahn, [@patrick246](https://patrick246.de)
+: Patrick Krämer [@patagona](https://twitter.com/patagona)
+: Martin Depta [@Crexodon](https://twitter.com/crexodon)
+: David Scheiklies [@Hir0ki](https://twitter.com/Hir0ki12/)
