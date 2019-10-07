@@ -10,4 +10,9 @@ badges:
     projects: 
       - projectname: "Shortlink Service"
         projecturl: https://codeforheilbronn.de/2018/07/03/Shortlink-Service.html
+  - id: "109"
+    date: "10.10.2018"
+    projects:
+      - projectname: "MyCFHN Presence"
+        projecturl: https://codeforheilbronn.de/projects/2018-10-10-mycfhn-presence
 ---
