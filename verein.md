@@ -14,9 +14,8 @@ gegründet, die das Vorbild der "Code for" Organisationen von Code for America
 übernahm.
 
 ## Code for Heilbronn e.V.
-Heute ist der Code for Heilbronn e. V. ein gemeinnütziger Verein
-und betreibt ein offenes FabLab in den Räumlichkeiten
-vom Coworking Space, organisiert Software- und Hardware-Workshops und setzt sich
+Heute ist der Code for Heilbronn e. V. ein gemeinnütziger Verein.
+Er organisiert Software- und Hardware-Workshops und setzt sich
 für die Veröffentlichung und den Einsatz offener Daten ein.
 
 Was vor einigen Jahren als kleine Gruppe von OpenData-begeisterten Softwareentwicklern begann,
@@ -41,9 +40,8 @@ News und aktuelle Informationen zu Terminen findet ihr auf unserem Twitter Accou
 ## Treffen und Öffnungszeiten
 
 Der feste Vereinstreff ist der Coding Abend &copy;, der jeden Donnerstag ab
-18 Uhr im Wollhaus, 5. Stock stattfindet.
-Das FabLab ist auch jeden zweiten Samstag ab 13 Uhr offen. Bitte schaut
-nach den genauen Öffnungszeiten auf [Meetup](https://meetup.com/codeforhn/).
+18 Uhr im Maker Space in der experimenta stattfindet.
+Bitte schaut nach den genauen Öffnungszeiten auf [Meetup](https://meetup.com/codeforhn/).
 
 ## Satzung
 
@@ -55,12 +53,6 @@ Die Mitgliedsanträge findet ihr im FabLab und [online](/uploads/Mitgliedsantrag
 
 Das Formular für das SEPA-Lastschriftverfahren gibt es ebenfalls [hier zum herunterladen](/uploads/CfH_SEPA_Lastschriftsmandat.pdf).
 
-## Badges
-
-Der Verein vergibt an aktive Mitglieder Badges. Badges sind kleine Sticker und
-eine Form der Anerkennung. Sie sollen dazu motivieren, Projekte fertig zu stellen und zu dokumentieren.
-
-Eine Liste aller Badges findet ihr [hier](badges.html).
 
 ## Vorstand
 
