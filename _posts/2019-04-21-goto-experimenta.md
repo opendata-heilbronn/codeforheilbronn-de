@@ -6,7 +6,6 @@ tags:
       - experimenta
 category: Allgemeines  
 published: true
-feature_image: /uploads/post_media/2018-07-03-Shortlink-Service.png
 date: 2019-04-21
 author: joni
 
