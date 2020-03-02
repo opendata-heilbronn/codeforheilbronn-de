@@ -21,7 +21,7 @@ Mit den RGB-LEDs lassen sich alle möglichen Farben, die durch additive Farbmisc
 ## Hardware
 Folgende Komponenten kamen für das Projekt zum Einsatz:
 * Ein Selenit,
-* ein Stück Edelholz als Plattform (Speierling, 48*48*8mm),
+* ein Stück Edelholz als Plattform (Speierling, 48\*48\*8mm),
 * ein ESP-12F,
 * ein AMS1117,
 * fünf WS2812B LEDs,
