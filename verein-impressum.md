@@ -5,14 +5,14 @@ title: About
 ---
 
 Code for Heilbronn e.V.  
-Am Wollhaus 1  
+Fischergasse 5  
 74072 Heilbronn  
 Amtsgericht Stuttgart / Vereinsregister 723257
 
 E-Mail: info ( @ ) codeforheilbronn.de
 
-Vorsitzender Adrian Stabiszewski  
-stellvertretender Vorsitzender Jonathan Günz  
+Vorsitzender Jonathan Günz  
+stellvertretender Vorsitzender Patrick Hahn  
 Schatzmeister Leandro Späth  
 
 Hiermit widersprechen wir ausdrücklich der Nutzung und/oder Übermittlung unserer hier genannten Kontaktdaten für kommerzielle Zwecke, Werbung oder für die Markt- und Meinungsforschung (§28 Abs. 3 BDSG). JEGLICHER MISSBRAUCH DER HIER ANGEGEBENEN DATEN WIRD ZUR ANZEIGE GEBRACHT!
