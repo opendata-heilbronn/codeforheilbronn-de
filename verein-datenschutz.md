@@ -55,10 +55,9 @@ Einwilligung ist jede von der betroffenen Person freiwillig für den bestimmten 
 Verantwortlicher im Sinne der Datenschutz-Grundverordnung, sonstiger in den Mitgliedstaaten der Europäischen Union geltenden Datenschutzgesetze und anderer Bestimmungen mit datenschutzrechtlichem Charakter ist die:
 
     Code For Heilbronn e.V.
-    Am Wollhaus 1
+    Fischergasse 5
     74072 Heilbronn
     Deutschland
-    Tel.: 01234567890
     E-Mail: info@codeforheilbronn.de
     Website: codeforheilbronn.de
 
