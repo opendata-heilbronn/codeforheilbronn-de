@@ -19,19 +19,15 @@ Er organisiert Software- und Hardware-Workshops und setzt sich
 für die Veröffentlichung und den Einsatz offener Daten ein.
 
 Was vor einigen Jahren als kleine Gruppe von OpenData-begeisterten Softwareentwicklern begann,
-hat sich zu etwas viel größerem entwickelt: Eine wöchentliche Veranstaltung in einem MakerSpace,
+hat sich zu etwas viel größerem entwickelt: Eine wöchentliche Veranstaltung in einem Maker Space,
 in dem sowohl Hardware-, als auch Softwareprojekte umgesetzt werden können.
 
 Für die große Community, die inzwischen die nationalen Grenzen überschritten hat,
 ist der Kerngedanke der gegenseitigen Hilfe stets im Vordergrund, wodurch jeder die Möglichkeit hat,
 seine Fähigkeiten zu erweitern und Neues zu lernen.
 
-Das FabLab umfasst inzwischen eine große Grundausstattung an Werkzeugen,
-sowie einen Lasercutter, zwei 3D-Drucker, eine Platinenfräse, Lötstationen, Labornetzteile und viele weitere
-nützliche Utensilien.
-
 Wer Lust und Interesse hat, mit Gleichgesinnten Projekte umzusetzen und sich neue Fähigkeiten anzueignen,
-ist herzlich dazu eingeladen, uns beim Coding Abend oder bei einem anderen Event im Coworking Space Heilbronn zu besuchen –
+ist herzlich dazu eingeladen, uns beim Coding Abend oder bei einem anderen Event im Maker Space experimenta in Heilbronn zu besuchen –
 und keine Angst, Vorkenntnisse sind nicht notwendig.
 
 News und aktuelle Informationen zu Terminen findet ihr auf unserem Twitter Account
@@ -40,7 +36,7 @@ News und aktuelle Informationen zu Terminen findet ihr auf unserem Twitter Accou
 ## Treffen und Öffnungszeiten
 
 Der feste Vereinstreff ist der Coding Abend &copy;, der jeden Donnerstag ab
-18 Uhr im Maker Space in der experimenta stattfindet.
+18 Uhr im [Maker Space in der experimenta](https://makerspace.experimenta.science/) stattfindet.
 Bitte schaut nach den genauen Öffnungszeiten auf [Meetup](https://meetup.com/codeforhn/).
 
 ## Satzung
