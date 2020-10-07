@@ -45,7 +45,7 @@ Die Satzung vom Code for Heilbronn findet ihr [hier](satzung.html).
 
 ## Mitgliedsanträge
 
-Die Mitgliedsanträge findet ihr im FabLab und [online](/uploads/Mitgliedsantrag.pdf). Minderjährige benötigen außerdem das [Einverständnis eines Erziehungsberechtigten](/uploads/Einverständniserklärung.pdf).
+Die Mitgliedsanträge findet ihr im Makerspace und [online](/uploads/Mitgliedsantrag.pdf). Minderjährige benötigen außerdem das [Einverständnis eines Erziehungsberechtigten](/uploads/Einverständniserklärung.pdf).
 
 Das Formular für das SEPA-Lastschriftverfahren gibt es ebenfalls [hier zum herunterladen](/uploads/CfH_SEPA_Lastschriftsmandat.pdf).
 
@@ -62,11 +62,12 @@ Kassenwart
 : Leandro Späth, [@_LeoDJ](https://twitter.com/_LeoDJ)
 
 Pressewart
-: Franz Imschweiler, [@FranzImsch](https://twitter.com/FranzImsch)
+: Mia Depta [@Crexodon](https://twitter.com/crexodon)
 
 Beisitzer:
 : Valentin Fischer, [@TheVale98](https://twitter.com/TheVale98)
-: Joas Schilling, [@nickvergessen](https://twitter.com/nickvergessen)
 : Patrick Krämer [@patagona](https://twitter.com/patagona)
-: Martin Depta [@Crexodon](https://twitter.com/crexodon)
 : David Scheiklies [@Hir0ki](https://twitter.com/Hir0ki12/)
+: Annika Haußmann [@Ann7ka2004](https://twitter.com/Ann7ka2004)
+: Armin Beck [@raspyweather](https://github.com/raspyweather)
+
