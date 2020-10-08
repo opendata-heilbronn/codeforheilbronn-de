@@ -4,7 +4,7 @@ title: Satzung
 ---
 
 Satzung von “Code for Heilbronn”
-in der von der Gründungsversammlung vom 24.07.2017 in Heilbronn beschlossenen Fassung.
+in der von der Mitgliederversammlung vom 24.09.2020 in Heilbronn/per Videokonferenz vorgestellten Fassung.
 
 
 ## § 1 Name, Sitz und Geschäftsjahr
@@ -25,9 +25,9 @@ in der von der Gründungsversammlung vom 24.07.2017 in Heilbronn beschlossenen F
 
 ## § 3 Gemeinnützigkeit
 
-1. Der Verein ist selbstlos tätig. Er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige im Sinne des Abschnitts “Steuerbegünstigte Zwecke” der Abgabenordnung (§§ 51 ff. AO) in der jeweils gültigen Fassung.
-2. Die Vereinsmittel werden ausschließlich zu satzungsgemäßen Zwecken verwendet. Es erfolgt keine Gewinnausschüttung an Vereinsmitglieder oder Dritte.
-3. Es erfolgt keine Begünstigung durch unverhältnismäßig hohe Vergütung oder durch Ausgaben, die dem Vereinszweck nicht entsprechen.
+1. Der Verein ist selbstlos tätig. Er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts “Steuerbegünstigte Zwecke” der Abgabenordnung.
+2. Mittel des Verein dürfen nur für die satzungsmäßigen Zwecke verwendet werden. Die Mitglieder erhalten keine Zuwendungen aus Mitteln des Vereins.
+3. Es darf keine Person durch Ausgaben, die dem Zweck des Vereins fremd sind oder durch Unverhältnismäßig hohe Vergütungen begünstigt werden.
 
 ## § 4 Erwerb der Mitgliedschaft, Beiträge
 1. Ordentliche Mitglieder des Vereins können alle natürlichen Personen werden, die bereit sind, die in §2 genannten Zwecke und Ziele des Vereins ideell oder materiell zu unterstützen.
@@ -93,7 +93,7 @@ in der von der Gründungsversammlung vom 24.07.2017 in Heilbronn beschlossenen F
 
 ## § 11 Vereinsfinanzierung, Auflösung des Vereins
 
-1. Bei Auflösung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an eine juristische Person des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft zwecks Verwendung für Förderung von Wissenschaft und Forschung und / oder der Volksbildung.
+1. Bei Auflösung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an eine Körperschaft des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft zwecks Verwendung für Förderung von Wissenschaft und Forschung und / oder der Volksbildung.
 
 ## § 12 Inkraftsetzung
 
