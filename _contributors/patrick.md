@@ -3,7 +3,7 @@ nick:       "patrick"
 name:       "Patrick"
 twitter:    "@patrick24651"
 avatar:     "/uploads/avatars/avatar-patrick.jpg"
-intro:      "Software-Mensch. Arbeitet gerne mit JavaScript, Java, C++, Angular, Spring Boot und Docker"
+intro:      "Software-Mensch. Arbeitet gerne mit Go, Java und Typescript. Containerization, High-Availability und Observability-Fan"
 badges:
   - id: "108"
     date: "05.07.2018"
