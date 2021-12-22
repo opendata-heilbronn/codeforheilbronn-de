@@ -10,6 +10,7 @@ registration: https://pretix.hmnd.de/cfhn/rc3-21/
 date: 2021-12-21
 author: mia
 ---
+[English version down below]
 
 Dieses Jahr findet wie letztes Jahr pandemiebedingt die Jahresendveranstaltung des Chaos Computer Clubs online statt.
 Hierzu wird es eine virtuelle Online-Welt geben in der sich Assemblies treffen können und Talks gemeinsam anschauen.
