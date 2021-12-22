@@ -22,3 +22,17 @@ An die Teilnehmenden wird demnächst eine Info mit Hygienemaßnahmen, Programmab
 Tickets: [gibt's hier](https://pretix.hmnd.de/cfhn/rc3-21/)
 
 Wir freuen uns auf euch!
+
+English Version:
+
+This year, like last year, the year-end event of the Chaos Computer Club will take place online due to the pandemic.
+There will be a virtual online world where assemblies can meet and watch talks together.
+
+Due to the current pandemic situation we would like to meet together in a smaller group. For this purpose, the [42 in Heilbronn](https://www.42heilbronn.de/) has kindly made their location available to us as an event space. The tickets for the event have already been passed around on the usual channels.
+
+Should the situation worsen further or the government impose additional restrictions, we may have to consider canceling the event, even on short notice.
+Information will soon be sent to the participants with hygiene measures, program schedule and more to the email address provided.
+
+Tickets: [available here](https://pretix.hmnd.de/cfhn/rc3-21/)
+
+We are looking forward to seeing you!
