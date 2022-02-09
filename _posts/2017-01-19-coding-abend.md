@@ -9,7 +9,7 @@ categories:
   - FarmBot
 layout: post
 published: true
-teaser: "Der Farmbot kann nun per G-Code angesteuert werden."
+excerpt: "Der Farmbot kann nun per G-Code angesteuert werden."
 author: leo
 ---
 
