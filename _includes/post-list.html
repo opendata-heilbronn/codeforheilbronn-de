@@ -45,9 +45,13 @@
 
               <p>{{ page.teaser }}</p>
             {% else %}
-            <h2><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h2>
-            {% include post-meta.html %}
-            {{ page.excerpt | truncatewords: 60 | markdownify}}
+              <h2><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h2>
+              {% include post-meta.html %}
+              {% if page.teaser %}
+                <p>{{ page.teaser }}</p>
+              {% else %}
+                {{ page.excerpt | truncatewords: 60 | markdownify}}
+              {% endif %}
             {% endif %}
           </article>
         </li>
