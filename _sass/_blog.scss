@@ -1,3 +1,14 @@
 .typeset small {
     line-height: 1.5rem;
 }
+
+table.table-bordered {
+    margin: 0.5rem 0;
+}
+
+table.table-bordered,
+table.table-bordered thead th,
+table.table-bordered td {
+    border: 1px solid #ddd;
+    padding: 0 0.25rem;
+}
