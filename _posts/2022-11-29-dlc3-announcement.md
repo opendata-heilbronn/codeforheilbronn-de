@@ -28,7 +28,7 @@ This year, due to the pandemic, there will again be no CCC-Congress in presence 
 
 We invite you to enjoy streams, the bar as well as hacking together in a cozy atmosphere. For this, the [42heilbronn](https://www.42heilbronn.de/) has kindly provided us with their location as an eventspace. In addition, this year we also offer a stage for talks, [here is our Call for Participation](https://pretalx.cfhn.it/dlc3-2022/)!
 
-There will be warm food (vegetarian or vegan, bookable with your ticket) in the evening on three days as well as a selection of drinks for a donation.[https://www.42heilbronn.de/](https://www.42heilbronn.de/))
+There will be warm food (vegetarian or vegan, bookable with your ticket) in the evening on three days as well as a selection of drinks for a donation.
 
 A detailed food plan and event schedule will follow!
 
