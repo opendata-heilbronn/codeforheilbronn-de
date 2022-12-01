@@ -24,7 +24,7 @@ Ein genauer Essens- sowie Fahrplan folgt!
 
 Tickets: [gibt's hier](https://pretix.cfhn.it/cfhn/dlc3-2022/)
 
-[This year, due to the pandemic, there will again be no CCC-Congress in presence and there will also be no (online) year-end event. Instead, we make our own decentralised, local, Chaos Communication Congress to the usual days of 27.12. - 30.12. in Heilbronn.
+This year, due to the pandemic, there will again be no CCC-Congress in presence and there will also be no (online) year-end event. Instead, we make our own decentralised, local, Chaos Communication Congress to the usual days of 27.12. - 30.12. in Heilbronn.
 
 We invite you to enjoy streams, the bar as well as hacking together in a cozy atmosphere. For this, the [42heilbronn](https://www.42heilbronn.de/) has kindly provided us with their location as an eventspace. In addition, this year we also offer a stage for talks, [here is our Call for Participation](https://pretalx.cfhn.it/dlc3-2022/)!
 
