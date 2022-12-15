@@ -53,21 +53,21 @@ Das Formular für das SEPA-Lastschriftverfahren gibt es ebenfalls [hier zum heru
 ## Vorstand
 
 Vorstandsvorsitzender
-: Jonathan Günz, [@harmoniemand](https://twitter.com/harmoniemand)
+: Jonathan Günz [Direkter Kontakt](https://harmoniemand.de/)
 
 Stellvertretender Vorstand
-: Patrick Hahn, [@patrick246](https://twitter.com/patrick24651)
+: Patrick Hahn [Direkter Kontakt](https://patrick246.de/)
 
 Kassenwart
-: Leandro Späth, [@_LeoDJ](https://twitter.com/_LeoDJ)
+: Leandro Späth, [Direkter Kontakt](https://twitter.com/_LeoDJ)
 
 Pressewart
-: Mia Depta [@Crexodon](https://twitter.com/crexodon)
+: Mia Depta [Direkter Kontakt](https://twitter.com/crexodon)
 
 Beisitzer:
-: Valentin Fischer, [@TheVale98](https://twitter.com/TheVale98)
-: Patrick Krämer [@patagona](https://twitter.com/patagona)
-: David Scheiklies [@Hir0ki](https://twitter.com/Hir0ki12/)
-: Annika Haußmann [@Ann7ka2004](https://twitter.com/Ann7ka2004)
-: Armin Beck [@raspyweather](https://github.com/raspyweather)
+: Anke Fischer [Direkter Kontakt](mailto:info@codeforheilbronn.de)
+: Anna-Saray Rohmann [Direkter Kontakt](mailto:info@codeforheilbronn.de)
+: Annika Haußmann [Direkter Kontakt](https://twitter.com/Ann7ka2004)
+: Patrick Krämer [Direkter Kontakt](https://patagona.dev/)
+: Valentin Fischer, [Direkter Kontakt](https://twitter.com/TheVale98)
 
