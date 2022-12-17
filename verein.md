@@ -47,7 +47,7 @@ Die Satzung vom Code for Heilbronn findet ihr [hier](satzung.html).
 
 Die Mitgliedsanträge findet ihr im Makerspace und [online](/uploads/Mitgliedsantrag.pdf). Minderjährige benötigen außerdem das [Einverständnis eines Erziehungsberechtigten](/uploads/Einverständniserklärung.pdf).
 
-Das Formular für das SEPA-Lastschriftverfahren gibt es ebenfalls [hier zum herunterladen](/uploads/CfH_SEPA_Lastschriftsmandat.pdf).
+Das Formular für das SEPA-Lastschriftverfahren gibt es ebenfalls [hier zum herunterladen](/uploads/CFHN_SEPA-Lastschriftmandat_V3.1.pdf).
 
 
 ## Vorstand
