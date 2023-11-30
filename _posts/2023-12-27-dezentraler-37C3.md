@@ -6,10 +6,10 @@ tags: [CCC, 37C3]
 feature_image: /uploads/post_media/2023-12-27-dezentraler-37C3/header.png
 published: true
 category: Einladung
-registration: https://pretix.cfhn.it/cfhn/odd23/
-date: 2023-02-24
-excerpt: "Der Open Data Day ist ein weltweites Festival für Offene Daten. Wir veranstalten vom 4. bis 5. März hierzu einen Hackathon."
-author: mia
+registration: https://cloud.cfhn.it/apps/forms/s/yTRWKzgBDsTT2LwNLBWdtKDZ
+date: 2023-11-30
+excerpt: "Ein dezentraler Ableger des 37. Chaos Communication Congress in Heilbronn"
+author: joni
 ---
 (English Version down below)
 
@@ -29,10 +29,10 @@ Interessante Vorträge - Live vom Congress in Hamburg
 Ein Raum für Experimente und kreative Projekte
 Eure Teilnahme stärkt unsere Gemeinschaft und fördert den gemeinsamen Austausch. 
 
-Unverbindliche Anmeldung zur besseren Planung: https://cloud.cfhn.it/apps/forms/s/yTRWKzgBDsTT2LwNLBWdtKDZ
+Unverbindliche Anmeldung zur besseren Planung: [https://cloud.cfhn.it/apps/forms/s/yTRWKzgBDsTT2LwNLBWdtKDZ](https://cloud.cfhn.it/apps/forms/s/yTRWKzgBDsTT2LwNLBWdtKDZ)
 
 
-(English Version)
+#### English Version
 
 Dear Beings of Chaos,
 
@@ -45,8 +45,9 @@ Dive into the world of technology, creativity, and innovation. We offer a platfo
 
 What to expect:
 
-    Interesting lectures - live from the Congress in Hamburg
-    A space for experiments and creative projects
-    Your participation strengthens our community and promotes mutual exchange.
+Interesting lectures - live from the Congress in Hamburg
+A space for experiments and creative projects
+Your participation strengthens our community and promotes mutual exchange.
 
-Non-binding registration for better planning: https://cloud.cfhn.it/apps/forms/s/yTRWKzgBDsTT2LwNLBWdtKDZ
+Non-binding registration for better planning: [https://cloud.cfhn.it/apps/forms/s/yTRWKzgBDsTT2LwNLBWdtKDZ](https://cloud.cfhn.it/apps/forms/s/yTRWKzgBDsTT2LwNLBWdtKDZ)
+
