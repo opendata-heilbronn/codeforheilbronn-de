@@ -1,7 +1,8 @@
-version: '2'
+version: '3.8'
+
 services:
   jekyll_dev:
-    image: cfhn-jekyll-dev
+    # image: jekyll/jekyll:builder
     build: .
     volumes:
       - ./:/cfhn

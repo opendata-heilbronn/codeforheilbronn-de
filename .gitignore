@@ -3,3 +3,4 @@ _site
 .scss-cache
 \.sass-cache/
 .idea
+.jekyll-cache/
