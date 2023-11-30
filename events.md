@@ -8,8 +8,6 @@ Der __CodingAbend__, als allgemeines Treffen aller Aktiven, findet jeden Donners
 Dort wird zusammen an diversen Projekten gearbeitet. Die Termine und genauere Beschreibungen können auf
 Meetup nachgesehen werden.
 
-[Hier geht es zu unserer Meetup-Page.](https://www.meetup.com/de-DE/codeforhn/)
-
 # Einladungen zu kommenden und vergangenen Events
 
 <div class="cfh-cards">
