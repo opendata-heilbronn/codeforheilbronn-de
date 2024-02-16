@@ -1,15 +1,27 @@
-FROM jekyll/jekyll:builder
+# STAGE: Builder
 
-RUN gem install public_suffix
+FROM jekyll/jekyll:builder as builder
 
-
-# RUN apt update -y && \
-#     apt install -y software-properties-common && \
-#     apt-add-repository ppa:brightbox/ruby-ng && \
-#     apt update -y && \
-#     apt install -y ruby2.7 ruby2.7-dev build-essential autoconf libcurl3-gnutls libcurl3-nss && \
-#     gem install -f ffi && \
-#     gem install jekyll bundler
-# RUN bundle config --global silence_root_warning 1
 WORKDIR /cfhn
-CMD ["bash", "-c", "bundle install && bundle exec jekyll serve --host 0.0.0.0"]
+
+COPY . /cfhn/
+
+RUN chmod -R 777 /cfhn
+RUN gem install public_suffix
+# RUN gem install jekyll
+# RUN gem install jekyll-seo-tag
+# RUN gem install jekyll-sitemap
+# RUN gem install jekyll-redirect-from
+# RUN gem install jekyll-feed
+# RUN gem install tzinfo-data
+
+# RUN gem install bundler
+RUN bash -c "bundle install"
+RUN bash -c "bundle exec jekyll build"
+
+
+
+# STAGE: Production
+
+FROM nginx:alpine as production
+COPY --from=builder /cfhn/_site/ /usr/share/nginx/html/

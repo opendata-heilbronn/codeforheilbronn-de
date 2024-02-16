@@ -1,42 +1,30 @@
 # codeforheilbronn-de
 
-## Wie kann ich beitragen?
+This repository contains the source code for the website of Code for Heilbronn e.V. (https://codeforheilbronn.de).
 
-### Blogbeitrag schreiben
+## How to support?
 
-Um einen neuen Blogbeitrag zu schreiben, lege dir zuerst einen neuen Branch an. Das Namensschema für Blogbeiträge ist "blog/[year]-[month]-[day]-[title]
+### Writing a blog post
 
-Der neue Blogbeitrag wird dann als neue Markdown-File unter '\_posts' abgelegt.
-Wenn du Bilder etc in deinen Beitrag einbinden möchtest, kannst du diese unter 'uploads/post_media' ablegen. Bei einzelnen Bildern, kannst du das Bild direkt in den Ordner legen. Wenn du mehrere Bilder hast, lege bitte einen neuen Ordner an und nenne ihn genau wie die Markdown-Datei (nur ohne .md).
+To write a new blog post, first create a new branch. The naming scheme for blog posts is "blog/[year]-[month]-[day]-[title]
 
-### Projekt veröffentlichen
+Create a new file under '\_posts' with the following naming scheme: [year]-[month]-[day]-[title].md
 
-Wenn du ein Projekt auf der Website veröffentlichen willst, dann lege dir zuerst einen neuen Branch an. Das Namensschema für Projekte ist "project/[year]-[month]-[day]-[title]
-Lege dir, für dein Projekt, einen neuen Eintrag unter '\_projects' an. Die Bilder für Projekte werden in 'uploads/\_prj_media' abgelegt. Das Vorgehen ist wie bei Blogeinträgen.
+If you want to include images etc in your post, you can put them under 'uploads/post_media'. For individual images, you can put the image directly into the folder. If you have multiple images, please create a new folder and name it exactly like the markdown file (without .md).
 
-### Änderungen am Layout / allgemeine neue Features
+### Publishing a project
 
-Das Namensschema für neue Features ist "feature/[title]
+If you want to publish a project on the website, first create a new branch. The naming scheme for projects is "project/[year]-[month]-[day]-[title]
+Create a new file under '\_projects' with the following naming scheme: [year]-[month]-[day]-[title].md
+Images for projects are stored in 'uploads/\_prj_media'. The procedure is the same as for blog posts.
+
+### Changing the layout / general new features
+
+If you want to change the layout or add new features, please create a new branch. The naming scheme for new features is "feature/[title]
 
 
 ## Getting Started
-If ruby and the gem bundler is installed, run `bundle install` to install all further dependencies
 
-To host the site locally run `bundle exec jekyll serve`
+hosting a local development server, just use the following command:
 
-## JekyllWorkshop
-
-    sudo apt-add-repository ppa:brightbox/ruby-ng
-    sudo apt update
-    sudo apt install ruby2.5 ruby2.5-dev build-essential autoconf libcurl3
-    sudo gem install -f ffi
-    sudo gem install jekyll bundler
-    git clone https://github.com/opendata-heilbronn/codeforheilbronn-de
-    cd codeforheilbronn-de
-    bundle install
-    bundle exec jekyll serve
-
-oder alternativ mit Docker
-
-    docker build -t cfhn/cfhn-dev .
-    docker run -v $PWD:/cfhn -p 4000:4000 cfhn/cfhn-dev
+    docker-compose up
