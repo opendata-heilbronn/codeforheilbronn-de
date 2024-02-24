@@ -25,3 +25,5 @@ redirect_from:
 
 Das MateLight ist eine Lichtinstallation mit künstlerischem und technischem Fokus. Ziel ist es, eine Wand aus Kästen zu bauen, auf der Animationen abgespielt werden können.
 Im Rahmen des Projektes soll ein besseres Verständnis für die Arbeit mit Arduinos und zeitkritischen Kommunikationsabläufen entstehen.
+
+Link zum GIthub Repo: [github](https://github.com/opendata-heilbronn/matelight)
