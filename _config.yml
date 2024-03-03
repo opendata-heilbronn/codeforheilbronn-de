@@ -35,6 +35,7 @@ collections:
 navigation_header:
   Blog: /
   Verein: /verein
+  Open Data: /open-data
   Badges: /badges
   Projekte: /projects
   Termine: /events
