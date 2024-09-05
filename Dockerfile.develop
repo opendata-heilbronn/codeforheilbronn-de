@@ -1,6 +1,6 @@
 FROM jekyll/jekyll:builder
 
-RUN gem install public_suffix
+RUN gem install public_suffix -v 5.1.1
 
 
 # RUN apt update -y && \
