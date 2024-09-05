@@ -7,7 +7,7 @@ WORKDIR /cfhn
 COPY . /cfhn/
 
 RUN chmod -R 777 /cfhn
-RUN gem install public_suffix
+RUN gem install public_suffix -v 5.1.1
 # RUN gem install jekyll
 # RUN gem install jekyll-seo-tag
 # RUN gem install jekyll-sitemap
