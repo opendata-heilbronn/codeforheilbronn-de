@@ -5,8 +5,9 @@ title: About
 ---
 
 Code for Heilbronn e.V.  
-Fischergasse 5  
-74072 Heilbronn  
+Oderstraße 9
+74172 Neckarsulm
+
 Amtsgericht Stuttgart / Vereinsregister 723257
 
 E-Mail: info ( @ ) codeforheilbronn.de
