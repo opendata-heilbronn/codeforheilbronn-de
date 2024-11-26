@@ -9,7 +9,7 @@ title: Verein
 Der Code for Heilbronn e. V. wurde am 24.07.2017 in Heilbronn gegründet. Code
 for Heilbronn war zuvor eine offene Initiative, die von Felix Ebert
 und Adrian Stabiszewski im Jahre 2014 gegründet wurde. Die Intiative wurde
-auf Einladung der [Open Knowledge Foundation Deutschland](https://oknf.de)
+auf Einladung der [Open Knowledge Foundation Deutschland](https://okfn.de/ )
 gegründet, die das Vorbild der "Code for" Organisationen von Code for America
 übernahm.
 
@@ -30,14 +30,14 @@ Wer Lust und Interesse hat, mit Gleichgesinnten Projekte umzusetzen und sich neu
 ist herzlich dazu eingeladen, uns beim Coding Abend oder bei einem anderen Event im Maker Space experimenta in Heilbronn zu besuchen –
 und keine Angst, Vorkenntnisse sind nicht notwendig.
 
-News und aktuelle Informationen zu Terminen findet ihr auf unserem Twitter Account
-[@codeforhn](https://twitter.com/codeforhn) und auf [Meetup](https://meetup.com/codeforhn/).
+News und aktuelle Informationen zu Terminen findet ihr auf unserem Mastodon Account
+[@cfhn](https://chaos.social/@cfhn) und auf unserem [Eventkalender](events.html).
 
 ## Treffen und Öffnungszeiten
 
 Der feste Vereinstreff ist der Coding Abend &copy;, der jeden Donnerstag ab
 18 Uhr im [Maker Space in der experimenta](https://makerspace.experimenta.science/) stattfindet.
-Bitte schaut nach den genauen Öffnungszeiten auf [Meetup](https://meetup.com/codeforhn/).
+Bitte schaut nach den genauen Öffnungszeiten auf unserem [Eventkalender](events.html).
 
 ## Satzung
 
@@ -53,21 +53,20 @@ Das Formular für das SEPA-Lastschriftverfahren gibt es ebenfalls [hier zum heru
 ## Vorstand
 
 Vorstandsvorsitzender
-: Jonathan Günz [Direkter Kontakt](https://harmoniemand.de/)
-
-Stellvertretender Vorstand
 : Patrick Hahn [Direkter Kontakt](https://patrick246.de/)
 
+Stellvertretender Vorstand
+: Valentin Fischer [Direkter Kontakt](https://chaos.social/@techbeard)
+
 Kassenwart
-: Leandro Späth, [Direkter Kontakt](https://twitter.com/_LeoDJ)
+: Leandro Späth, [Direkter Kontakt](https://chaos.social/@LeoDJ)
 
 Pressewart
-: Mia Depta [Direkter Kontakt](https://twitter.com/crexodon)
+: Mia Depta [Direkter Kontakt](https://depta.dev)
 
 Beisitzer:
 : Anke Fischer [Direkter Kontakt](mailto:info@codeforheilbronn.de)
-: Anna-Saray Rohmann [Direkter Kontakt](mailto:info@codeforheilbronn.de)
-: Annika Haußmann [Direkter Kontakt](https://twitter.com/Ann7ka2004)
+: David Mülheims [Direkter Kontakt](Westfuchs@mastodon.social)
+: Jascha Kasper [Direkter Kontakt](kyomawolf@mastodon.social)
+: Jonathan Günz [Direkter Kontakt](https://harmoniemand.de/)
 : Patrick Krämer [Direkter Kontakt](https://patagona.dev/)
-: Valentin Fischer, [Direkter Kontakt](https://twitter.com/TheVale98)
-
