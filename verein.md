@@ -66,7 +66,7 @@ Pressewart
 
 Beisitzer:
 : Anke Fischer [Direkter Kontakt](mailto:info@codeforheilbronn.de)
-: David Mülheims [Direkter Kontakt](Westfuchs@mastodon.social)
-: Jascha Kasper [Direkter Kontakt](kyomawolf@mastodon.social)
+: David Mülheims [Direkter Kontakt](https://mastodon.social/@Westfuchs)
+: Jascha Kasper [Direkter Kontakt](https://mastodon.social/@kyomawolf)
 : Jonathan Günz [Direkter Kontakt](https://harmoniemand.de/)
 : Patrick Krämer [Direkter Kontakt](https://patagona.dev/)
