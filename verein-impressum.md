@@ -5,19 +5,20 @@ title: About
 ---
 
 Code for Heilbronn e.V.  
-Oderstraße 9
-74172 Neckarsulm
+c/o Experimenta gGmbH  
+Experimenta-Platz  
+74072 Heilbronn  
 
 Amtsgericht Stuttgart / Vereinsregister 723257
 
 E-Mail: info ( @ ) codeforheilbronn.de
 
-Vorsitzender Jonathan Günz  
-stellvertretender Vorsitzender Patrick Hahn  
+Vorsitzender Patrick Hahn  
+stellvertretender Vorsitzender Valentin Fischer  
 Schatzmeister Leandro Späth  
 
 Hiermit widersprechen wir ausdrücklich der Nutzung und/oder Übermittlung unserer hier genannten Kontaktdaten für kommerzielle Zwecke, Werbung oder für die Markt- und Meinungsforschung (§28 Abs. 3 BDSG). JEGLICHER MISSBRAUCH DER HIER ANGEGEBENEN DATEN WIRD ZUR ANZEIGE GEBRACHT!
-Dieses Impressum ist gültig für sämtliche Dienste und Websites die unter der Domain codeforheilbronn.de oder unter Subdomains dieser Domain erreichbar sind.
+Dieses Impressum ist gültig für sämtliche Dienste und Websites die unter der Domain codeforheilbronn.de, cfhn.it oder unter Subdomains dieser Domains erreichbar sind.
 
 
 Inhaltlich Verantwortlicher gemäß § 55 Abs. 2 RStV:  
