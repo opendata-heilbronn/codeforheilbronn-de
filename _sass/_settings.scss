@@ -23,7 +23,7 @@ $bodytype: (
 );
 
 $headingtype: (
-  font-family: '"Merriweather", serif',
+  font-family: 'serif',
   regular: 400,
   bold: 700,
   cap-height: 0.75
@@ -34,6 +34,3 @@ $monospacetype: (
   regular: 400,
   cap-height: 0.68
 );
-
-// Font import, if you're using a non-standard web font
-@import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
